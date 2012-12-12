@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<provincia>
+<row><id_prov type="smallint" >3161</id_prov><id_comunidad type="smallint" >317</id_comunidad><prov_name type="varchar"  label="County">Orange</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3162</id_prov><id_comunidad type="smallint" >317</id_comunidad><prov_name type="varchar"  label="County">Bennington</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3163</id_prov><id_comunidad type="smallint" >317</id_comunidad><prov_name type="varchar"  label="County">Washington</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3164</id_prov><id_comunidad type="smallint" >317</id_comunidad><prov_name type="varchar"  label="County">Lamoille</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3165</id_prov><id_comunidad type="smallint" >317</id_comunidad><prov_name type="varchar"  label="County">Rutland</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3166</id_prov><id_comunidad type="smallint" >317</id_comunidad><prov_name type="varchar"  label="County">Grand Isle</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3167</id_prov><id_comunidad type="smallint" >317</id_comunidad><prov_name type="varchar"  label="County">Caledonia</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3168</id_prov><id_comunidad type="smallint" >317</id_comunidad><prov_name type="varchar"  label="County">Franklin</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3169</id_prov><id_comunidad type="smallint" >317</id_comunidad><prov_name type="varchar"  label="County">Chittenden</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3170</id_prov><id_comunidad type="smallint" >317</id_comunidad><prov_name type="varchar"  label="County">Essex</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3171</id_prov><id_comunidad type="smallint" >317</id_comunidad><prov_name type="varchar"  label="County">Windham</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3172</id_prov><id_comunidad type="smallint" >317</id_comunidad><prov_name type="varchar"  label="County">Addison</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3173</id_prov><id_comunidad type="smallint" >317</id_comunidad><prov_name type="varchar"  label="County">Windsor</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3174</id_prov><id_comunidad type="smallint" >317</id_comunidad><prov_name type="varchar"  label="County">Orleans</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+</provincia>
+</root>

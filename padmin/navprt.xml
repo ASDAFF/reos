@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<navigator>
+
+<page>
+<head>
+<block>head</block>
+</head>
+<footer>
+<block>pie_central</block>
+</footer>
+</page>
+<style>
+style/style.css
+</style>
+</navigator>

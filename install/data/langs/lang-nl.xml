@@ -1,0 +1,946 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<labels>
+<row><id_name type="varchar" >_0</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Nee</txt_label></row>
+<row><id_name type="varchar" >_1</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Ja</txt_label></row>
+<row><id_name type="varchar" >_ABOUTUS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Wie zijn wij?</txt_label></row>
+<row><id_name type="varchar" >_ACCOUNTS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ACONSULTAR</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Raadplegen</txt_label></row>
+<row><id_name type="varchar" >_ACTIVE</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Actief</txt_label></row>
+<row><id_name type="varchar" >_ACTIVE_ALL</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ACTIVITIES_LIST</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ADD</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ADDIMG</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ADDIMGNOT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ADDPOINT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Google Maps</txt_label></row>
+<row><id_name type="varchar" >_ADDPRICELST</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ADDPRICEPRD</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ADDT_FILES</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ADD_ACCOUNT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ADD_CITY</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ADD_COMDAD</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ADD_CONTACT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ADD_COUNTRY</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ADD_CTG</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ADD_DEPT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ADD_GAL</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ADD_IMG_GAL</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ADD_IMMO</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ADD_MAILING</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ADD_NEW</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ADD_PERFIL</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ADD_PERM</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ADD_PICTURE</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ADD_POSITION</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ADD_PROD</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ADD_PROV</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ADD_SCR</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ADD_SDAY</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ADD_SEASON</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ADD_TICKET</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ADD_TK_CTG</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ADD_USER</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ADD_VAL</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ADD_VIEW</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ADD_ZONA</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ADMIN</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ALL_ACCOUNTS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ALL_IMMOS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ALL_NEWS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ALL_TICKETS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ANY</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Neutraal</txt_label></row>
+<row><id_name type="varchar" >_APP_FILE</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_APRIL</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >April</txt_label></row>
+<row><id_name type="varchar" >_ASIGN_POB</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_AUGUST</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Augustus</txt_label></row>
+<row><id_name type="varchar" >_AVG_DAY_HITS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_AVG_DAY_ROBOTS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_AVG_DAY_VISITS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_BACK</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Terugkeren</txt_label></row>
+<row><id_name type="varchar" >_BACKUP</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_BOOK</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_BOOKINGS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_BOOKING_VALID</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_BOOKVALID</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_BOOK_ISVALID</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_BOOK_TXT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_BORRAR</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Wissen</txt_label></row>
+<row><id_name type="varchar" >_BUGGET</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Prijsopgave &quot;._CURRENCY.&quot;</txt_label></row>
+<row><id_name type="varchar" >_BUSY</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Bezet</txt_label></row>
+<row><id_name type="varchar" >_BUSYBOOKING</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_BUYERS_ACCOUNTS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_BUY_GUIDE</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Koopgids</txt_label></row>
+<row><id_name type="varchar" >_CALC</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Berekenen</txt_label></row>
+<row><id_name type="varchar" >_CALC_INM</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Berekening van afbetalingstermijnen van hypotheek</txt_label></row>
+<row><id_name type="varchar" >_CALC_LOAN_PAYMENTS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Berekening van afbetalingstermijnen van hypotheek </txt_label></row>
+<row><id_name type="varchar" >_CALENDAR</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_CAPTCHA</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_CATALOG</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_CHANGE_PASS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Wachtwoord wijzigen</txt_label></row>
+<row><id_name type="varchar" >_CHARSET</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >UTF-8</txt_label></row>
+<row><id_name type="varchar" >_CMT_CSSFILE</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_CMT_IMAG</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_CMT_XMLNAV</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_CMT_XMLOUTPUT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_CMT_XMLPRT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_CMT_XSLFILE</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_CMT_XSLPRT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_COD</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_COD_CATEGORY</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_COD_LANG</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_COD_PRODUCT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_COMDAD_NAME</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_COMO</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_COM_APER</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Bereidstellingsprovisie</txt_label></row>
+<row><id_name type="varchar" >_CONFIRM</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Bevestiging van registratie</txt_label></row>
+<row><id_name type="varchar" >_CONNECTED_AS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Verbinding aangegaan als</txt_label></row>
+<row><id_name type="varchar" >_CONTACTAR</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Contact opnemen</txt_label></row>
+<row><id_name type="varchar" >_CONTACTS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_CONTENTS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_CPASS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_CSSCONFIG</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_CSSFILE</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_CSS_DELETED</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_CTG</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_CTGS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_CTG_BELONGS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_CTG_HAS_PROD</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_CTG_NO_EXIST</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_CTG_NO_NAME</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_CURRENT_PASS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Huidig wachtwoord</txt_label></row>
+<row><id_name type="varchar" >_CUSTOMER</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Klant</txt_label></row>
+<row><id_name type="varchar" >_CUSTZONE</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_DATE</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_DATEMP</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_DATETIME_SQL</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >'%d/%m/%Y - %H:%i'</txt_label></row>
+<row><id_name type="varchar" >_DATE_FORMAT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >d/m/Y</txt_label></row>
+<row><id_name type="varchar" >_DATE_FT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Datum</txt_label></row>
+<row><id_name type="varchar" >_DATE_SQL</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >'%d/%m/%Y'</txt_label></row>
+<row><id_name type="varchar" >_DATOS_PERS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Persoonlijke gegevens</txt_label></row>
+<row><id_name type="varchar" >_DATPERS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_DAY</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Dag</txt_label></row>
+<row><id_name type="varchar" >_DEACTIVE_ALL</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_DECEMBER</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >December</txt_label></row>
+<row><id_name type="varchar" >_DEC_POINT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >,</txt_label></row>
+<row><id_name type="varchar" >_DELETE</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_DELETED</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_DEPT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_DEPTS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_DESC_CATEGORY</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_DESC_PROD</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_DO_CALC</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Berekening van hypotheek</txt_label></row>
+<row><id_name type="varchar" >_DTL</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_DTL_ACCOUNT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_DTL_ACCPERFIL</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_DTL_PROP</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Gegevens over het pand</txt_label></row>
+<row><id_name type="varchar" >_DT_CREATE</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_DT_END</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_DT_SENT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_DT_START</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_DT_VAL</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_DT_VALID</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDIT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Bewerken</txt_label></row>
+<row><id_name type="varchar" >_EDTACC</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDTCOMDAD</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDTCONTACT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDTCOUNTRY</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDTCTG</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDTGAL</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Galerie</txt_label></row>
+<row><id_name type="varchar" >_EDTHIMMO</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDTHTML</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDTIMMO</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Onroerend goed</txt_label></row>
+<row><id_name type="varchar" >_EDTIMMOGAL</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDTLABEL</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDTLST</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDTMAILING</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDTMSG</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDTORG</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDTPERFIL</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDTPERM</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDTPOB</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDTPOSITION</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDTPRD</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDTPRDGAL</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDTPREF</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDTPRICELST</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDTPRICEPRD</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDTPROV</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDTSCR</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDTSDAY</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDTSEASON</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDTTICKET</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDTTKCTG</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDTTKEMAIL</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDTUSER</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDTVIEW</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDT_ACCOUNT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Klant bewerken</txt_label></row>
+<row><id_name type="varchar" >_EDT_CONTACT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDT_CTG</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDT_DEPT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDT_EMPL</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDT_GAL</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDT_IMMO</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDT_MAILING</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDT_NEW</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDT_PERM</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDT_PROD</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDT_SCR</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDT_USER</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDT_VAL</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDT_VIEW</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EMPL</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EMPLES</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ENVIAR</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Verzenden</txt_label></row>
+<row><id_name type="varchar" >_EQUIP_LIST</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ERROR_CAPTCHA</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Check woordverificatie.</txt_label></row>
+<row><id_name type="varchar" >_ERROR_CHECK_PSW</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ERROR_CONTENT_MAILING</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ERROR_CURRENT_PSW</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Huidig wachtwoord incorrect</txt_label></row>
+<row><id_name type="varchar" >_ERROR_DATS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ERROR_DELETE</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ERROR_DIR_GAL</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ERROR_EMAIL_USER</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >U moet het e-mailadres invullen</txt_label></row>
+<row><id_name type="varchar" >_ERROR_ES_IN</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ERROR_IN</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ERROR_INSERT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ERROR_LAST_USER</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ERROR_NAME_MAILING</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ERROR_NAME_USER</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >De volledige naam moet ingevoerd worden</txt_label></row>
+<row><id_name type="varchar" >_ERROR_NM</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ERROR_NM_PROFILE</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ERROR_NOPOB</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ERROR_NUM_DOM</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Vul het aantal slaapkamers in</txt_label></row>
+<row><id_name type="varchar" >_ERROR_NUM_PARKING</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ERROR_NUM_WC</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ERROR_OBSRV</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ERROR_OPEN_DIR</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ERROR_OPEN_FILE</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ERROR_PASSUSR_NULL</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >De gebruikersnaam en het wachtwoord moeten leeg zijn of beide ingevuld zijn</txt_label></row>
+<row><id_name type="varchar" >_ERROR_PROCESS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ERROR_PSW_ERROR</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Het wachtwoord werd verkeerd ingevuld, typ opnieuw het wachtwoord in de twee velden</txt_label></row>
+<row><id_name type="varchar" >_ERROR_PSW_NOSTR</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Het wachtwoord mag alleen letters en cijfers bevatten, geen spaties</txt_label></row>
+<row><id_name type="varchar" >_ERROR_PSW_SHORT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Het wachtwoord moet bestaan uit meer dan 5 tekens</txt_label></row>
+<row><id_name type="varchar" >_ERROR_PSW_USERNAME</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Het wachtwoord mag niet identiek zijn aan de gebruikersnaam</txt_label></row>
+<row><id_name type="varchar" >_ERROR_SUBJ_MAILING</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ERROR_SUPERF</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ERROR_SUPERF_CONST</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ERROR_SUPERT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ERROR_TELF1_USER</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >U moet het telefoonnummer invullen</txt_label></row>
+<row><id_name type="varchar" >_ERROR_TXT_CONTENT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ERROR_UPDATE</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ERROR_USNAME_EXIST</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Deze gebruikersnaam bestaat al, kies een andere naam</txt_label></row>
+<row><id_name type="varchar" >_ERROR_USRNAME_EXISTS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Deze gebruikersnaam bestaat al</txt_label></row>
+<row><id_name type="varchar" >_ERROR_USRNAME_NOSTR</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >De gebruikersnaam mag alleen letters en cijfers bevatten, geen spaties</txt_label></row>
+<row><id_name type="varchar" >_ERROR_USRNAME_SHORT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >De gebruikersnaam moet bestaan uit meer dan 5 tekens</txt_label></row>
+<row><id_name type="varchar" >_ER_SELET_TBL</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_FDAY</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >V</txt_label></row>
+<row><id_name type="varchar" >_FEBRUARY</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Februari</txt_label></row>
+<row><id_name type="varchar" >_FECHA_FT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Datum</txt_label></row>
+<row><id_name type="varchar" >_FG_HIDDEN</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_FG_PRIVATE</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_FIND</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Zoeken</txt_label></row>
+<row><id_name type="varchar" >_FIND_BY_CITIES</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Zoeken op gemeente</txt_label></row>
+<row><id_name type="varchar" >_FIND_BY_CRITERIA</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Zoeken volgens criteria</txt_label></row>
+<row><id_name type="varchar" >_FIND_BY_TPPROP</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Zoeken op type onroerend goed</txt_label></row>
+<row><id_name type="varchar" >_FINPAGINA</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" ></txt_label></row>
+<row><id_name type="varchar" >_FOLDER</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_FOUND</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Totaal van gevonden eenheden</txt_label></row>
+<row><id_name type="varchar" >_FRIDAY</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Vrijdag</txt_label></row>
+<row><id_name type="varchar" >_FRONT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Voorpagina</txt_label></row>
+<row><id_name type="varchar" >_FULL_NAME</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Volledige naam</txt_label></row>
+<row><id_name type="varchar" >_GALLERIES</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_GALLERY</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_GALS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_GAL_LST</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_GAST_GEST</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Kosten voor administratiekantoor, notaris, kadaster. &lt;br/&gt;(Afhankelijk van de beheerder) Minimum:</txt_label></row>
+<row><id_name type="varchar" >_GENERAL_LAYOUT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_GEN_LANG</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_GESTLANGS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_GST_COMPRA</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Kosten voor de aankoop van de woning</txt_label></row>
+<row><id_name type="varchar" >_GST_HIPOT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Hypotheekkosten</txt_label></row>
+<row><id_name type="varchar" >_GUIA</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Gids</txt_label></row>
+<row><id_name type="varchar" >_HELP</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Help</txt_label></row>
+<row><id_name type="varchar" >_HOME</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Begin</txt_label></row>
+<row><id_name type="varchar" >_HOMEPG</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Begin</txt_label></row>
+<row><id_name type="varchar" >_HOUR</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Tijd</txt_label></row>
+<row><id_name type="varchar" >_IDIOMA</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >nl</txt_label></row>
+<row><id_name type="varchar" >_ID_CATEGORY</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ID_POSITION</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Toegekend aan</txt_label></row>
+<row><id_name type="varchar" >_ID_TICKET</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_IMAG</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_IMG</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Foto</txt_label></row>
+<row><id_name type="varchar" >_IMGCONFIG</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_IMGHOME</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >head.jpg</txt_label></row>
+<row><id_name type="varchar" >_IMGS_NOT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_IMG_FILE_ERROR</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_IMG_FRONT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_IMG_INT_1</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_IMG_INT_2</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_IMG_INT_3</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_IMG_PORT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_IMMO</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Gegevens over de eigendom</txt_label></row>
+<row><id_name type="varchar" >_IMMOS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_IMP_ACTOS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Belasting op zegel- en registratierechten</txt_label></row>
+<row><id_name type="varchar" >_IMP_COMPRA</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Overdrachtsbelasting (tweedehands) of BTW (Nieuw):</txt_label></row>
+<row><id_name type="varchar" >_IMP_ENTR</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Bedrag van aanbetaling</txt_label></row>
+<row><id_name type="varchar" >_IMP_SOL</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Bedrag van hypotheek</txt_label></row>
+<row><id_name type="varchar" >_IND_ACTIVE</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_IND_MAILING</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_IND_OFERTA</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Aanbod</txt_label></row>
+<row><id_name type="varchar" >_IND_PISCINA</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Zwembad</txt_label></row>
+<row><id_name type="varchar" >_INFOLEGAL</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Wettelijke informatie</txt_label></row>
+<row><id_name type="varchar" >_INSERTED</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_INSIDE</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Binnengedeelte</txt_label></row>
+<row><id_name type="varchar" >_INTROS_LIST</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_INT_BANC</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Bankinterest</txt_label></row>
+<row><id_name type="varchar" >_INT_CAPACITY</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Capaciteit pers.</txt_label></row>
+<row><id_name type="varchar" >_INT_PERS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_INT_SUPERFICIE</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Grond M2</txt_label></row>
+<row><id_name type="varchar" >_INT_SUPERFICIE_CONST</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Oppervlakte M2</txt_label></row>
+<row><id_name type="varchar" >_INT_TERRACE</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_IN_NAME_ACCOUNT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >De naam van de klant is verplicht</txt_label></row>
+<row><id_name type="varchar" >_IN_NAME_GAL</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_IN_NAME_IMMO</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_IN_NAME_ORG</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_IN_NOT_RESUM</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_IN_NOT_TITLE</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_IN_POB_IMMO</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_IN_POB_ORG</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_IN_SUBJECT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Vul een onderwerp in</txt_label></row>
+<row><id_name type="varchar" >_JANUARY</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Januari</txt_label></row>
+<row><id_name type="varchar" >_JULY</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Juli</txt_label></row>
+<row><id_name type="varchar" >_JUNE</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Juni</txt_label></row>
+<row><id_name type="varchar" >_KEYWORDS_ADM</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_LABELS_LIST</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_LANGS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_LANGUAGE</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Taal</txt_label></row>
+<row><id_name type="varchar" >_LATTITUD</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_LBL_SEASONS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_LOGIN_FAILED</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Uw gebruikersnaam of wachtwoord is incorrect</txt_label></row>
+<row><id_name type="varchar" >_LOGIN_NOW</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Openen</txt_label></row>
+<row><id_name type="varchar" >_LOGOUT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Verbinding verbreken</txt_label></row>
+<row><id_name type="varchar" >_LONGITUD</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_LOVS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_LSTMAILING</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_LSTUSER</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_M2</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >M2</txt_label></row>
+<row><id_name type="varchar" >_M2_TERRACE</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_M2_TERRENO</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >M2 terrein</txt_label></row>
+<row><id_name type="varchar" >_MAILING</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_MAIL_BKVALID</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_MAIL_BKVALID_TXT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_MAIL_CONFIRM</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Uw inschrijvingsverzoek is verwerkt, binnen enkele ogenblikken ontvangt u een e-mail waarin uw inschrijving bevestigd wordt.</txt_label></row>
+<row><id_name type="varchar" >_MAIL_FORMAT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >De e-mailopmaak is incorrect</txt_label></row>
+<row><id_name type="varchar" >_MAIL_HRECEV</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Wij hebben uw verzoek ontvangen</txt_label></row>
+<row><id_name type="varchar" >_MAIL_NMSG</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Wij zullen zo spoedig mogelijk ingaan op uw verzoek</txt_label></row>
+<row><id_name type="varchar" >_MAIL_NOTI</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Ontvangstbevestiging</txt_label></row>
+<row><id_name type="varchar" >_MAIL_REM</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_MAIL_REM_TXT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_MAIL_SUBS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Bevestiging van inschrijving</txt_label></row>
+<row><id_name type="varchar" >_MAIL_SUBS_TXT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Geachte heer/mevrouw, 
+
+Om uw inschrijving te bevestigen en toegang te krijgen tot de diensten van Propiweb moet u de volgende link openen:
+
+</txt_label></row>
+<row><id_name type="varchar" >_MAIN_IMG</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_MANDATORY</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_MAPINIT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_MARCH</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Maart</txt_label></row>
+<row><id_name type="varchar" >_MAY</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Mei</txt_label></row>
+<row><id_name type="varchar" >_MDAY</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >M</txt_label></row>
+<row><id_name type="varchar" >_MKT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Mailings</txt_label></row>
+<row><id_name type="varchar" >_MNU_ADM</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Menu</txt_label></row>
+<row><id_name type="varchar" >_MONDAY</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Maandag</txt_label></row>
+<row><id_name type="varchar" >_MONTH</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_MSG</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Bericht</txt_label></row>
+<row><id_name type="varchar" >_MY_ACCOUNTS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_MY_IMMOS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_MY_NEWS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_MY_PROFILE</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Mijn profiel</txt_label></row>
+<row><id_name type="varchar" >_MY_TICKETS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_MY_TK_STATS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_NAME</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_NAME_ACCOUNT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Naam van klant</txt_label></row>
+<row><id_name type="varchar" >_NAME_CATEGORY</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_NAME_GAL</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_NAME_MAILING</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_NAME_ORG</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Kantoor</txt_label></row>
+<row><id_name type="varchar" >_NAME_POB</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_NAME_POSITION</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_NAME_PRICE_LST</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_NAME_PRODUCT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_NAME_SEASONS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_NAME_USER</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_NESPECIAL</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Onze speciale aanbieding</txt_label></row>
+<row><id_name type="varchar" >_NEW</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Nieuwsitem</txt_label></row>
+<row><id_name type="varchar" >_NEWS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Nieuws</txt_label></row>
+<row><id_name type="varchar" >_NEWSLST</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_NEWS_EVENTS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Nieuws en evenementen</txt_label></row>
+<row><id_name type="varchar" >_NEWUSER</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Nieuwe gebruiker</txt_label></row>
+<row><id_name type="varchar" >_NEW_PASSWORD</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Nieuw wachtwoord</txt_label></row>
+<row><id_name type="varchar" >_NEW_POS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Op de voorpagina</txt_label></row>
+<row><id_name type="varchar" >_NEW_PROP</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Nieuwe woning</txt_label></row>
+<row><id_name type="varchar" >_NEW_RESUM</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Samenvatting</txt_label></row>
+<row><id_name type="varchar" >_NEW_TITLE</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_NEW_TXT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Tekst</txt_label></row>
+<row><id_name type="varchar" >_NEXT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Volgende</txt_label></row>
+<row><id_name type="varchar" >_NM_CONTACT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_NM_PROFILE</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_NM_SCREEN</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_NM_TK_CTG</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_NM_VIEW</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_NOREGUSERS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_NOSELECTED</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Ongeselecteerde</txt_label></row>
+<row><id_name type="varchar" >_NOTFOUND</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_NOTI</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_NOTICIA</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Nieuwsitem weergeven</txt_label></row>
+<row><id_name type="varchar" >_NOVED</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Nieuwigheden</txt_label></row>
+<row><id_name type="varchar" >_NOVED_TXT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Laatste onroerende goederen in aanbod</txt_label></row>
+<row><id_name type="varchar" >_NOVEMBER</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >November</txt_label></row>
+<row><id_name type="varchar" >_NO_ACCOUNT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_NO_AV_LG</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Deze inhoud is niet beschikbaar in deze taal</txt_label></row>
+<row><id_name type="varchar" >_NO_COD</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_NO_CONTACT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_NO_CTG</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_NO_EMPL</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_NO_GALS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_NO_IMG_FRONT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_NO_IMG_INT_1</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_NO_IMG_INT_2</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_NO_IMG_INT_3</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_NO_IMG_PORT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_NO_IMMO</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Er zijn geen onroerende goederen voor deze selectie</txt_label></row>
+<row><id_name type="varchar" >_NO_MAILING</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_NO_MEMBERS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_NO_NOTS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_NO_ORGS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_NO_PRICE_LST</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_NO_PROD</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_NO_PSTS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_NO_SEASONS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_NO_TICKET</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_NUMORDER</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_NUM_DORMITORIO</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >slaapkamer</txt_label></row>
+<row><id_name type="varchar" >_NUM_DORMITORIOS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >slaapkamers</txt_label></row>
+<row><id_name type="varchar" >_NUM_HITS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_NUM_ORDER</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_NUM_PARKING</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >parkeerplaats</txt_label></row>
+<row><id_name type="varchar" >_NUM_PARKINGS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >parkeerplaatsen</txt_label></row>
+<row><id_name type="varchar" >_NUM_ROBOTS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_NUM_SENT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_NUM_VISITS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_NUM_WC</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >badkamer</txt_label></row>
+<row><id_name type="varchar" >_NUM_WCS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Badkamers</txt_label></row>
+<row><id_name type="varchar" >_OBSERV_LIST</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_OCTOBER</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Oktober</txt_label></row>
+<row><id_name type="varchar" >_OF</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >of</txt_label></row>
+<row><id_name type="varchar" >_OFICINAS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Kantoren</txt_label></row>
+<row><id_name type="varchar" >_ONLOAD</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_OPINION</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >You view about this web</txt_label></row>
+<row><id_name type="varchar" >_OPTIONAL</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >(Optioneel)</txt_label></row>
+<row><id_name type="varchar" >_ORDER</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Volgorde</txt_label></row>
+<row><id_name type="varchar" >_ORDERBY</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Schikken op</txt_label></row>
+<row><id_name type="varchar" >_ORG</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ORG_HAS_SUBORG</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ORG_LST</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_OUTAPP</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_PAGE</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_PAGO_MEN</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Maandelijkse afbetaling van de hypotheek</txt_label></row>
+<row><id_name type="varchar" >_PAGS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Paginas</txt_label></row>
+<row><id_name type="varchar" >_PARAMS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_PARENTCTG_DCHILDREN</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_PASSWORD</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Wachtwoord</txt_label></row>
+<row><id_name type="varchar" >_PATH_IMAGE</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_PERMS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_PERMS_HAS_SCR</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_PICTURES</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Fotos</txt_label></row>
+<row><id_name type="varchar" >_PIEPAGINA</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Powered by &lt;a href=&quot;http://reos.elazos.com&quot;&gt;ReOS &quot;._VERSION.&quot;&lt;/a&gt; and released under the &lt;a href=&quot;http://www.fsf.org/licensing/licenses/agpl-3.0.html&quot;&gt;GNU/AGPLv3 License.&lt;/a&gt;</txt_label></row>
+<row><id_name type="varchar" >_PLEASE_LOGIN</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Gelieve u te identificeren met uw gebruikersnaam en wachtwoord</txt_label></row>
+<row><id_name type="varchar" >_POBLACIONES</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_POBS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Zoeken op gemeenten</txt_label></row>
+<row><id_name type="varchar" >_POPHOST</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_POPPASS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_POPUSER</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_POSITION</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_POS_IMG_PORT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_PRECIO</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Prijs</txt_label></row>
+<row><id_name type="varchar" >_PRECIO_ALQUILER</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Huurprijs &quot;._CURRENCY.&quot;</txt_label></row>
+<row><id_name type="varchar" >_PRECIO_COMPRA</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Koopprijs &quot;._CURRENCY.&quot;</txt_label></row>
+<row><id_name type="varchar" >_PREFERE</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_PREF_POBS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Voorkeursgemeenten</txt_label></row>
+<row><id_name type="varchar" >_PREVIOUS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Vorige</txt_label></row>
+<row><id_name type="varchar" >_PRE_VIVIE</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Prijs van de woning</txt_label></row>
+<row><id_name type="varchar" >_PRICE_FROM</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_PRICE_MAX</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Max.prijs &quot;._CURRENCY.&quot;</txt_label></row>
+<row><id_name type="varchar" >_PRICE_MIN</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Min.prijs &quot;._CURRENCY.&quot;</txt_label></row>
+<row><id_name type="varchar" >_PRIORITY</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_PROCESS_OK</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_PRODS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_PROFS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_PROP_ACCOUNT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Onroerende goederen van klant</txt_label></row>
+<row><id_name type="varchar" >_PROV_NAME</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_PRT_LAYOUT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_PST_ELEMTS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_PUBLI_YOUR</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_READMORE</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Meer lezen...</txt_label></row>
+<row><id_name type="varchar" >_RECOM</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Aanbevelingen</txt_label></row>
+<row><id_name type="varchar" >_REFERERS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_REF_IMMO</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Referentie</txt_label></row>
+<row><id_name type="varchar" >_REF_TICKET</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_REGS_TXT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_REGUSERS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_REM_CONFIRM</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_REM_TXT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_REM_USR</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_RESERVATION</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_RESERV_CONFIRM</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_RESTORE</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_RESULTS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Resultaat van de zoekopdracht</txt_label></row>
+<row><id_name type="varchar" >_RE_NEW_PASS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Nieuw wachtwoord opnieuw intypen</txt_label></row>
+<row><id_name type="varchar" >_RE_PASSWORD</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Wachtwoord opnieuw intypen</txt_label></row>
+<row><id_name type="varchar" >_ROOT_DEPT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ROWS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Registers</txt_label></row>
+<row><id_name type="varchar" >_SADAY</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >ZA</txt_label></row>
+<row><id_name type="varchar" >_SATURDAY</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Zaterdag</txt_label></row>
+<row><id_name type="varchar" >_SAT_DEPT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Klantenservice</txt_label></row>
+<row><id_name type="varchar" >_SAVE</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Opslaan</txt_label></row>
+<row><id_name type="varchar" >_SCREEN</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_SCREENS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_SCREEN_HAS_VIEW</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_SDAY</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >ZO</txt_label></row>
+<row><id_name type="varchar" >_SEARCH_TITLE</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Zoeken</txt_label></row>
+<row><id_name type="varchar" >_SEASONS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_SEE2PRINT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Afdrukweergave</txt_label></row>
+<row><id_name type="varchar" >_SEE_CYRILIC</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_SEE_LATIN1</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_SEGUROS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Verzekeringen:</txt_label></row>
+<row><id_name type="varchar" >_SELECT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Selecteren</txt_label></row>
+<row><id_name type="varchar" >_SELECTED</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Geselecteerd</txt_label></row>
+<row><id_name type="varchar" >_SELECTLANGUAGE</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Taal wijzigen !</txt_label></row>
+<row><id_name type="varchar" >_SEND_OUTLOOK</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_SEPTEMBER</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >September</txt_label></row>
+<row><id_name type="varchar" >_SERVICES_LIST</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_SET_ACTIVITIES</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Activiteiten</txt_label></row>
+<row><id_name type="varchar" >_SET_EQUIP</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Materiaal</txt_label></row>
+<row><id_name type="varchar" >_SET_IMG_FRONT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_SET_INTRO</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Inleiding</txt_label></row>
+<row><id_name type="varchar" >_SET_OBSERV</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Opmerkingen</txt_label></row>
+<row><id_name type="varchar" >_SET_PROPERTIES</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Kenmerken</txt_label></row>
+<row><id_name type="varchar" >_SET_SERVICES</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Diensten</txt_label></row>
+<row><id_name type="varchar" >_SHOW_GAL</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Galerie weergeven</txt_label></row>
+<row><id_name type="varchar" >_SINFO</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Informatie aanvragen</txt_label></row>
+<row><id_name type="varchar" >_SINFO_ADVERT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Op onze webpagina worden geen persoonlijke gegevens verzameld buiten uw weten en uw gegevens worden ook niet doorgegeven aan derden</txt_label></row>
+<row><id_name type="varchar" >_SINFO_CONFIRM</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_SINFO_TXT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Stuur ons uw gegevens en wij contacteren u</txt_label></row>
+<row><id_name type="varchar" >_SLOGAN</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Onroerend-goedbeheer</txt_label></row>
+<row><id_name type="varchar" >_START</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Begin</txt_label></row>
+<row><id_name type="varchar" >_STATE</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Staat</txt_label></row>
+<row><id_name type="varchar" >_STATISTICS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_SUBJECT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_SUBS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Inschrijven</txt_label></row>
+<row><id_name type="varchar" >_SUBS_PHRASE</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Ontvang de nieuwigheden</txt_label></row>
+<row><id_name type="varchar" >_SUBS_TXT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Om te vermijden dat andere gebruikers u kunnen inschrijven, ontvangt u een e-mail ter bevestiging, met aanwijzingen voor de bekrachtiging van uw registratie. Door de verzending van dit formulier schrijft u zich in voor de service van de nieuwsbulletins. Uw e-mail wordt uw gebruikersnaam</txt_label></row>
+<row><id_name type="varchar" >_SUNDAY</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Zondag</txt_label></row>
+<row><id_name type="varchar" >_SUPPORT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_TDAY</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >DI</txt_label></row>
+<row><id_name type="varchar" >_TEAM_ACCOUNTS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_TEAM_IMMOS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_TEAM_TICKETS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_THDAY</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >DO</txt_label></row>
+<row><id_name type="varchar" >_THEMES</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_THOUSANDS_SEP</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >.</txt_label></row>
+<row><id_name type="varchar" >_THUMB</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_THURSDAY</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Donderdag</txt_label></row>
+<row><id_name type="varchar" >_TICKETS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_TITLE_LOGIN</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_TK_CTG_LST</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_TOCLOSE</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_TODO</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_TOEND</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_TOTAL</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Totaal</txt_label></row>
+<row><id_name type="varchar" >_TOT_GST</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Totale kosten:</txt_label></row>
+<row><id_name type="varchar" >_TOY_INTERES</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Contact opnemen via dit onroerendgoedbedrijf</txt_label></row>
+<row><id_name type="varchar" >_TP_PRICE</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Prijstype</txt_label></row>
+<row><id_name type="varchar" >_TP_PROPIEDAD</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >T. Onroerend goed</txt_label></row>
+<row><id_name type="varchar" >_TP_SDAYS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_TP_SEND</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_TP_SEND_TO</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_TP_SERVICIO</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Verrichting</txt_label></row>
+<row><id_name type="varchar" >_TP_STATE</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_TP_VAT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_TUESDAY</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Dinsdag</txt_label></row>
+<row><id_name type="varchar" >_TXT_ADDRESS1</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Adres</txt_label></row>
+<row><id_name type="varchar" >_TXT_AGE</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_TXT_ASUNT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Onderwerp</txt_label></row>
+<row><id_name type="varchar" >_TXT_COMMENT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Opmerkingen</txt_label></row>
+<row><id_name type="varchar" >_TXT_COMO</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_TXT_CONTENT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_TXT_COUNTRY</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_TXT_CP</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Postcode</txt_label></row>
+<row><id_name type="varchar" >_TXT_DESC</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Beschrijving</txt_label></row>
+<row><id_name type="varchar" >_TXT_EMAIL</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >E-mail</txt_label></row>
+<row><id_name type="varchar" >_TXT_EMAIL1</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >E-mail</txt_label></row>
+<row><id_name type="varchar" >_TXT_ES</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_TXT_FAX</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Fax</txt_label></row>
+<row><id_name type="varchar" >_TXT_MAILING</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_TXT_OBSRV</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_TXT_POBLACION</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Gemeente</txt_label></row>
+<row><id_name type="varchar" >_TXT_SEARCH</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_TXT_SIGN</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_TXT_SUBJECT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_TXT_TELF1</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Telefoonnummer</txt_label></row>
+<row><id_name type="varchar" >_TXT_TELF2</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Telefoonnummer 2</txt_label></row>
+<row><id_name type="varchar" >_TXT_TITLE</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Titel</txt_label></row>
+<row><id_name type="varchar" >_TXT_UNREG</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >U ontvangt dit bericht omdat u zich ingeschreven hebt op onze meiling-lijst. Als u geen mail meer wilt ontvangen, klik dan hier:</txt_label></row>
+<row><id_name type="varchar" >_TXT_URL</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_TXT_WEB</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Website</txt_label></row>
+<row><id_name type="varchar" >_TXT_ZONA</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Buurt</txt_label></row>
+<row><id_name type="varchar" >_UMONTH</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Maand</txt_label></row>
+<row><id_name type="varchar" >_UNREG</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Uit de lijst verwijderen</txt_label></row>
+<row><id_name type="varchar" >_UNTITLED</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_UPDATE</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_UPDATED</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_USED_PROP</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Tweedehandswoning</txt_label></row>
+<row><id_name type="varchar" >_USER</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_USERNAME</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Gebruikersnaam</txt_label></row>
+<row><id_name type="varchar" >_USER_DELETED</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_USER_HAS_PST</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_USER_INSERTED</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_USER_TYPE</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Type</txt_label></row>
+<row><id_name type="varchar" >_USR_BOOK_NOVALID</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_USR_CONFIRM</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Uw registratie is bevestigd.</txt_label></row>
+<row><id_name type="varchar" >_USR_NOCONFIRM</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Er is een fout opgetreden tijdens het registratieproces.</txt_label></row>
+<row><id_name type="varchar" >_USR_NOUNREG</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Uw verwijdering uit de mailing-lijst kon niet bevestigd worden. Gelieve de klantendienst te contacteren als u mails blijft ontvangen</txt_label></row>
+<row><id_name type="varchar" >_USR_UNREG</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >U bent uit de mailing-lijst verwijderd.</txt_label></row>
+<row><id_name type="varchar" >_VALUE</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_VERACCS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_VERBOOKINGS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_VERCONFIG</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_VERCOUNTRIES</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_VERGAL</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_VERHTML</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_VERIMMO</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Zoeken naar onroerende goederen</txt_label></row>
+<row><id_name type="varchar" >_VERINTROS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_VERLABELS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_VERMAILINGS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_VERNOT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_VERORGS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_VERPERMS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_VERPOBS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Actieve Steden</txt_label></row>
+<row><id_name type="varchar" >_VERPRD</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Products</txt_label></row>
+<row><id_name type="varchar" >_VERPREFS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_VERPRICELST</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_VERPRICEPRD</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_VERPROPER</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_VERSCR</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_VERSEASONS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_VERTICKETS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_VERTKCTGS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_VERTKEMAILS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_VERUSERS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_VERVIEWS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_VER_PERFIL</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Koopprofiel</txt_label></row>
+<row><id_name type="varchar" >_VIEW</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >View</txt_label></row>
+<row><id_name type="varchar" >_VIEWED</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Weergegeven</txt_label></row>
+<row><id_name type="varchar" >_VIEWS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_VIEWS_LST</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_VIEW_FRONT_IN</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_WANT_SELL</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Ik wil verkopen</txt_label></row>
+<row><id_name type="varchar" >_WANT_SELL_TXT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Verkrijg voor uw woning een prijs voor de werkelijke waarde!</txt_label></row>
+<row><id_name type="varchar" >_WDAY</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >W</txt_label></row>
+<row><id_name type="varchar" >_WEDNESDAY</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Woensdag</txt_label></row>
+<row><id_name type="varchar" >_WORDS_TO_FIND</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Zoeken naar woorden</txt_label></row>
+<row><id_name type="varchar" >_XMLNAV</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_XMLOUTPUT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_XMLPRT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_XSLFILE</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_XSLPRT</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_YEAR</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Jaar</txt_label></row>
+<row><id_name type="varchar" >_YEARS</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Jaar</txt_label></row>
+<row><id_name type="varchar" >_YOUR_LOAN</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >Bereken uw hypotheek</txt_label></row>
+<row><id_name type="varchar" >_ZIP_FILE</id_name><cod_lang type="char"  label="Language">nl</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+</labels>
+<lists>
+<row><id_name type="varchar" >_LST_ACTIVITIES</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Wandelen</txt_value></row>
+<row><id_name type="varchar" >_LST_ACTIVITIES</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Off Road</txt_value></row>
+<row><id_name type="varchar" >_LST_ACTIVITIES</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >Mountain Bike</txt_value></row>
+<row><id_name type="varchar" >_LST_ACTIVITIES</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >Parasailing</txt_value></row>
+<row><id_name type="varchar" >_LST_ACTIVITIES</id_name><txt_code type="varchar" >5</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">5</num_order><txt_value type="varchar" >Strand</txt_value></row>
+<row><id_name type="varchar" >_LST_ACTIVITIES</id_name><txt_code type="varchar" >6</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">6</num_order><txt_value type="varchar" >Verhuur van zeil- en motorboten</txt_value></row>
+<row><id_name type="varchar" >_LST_ACTIVITIES</id_name><txt_code type="varchar" >7</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">7</num_order><txt_value type="varchar" >Vissen</txt_value></row>
+<row><id_name type="varchar" >_LST_ACTIVITIES</id_name><txt_code type="varchar" >8</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">8</num_order><txt_value type="varchar" >Nachtleven</txt_value></row>
+<row><id_name type="varchar" >_LST_ACTIVITIES</id_name><txt_code type="varchar" >9</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">9</num_order><txt_value type="varchar" >Casino</txt_value></row>
+<row><id_name type="varchar" >_LST_DT_VAL</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_DT_VAL</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >TV</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >10</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">10</num_order><txt_value type="varchar" >Canal Plus</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >11</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">11</num_order><txt_value type="varchar" >Wasdroger</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >12</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">12</num_order><txt_value type="varchar" >UVA-solarium</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >13</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">13</num_order><txt_value type="varchar" >Frituurpan</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >14</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">14</num_order><txt_value type="varchar" >Oven</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >15</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">15</num_order><txt_value type="varchar" >Microgolfoven</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >16</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">16</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >DVD</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >Internet Breedbandverbinding</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >Wasmachine</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >5</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">5</num_order><txt_value type="varchar" >Vaatwasser</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >6</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">6</num_order><txt_value type="varchar" >Bestek</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >7</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">7</num_order><txt_value type="varchar" >Lakens en dekens</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >8</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">8</num_order><txt_value type="varchar" >Telefoon</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >9</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">9</num_order><txt_value type="varchar" >Satelliet-TV</txt_value></row>
+<row><id_name type="varchar" >_LST_IND_ACTIVE</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Ja</txt_value></row>
+<row><id_name type="varchar" >_LST_IND_ACTIVE</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Nee</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Indrukwekkende loft</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >10</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">10</num_order><txt_value type="varchar" >Duplex</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >11</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">11</num_order><txt_value type="varchar" >Woning op benedenverdieping</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >12</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">12</num_order><txt_value type="varchar" >Hoge flat</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >13</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">13</num_order><txt_value type="varchar" >Stenen boerderij met landerijen</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >14</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">14</num_order><txt_value type="varchar" >Dorpshuis</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >15</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">15</num_order><txt_value type="varchar" >Halfnieuwe flat</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >16</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">16</num_order><txt_value type="varchar" >Halfnieuw huis</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >17</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">17</num_order><txt_value type="varchar" >Boerderij met landerijen om te verbouwen</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >18</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">18</num_order><txt_value type="varchar" >Halfnieuwe zolderwoning</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >19</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">19</num_order><txt_value type="varchar" >Verbouwde flat</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Gekoppeld huis</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >20</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">20</num_order><txt_value type="varchar" >Winkelpand</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >21</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">21</num_order><txt_value type="varchar" >Restaurant</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >22</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">22</num_order><txt_value type="varchar" >Bar</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >23</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">23</num_order><txt_value type="varchar" >Magazijn</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >24</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">24</num_order><txt_value type="varchar" >Flat</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >25</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">25</num_order><txt_value type="varchar" >Duplexwoning op de bovenste verdieping</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >26</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">26</num_order><txt_value type="varchar" >Studio</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >27</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">27</num_order><txt_value type="varchar" >Appartement</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >28</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">28</num_order><txt_value type="varchar" >Huis</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >29</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">29</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >Statige flat</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >30</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">30</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >Oud landhuis</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >5</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">5</num_order><txt_value type="varchar" >Alleenstaand huis</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >6</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">6</num_order><txt_value type="varchar" >Eengezinswoning</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >7</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">7</num_order><txt_value type="varchar" >Rustiek landgoed</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >8</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">8</num_order><txt_value type="varchar" >Spectaculaire flat</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >9</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">9</num_order><txt_value type="varchar" >Zolderwoning</txt_value></row>
+<row><id_name type="varchar" >_LST_NEWS_POS</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_NEWS_POS</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_NEWS_POS</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_NUMBERS_OP</id_name><txt_code type="varchar" ></txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Neutraal</txt_value></row>
+<row><id_name type="varchar" >_LST_NUMBERS_OP</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >1</txt_value></row>
+<row><id_name type="varchar" >_LST_NUMBERS_OP</id_name><txt_code type="varchar" >10</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">11</num_order><txt_value type="varchar" >10</txt_value></row>
+<row><id_name type="varchar" >_LST_NUMBERS_OP</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >2</txt_value></row>
+<row><id_name type="varchar" >_LST_NUMBERS_OP</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >3</txt_value></row>
+<row><id_name type="varchar" >_LST_NUMBERS_OP</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">5</num_order><txt_value type="varchar" >4</txt_value></row>
+<row><id_name type="varchar" >_LST_NUMBERS_OP</id_name><txt_code type="varchar" >5</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">6</num_order><txt_value type="varchar" >5</txt_value></row>
+<row><id_name type="varchar" >_LST_NUMBERS_OP</id_name><txt_code type="varchar" >6</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">7</num_order><txt_value type="varchar" >6</txt_value></row>
+<row><id_name type="varchar" >_LST_NUMBERS_OP</id_name><txt_code type="varchar" >7</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">8</num_order><txt_value type="varchar" >7</txt_value></row>
+<row><id_name type="varchar" >_LST_NUMBERS_OP</id_name><txt_code type="varchar" >8</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">9</num_order><txt_value type="varchar" >8</txt_value></row>
+<row><id_name type="varchar" >_LST_NUMBERS_OP</id_name><txt_code type="varchar" >9</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">10</num_order><txt_value type="varchar" >9</txt_value></row>
+<row><id_name type="varchar" >_LST_OBSERV</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Huisdieren verbode.</txt_value></row>
+<row><id_name type="varchar" >_LST_ORDER</id_name><txt_code type="varchar" >ASC</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Opgaand</txt_value></row>
+<row><id_name type="varchar" >_LST_ORDER</id_name><txt_code type="varchar" >DESC</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Neergaand</txt_value></row>
+<row><id_name type="varchar" >_LST_PISCINA</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Nee</txt_value></row>
+<row><id_name type="varchar" >_LST_PISCINA</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Privézwembad</txt_value></row>
+<row><id_name type="varchar" >_LST_PISCINA</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >Gemeenschappelijk zwembad</txt_value></row>
+<row><id_name type="varchar" >_LST_POSIMG</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Rechts</txt_value></row>
+<row><id_name type="varchar" >_LST_POSIMG</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Links</txt_value></row>
+<row><id_name type="varchar" >_LST_POSIMG</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >Boven</txt_value></row>
+<row><id_name type="varchar" >_LST_POSIMG</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >Onder</txt_value></row>
+<row><id_name type="varchar" >_LST_POSITIONS</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Handelsagent</txt_value></row>
+<row><id_name type="varchar" >_LST_POSITIONS</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Afdelingshoofd</txt_value></row>
+<row><id_name type="varchar" >_LST_POSITIONS</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >Directeur</txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" ></txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" > </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >10000</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >10.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >100000</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">8</num_order><txt_value type="varchar" >100.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >1000000</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">23</num_order><txt_value type="varchar" >1.000.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >1200000</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">24</num_order><txt_value type="varchar" >1.200.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >130000</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">9</num_order><txt_value type="varchar" >130.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >1400000</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">25</num_order><txt_value type="varchar" >1.400.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >160000</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">10</num_order><txt_value type="varchar" >160.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >1600000</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">26</num_order><txt_value type="varchar" >1.600.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >1800000</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">27</num_order><txt_value type="varchar" >1.800.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >20000</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >20.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >200000</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">11</num_order><txt_value type="varchar" >200.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >2000000</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">28</num_order><txt_value type="varchar" >2.000.000</txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >230000</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">12</num_order><txt_value type="varchar" >230.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >260000</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">13</num_order><txt_value type="varchar" >260.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >30000</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >30.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >300000</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">14</num_order><txt_value type="varchar" >300.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >330000</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">15</num_order><txt_value type="varchar" >330.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >360000</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">16</num_order><txt_value type="varchar" >360.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >40000</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">5</num_order><txt_value type="varchar" >40.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >400000</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">17</num_order><txt_value type="varchar" >400.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >500000</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">18</num_order><txt_value type="varchar" >500.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >60000</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">6</num_order><txt_value type="varchar" >60.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >600000</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">19</num_order><txt_value type="varchar" >600.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >700000</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">20</num_order><txt_value type="varchar" >700.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >80000</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">7</num_order><txt_value type="varchar" >80.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >800000</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">21</num_order><txt_value type="varchar" >800.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >900000</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">22</num_order><txt_value type="varchar" >900.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >10</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">10</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >11</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">11</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >12</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">12</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >13</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">13</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >14</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">14</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >15</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">15</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >16</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">16</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >17</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">17</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >18</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">18</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >19</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">19</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >20</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">20</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >21</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">21</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >22</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">22</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >23</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">23</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >24</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">24</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >25</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">25</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >26</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">26</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >27</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">27</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >28</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">28</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >29</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">29</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >30</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">30</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >31</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">31</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >32</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">32</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >33</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">33</num_order><txt_value type="varchar" >40</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >34</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">34</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >35</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">35</num_order><txt_value type="varchar" >8</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >36</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">36</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >37</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">37</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >38</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">38</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >39</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">39</num_order><txt_value type="varchar" >40</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >40</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">40</num_order><txt_value type="varchar" >40</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >41</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">41</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >42</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">42</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >43</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">43</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >44</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">44</num_order><txt_value type="varchar" >40</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >5</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">5</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >6</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">6</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >7</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">7</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >8</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">8</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >9</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">9</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >volledig verbouwd</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >10</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">10</num_order><txt_value type="varchar" >Open haard</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >11</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">11</num_order><txt_value type="varchar" >Eetruimte in keuken</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >12</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">12</num_order><txt_value type="varchar" >Aardgas</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >13</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">13</num_order><txt_value type="varchar" >Glaskeramisch materiaal</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >14</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">14</num_order><txt_value type="varchar" >Ruime eetkamer</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >15</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">15</num_order><txt_value type="varchar" >Wijnkelder</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >16</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">16</num_order><txt_value type="varchar" >Wasruimte</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >17</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">17</num_order><txt_value type="varchar" >Inbouwkasten</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >18</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">18</num_order><txt_value type="varchar" >Bergruimte</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >19</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">19</num_order><txt_value type="varchar" >Gemeenschappelijke zone</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Centraal gelegen</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >20</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">20</num_order><txt_value type="varchar" >parquet</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >21</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">21</num_order><txt_value type="varchar" >Gemeubileerd</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >22</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">22</num_order><txt_value type="varchar" >Dichtbij strand</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >23</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">23</num_order><txt_value type="varchar" >Lift</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >24</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">24</num_order><txt_value type="varchar" >Balkon</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >25</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">25</num_order><txt_value type="varchar" >Jacuzzi</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >26</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">26</num_order><txt_value type="varchar" >Optionele parking</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >27</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">27</num_order><txt_value type="varchar" >Tuinzone</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >28</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">28</num_order><txt_value type="varchar" >Zonnebank</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >29</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">29</num_order><txt_value type="varchar" >Speeltuintje</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >Privétuin</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >30</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">30</num_order><txt_value type="varchar" >Vlak stuk bouwgrond</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >31</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">31</num_order><txt_value type="varchar" >Goede indeling</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >32</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">32</num_order><txt_value type="varchar" >Zicht op zee</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >33</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">33</num_order><txt_value type="varchar" >Kwaliteitsafwerking</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >34</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">34</num_order><txt_value type="varchar" >Conciërge</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >35</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">35</num_order><txt_value type="varchar" >Lichtdoorlatend</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >36</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">36</num_order><txt_value type="varchar" >Binnenpatio</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >37</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">37</num_order><txt_value type="varchar" >Suite</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >38</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">38</num_order><txt_value type="varchar" >Tussenverdieping</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >39</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">39</num_order><txt_value type="varchar" >Klaar om te betrekken</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >Terras</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >40</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">40</num_order><txt_value type="varchar" >Unieke gelegenheid</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >41</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">41</num_order><txt_value type="varchar" >Studio</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >42</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">42</num_order><txt_value type="varchar" >Zeer rustig</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >43</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">43</num_order><txt_value type="varchar" >Verscheidene terrassen</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >44</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">44</num_order><txt_value type="varchar" >in perfecte staat</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >5</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">5</num_order><txt_value type="varchar" >Zonnig</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >6</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">6</num_order><txt_value type="varchar" >Veel licht</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >7</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">7</num_order><txt_value type="varchar" >Uitzichten</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >8</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">8</num_order><txt_value type="varchar" >Verwarming</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >9</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">9</num_order><txt_value type="varchar" >Airconditioning</txt_value></row>
+<row><id_name type="varchar" >_LST_PROVA</id_name><txt_code type="varchar" ></txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_PROVA</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_PROVA</id_name><txt_code type="varchar" >blank</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">6</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_PROVA</id_name><txt_code type="varchar" >cod2</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">6</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_PROVA</id_name><txt_code type="varchar" >cod4</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_PROVA</id_name><txt_code type="varchar" >eeee</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_ROLES</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_ROLES</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_ROLES</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_SERVICES</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Wasruimte</txt_value></row>
+<row><id_name type="varchar" >_LST_SERVICES</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Crèche</txt_value></row>
+<row><id_name type="varchar" >_LST_SERVICES</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >Roomservice</txt_value></row>
+<row><id_name type="varchar" >_LST_SERVICES</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >Bar</txt_value></row>
+<row><id_name type="varchar" >_LST_SERVICES</id_name><txt_code type="varchar" >5</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">5</num_order><txt_value type="varchar" >Restaurant</txt_value></row>
+<row><id_name type="varchar" >_LST_TK_PRIORITY</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TK_PRIORITY</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TK_PRIORITY</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TK_PRIORITY</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TK_STATE</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TK_STATE</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TK_STATE</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TK_STATE</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TK_STATE</id_name><txt_code type="varchar" >5</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">5</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TK_STATE</id_name><txt_code type="varchar" >6</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">6</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_ACCSTATE</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Actief</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_ACCSTATE</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Niet actief</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_ACCSTATE</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >A validar</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_GALLERY</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_GALLERY</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_OFERTA</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Nee</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_OFERTA</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Aanbevolen</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_OFERTA</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >Speciaal</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_PRICE</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" ></txt_value></row>
+<row><id_name type="varchar" >_LST_TP_PRICE</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Per dag</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_PRICE</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >Per maand</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_PRICE</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >Per week</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_PRICE</id_name><txt_code type="varchar" >5</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">5</num_order><txt_value type="varchar" >Weekend</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_PROPIEDAD</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Flat</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_PROPIEDAD</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >Lokaal</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_PROPIEDAD</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Huis</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_PROPIEDAD</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >Appartement</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_PROPIEDAD</id_name><txt_code type="varchar" >5</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">5</num_order><txt_value type="varchar" >Grond</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_PROPIEDAD</id_name><txt_code type="varchar" >6</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">6</num_order><txt_value type="varchar" >Anderen</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_RESERVSTATE</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >TO TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_RESERVSTATE</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_RESERVSTATE</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_RESERVSTATE</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_RESERVSTATE</id_name><txt_code type="varchar" >5</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">5</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_SDAYS</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Gesloten</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_SDAYS</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Laagseizoen</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_SDAYS</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >Tussenseizoen</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_SDAYS</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >Hoogseizoen</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_SEND</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_SEND</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_SEND_TO</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_SEND_TO</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_SERVICIO</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Verkoop</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_SERVICIO</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Verhuur</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_SERVICIO</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >Holiday Rent</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_SERVICIO</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >Nieuwbouw</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_STATE</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Actief</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_STATE</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Niet actief</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_STATE</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >Verkocht</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_STATE</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >Verhuurd</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_STATE</id_name><txt_code type="varchar" >5</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">5</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_STE_MAIL</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_STE_MAIL</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_STE_MAIL</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_STE_MAIL</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_STE_PRC</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_STE_PRC</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_STE_PRC</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_VAT</id_name><txt_code type="varchar" >0</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">0</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_VAT</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_VAT</id_name><txt_code type="varchar" >16</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">16</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_VAT</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_VAT</id_name><txt_code type="varchar" >7</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">7</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_USER_TYPES</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_USER_TYPES</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">nl</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+</lists>
+</root>

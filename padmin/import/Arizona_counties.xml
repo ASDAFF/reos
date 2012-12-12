@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<provincia>
+<row><id_prov type="smallint" >452</id_prov><id_comunidad type="smallint" >268</id_comunidad><prov_name type="varchar"  label="County">Navajo</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >453</id_prov><id_comunidad type="smallint" >268</id_comunidad><prov_name type="varchar"  label="County">Mohave</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >454</id_prov><id_comunidad type="smallint" >268</id_comunidad><prov_name type="varchar"  label="County">Greenlee</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >455</id_prov><id_comunidad type="smallint" >268</id_comunidad><prov_name type="varchar"  label="County">Graham</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >456</id_prov><id_comunidad type="smallint" >268</id_comunidad><prov_name type="varchar"  label="County">La Paz</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >457</id_prov><id_comunidad type="smallint" >268</id_comunidad><prov_name type="varchar"  label="County">Yavapai</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >458</id_prov><id_comunidad type="smallint" >268</id_comunidad><prov_name type="varchar"  label="County">Cochise</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >459</id_prov><id_comunidad type="smallint" >268</id_comunidad><prov_name type="varchar"  label="County">Santa Cruz</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >460</id_prov><id_comunidad type="smallint" >268</id_comunidad><prov_name type="varchar"  label="County">Yuma</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >461</id_prov><id_comunidad type="smallint" >268</id_comunidad><prov_name type="varchar"  label="County">Gila</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >462</id_prov><id_comunidad type="smallint" >268</id_comunidad><prov_name type="varchar"  label="County">Coconino</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >463</id_prov><id_comunidad type="smallint" >268</id_comunidad><prov_name type="varchar"  label="County">Maricopa</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >464</id_prov><id_comunidad type="smallint" >268</id_comunidad><prov_name type="varchar"  label="County">Pinal</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >465</id_prov><id_comunidad type="smallint" >268</id_comunidad><prov_name type="varchar"  label="County">Pima</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >466</id_prov><id_comunidad type="smallint" >268</id_comunidad><prov_name type="varchar"  label="County">Apache</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+</provincia>
+</root>

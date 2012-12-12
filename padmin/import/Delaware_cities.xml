@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<poblacion>
+<row><id_poblacion type="int" >5233</id_poblacion><id_prov type="smallint" >672</id_prov><name_pob type="varchar"  label="City">Sussex</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >5234</id_poblacion><id_prov type="smallint" >672</id_prov><name_pob type="varchar"  label="City">Georgetown</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >5235</id_poblacion><id_prov type="smallint" >672</id_prov><name_pob type="varchar"  label="City">Newton</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >5236</id_poblacion><id_prov type="smallint" >673</id_prov><name_pob type="varchar"  label="City">Wilmington</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >5237</id_poblacion><id_prov type="smallint" >674</id_prov><name_pob type="varchar"  label="City">Grand Rapid</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >5238</id_poblacion><id_prov type="smallint" >674</id_prov><name_pob type="varchar"  label="City">Warwick</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >5239</id_poblacion><id_prov type="smallint" >674</id_prov><name_pob type="varchar"  label="City">Chestertown</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >5240</id_poblacion><id_prov type="smallint" >674</id_prov><name_pob type="varchar"  label="City">Dover</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >5241</id_poblacion><id_prov type="smallint" >674</id_prov><name_pob type="varchar"  label="City">Jayton</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+</poblacion>
+</root>

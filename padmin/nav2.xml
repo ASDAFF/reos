@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<navigator>
+
+<page>
+<msg/>
+<pgtitle/>
+<headers>
+<block>hbarra</block>
+<block>mnu_top</block>
+</headers>
+<bleft>
+<block>mnu_block</block>
+</bleft>
+<home_central>home</home_central>
+<footers>
+<block>pie_central</block>
+</footers>
+<style>
+style/style.css
+</style>
+</page>
+
+<pg name="home">
+<nav>
+<prev>any</prev><action>home</action></nav>
+</pg>
+
+<pg name="bookings">
+<nav><prev>any</prev><action>reset</action></nav>
+</pg>
+
+<pg name="veraccs" auth="1">
+<nav><prev>any</prev><action>reset</action></nav>
+</pg>
+
+<pg name="vergal" auth="0">
+<nav><prev>any</prev><action>reset</action></nav>
+</pg>
+
+<pg name="verscr">
+<nav><prev>any</prev><action>reset</action></nav>
+</pg>
+
+<pg name="edtscr">
+<nav><prev>verscr</prev><action>add</action><redir/></nav>
+</pg>
+
+<pg name="verviews">
+<nav><prev>any</prev><action>reset</action></nav>
+</pg>
+
+<pg name="edtview">
+<nav><prev>verviews</prev><action>add</action><redir/></nav>
+</pg>
+
+<pg name="verperms">
+<nav><prev>any</prev><action>reset</action></nav>
+</pg>
+
+<pg name="edtperm">
+<nav><prev>verperms</prev><action>add</action><redir/></nav>
+</pg>
+
+<pg name="themes">
+<nav><prev>any</prev><action>reset</action></nav>
+</pg>
+
+<pg name="verprd">
+<nav><prev>any</prev><action>reset</action></nav>
+</pg>
+
+<pg name="verpricelst">
+<nav><prev>any</prev><action>reset</action></nav>
+</pg>
+
+<pg name="verpriceprd">
+<nav><prev>verpricelst</prev><action>add</action></nav>
+<nav><prev>verpriceprd</prev><action>current</action></nav>
+</pg>
+
+<pg name="edtpricelst">
+<nav><prev>verpricelst</prev><action>add</action><redir/></nav>
+</pg>
+
+<pg name="edtpriceprd">
+<nav><prev>verpriceprd</prev><action>add</action><redir/></nav>
+</pg>
+
+
+<pg name="edtctg">
+<nav><prev>verprd</prev><action>add</action><redir/></nav>
+</pg>
+
+<pg name="edtprd">
+<nav><prev>verprd</prev><action>add</action><redir/></nav>
+</pg>
+
+<pg name="edtprdgal">
+<nav><prev>edtprd</prev><action>add</action></nav>
+<nav><prev>edtprdgal</prev><action>current</action></nav>
+<central>
+<block>addimg</block>
+<block>thumb</block>
+</central>
+</pg>
+
+<pg name="vertickets">
+<nav><prev>any</prev><action>reset</action></nav>
+</pg>
+
+<pg name="edtticket">
+<nav><prev>vertickets</prev><action>add</action><redir/></nav>
+</pg>
+
+<pg name="edtmsg">
+<nav><prev>vertickets</prev><action>add</action><redir/></nav>
+</pg>
+
+<pg name="mytkstats">
+<nav><prev>any</prev><action>reset</action></nav>
+</pg>
+
+<pg name="vertkctgs">
+<nav><prev>any</prev><action>reset</action></nav>
+</pg>
+
+<pg name="edttkctg">
+<nav><prev>vertkctgs</prev><action>add</action><redir/></nav>
+</pg>
+
+<pg name="verimmo">
+<nav><prev>any</prev><action>reset</action></nav>
+</pg>
+
+<pg name="verbookings">
+<nav><prev>any</prev><action>reset</action></nav>
+</pg>
+
+<pg name="verorgs">
+<nav><prev>any</prev><action>reset</action></nav>
+</pg>
+
+<pg name="vernot">
+<nav><prev>any</prev><action>reset</action></nav>
+</pg>
+
+<pg name="verseasons">
+<nav><prev>any</prev><action>reset</action></nav>
+</pg>
+
+<pg name="verusers">
+<nav><prev>any</prev><action>reset</action></nav>
+</pg>
+
+<pg name="verprefs">
+<nav><prev>any</prev><action>reset</action></nav>
+</pg>
+
+<pg name="edtpref">
+<nav><prev>verprefs</prev><action>add</action><redir/></nav>
+</pg>
+
+<pg name="verpobs">
+<nav><prev>edtperfil</prev><action>add</action></nav>
+<nav><prev>verpobs</prev><action>current</action></nav>
+<nav><prev>any</prev><action>reset</action></nav>
+</pg>
+
+<pg name="verconfig">
+<nav><prev>any</prev><action>reset</action></nav>
+</pg>
+
+<pg name="imgconfig">
+<nav><prev>verconfig</prev><action>add</action></nav>
+</pg>
+
+<pg name="cssconfig">
+<nav><prev>verconfig</prev><action>add</action></nav>
+</pg>
+
+<pg name="vermailings">
+<nav><prev>any</prev><action>reset</action></nav>
+</pg>
+
+<pg name="edtmailing">
+<nav><prev>vermailings</prev><action>add</action></nav>
+<nav><prev>noticia</prev><action>add</action><redir/></nav>
+</pg>
+
+<pg name="logsreader">
+<nav><prev>any</prev><action>reset</action></nav>
+</pg>
+
+<pg name="logsmonth">
+<nav><prev>logsreader</prev><action>add</action></nav>
+</pg>
+
+<pg name="logsday">
+<nav><prev>logsmonth</prev><action>add</action></nav>
+</pg>
+
+<pg name="genlang">
+<nav><prev>verlabels</prev><action>add</action></nav>
+</pg>
+
+<pg name="verhtml">
+<nav><prev>any</prev><action>reset</action></nav>
+</pg>
+
+<pg name="edthtml">
+<nav><prev>verhtml</prev><action>add</action></nav>
+</pg>
+
+<pg name="versets">
+<nav><prev>lovs</prev><action>add</action></nav>
+</pg>
+
+<pg name="verlabels">
+<nav><prev>any</prev><action>reset</action></nav>
+</pg>
+
+<pg name="edtlst">
+<nav><prev>versets</prev><action>add</action><redir/></nav>
+</pg>
+
+<pg name="edtlabel">
+<nav><prev>verlabels</prev><action>add</action><redir/></nav>
+</pg>
+
+<pg name="addimgnot">
+<nav><prev>noticia</prev><action>add</action></nav>
+</pg>
+
+<pg name="addpoint">
+<nav><prev>edtimmo</prev><action>add</action></nav>
+</pg>
+
+<pg name="noticia">
+<nav><prev>vernot</prev><action>add</action></nav>
+</pg>
+
+<pg name="noti">
+<nav><prev>noticia</prev><action>add</action><redir/></nav>
+<nav><prev>vernot</prev><action>add</action></nav>
+</pg>
+
+<pg name="edtuser">
+<nav><prev>verusers</prev><action>add</action><redir/></nav>
+<nav><prev>datpers</prev><action>current</action><redir/></nav>
+</pg>
+
+<pg name="edtseason">
+<nav><prev>verseasons</prev><action>add</action><redir/></nav>
+</pg>
+
+<pg name="edtsday">
+<nav><prev>edtseason</prev><action>add</action><redir/></nav>
+</pg>
+
+<pg name="datpers">
+<nav><prev>any</prev><action>reset</action></nav>
+</pg>
+
+<pg name="cpass">
+<nav><prev>any</prev><action>reset</action><redir/></nav>
+</pg>
+
+<pg name="edtperfil">
+<nav><prev>edtacc verimmo</prev><action>add</action><redir/></nav>
+<nav><prev>edtacc</prev><action>add</action><redir/></nav>
+</pg>
+
+<pg name="edtacc verimmo">
+<nav><prev>veraccs</prev><action>add</action></nav>
+</pg>
+
+<pg name="edtacc">
+<nav><prev>veraccs</prev><action>add</action><redir/></nav>
+<!--<central><block>verimmo</block></central>-->
+</pg>
+
+<pg name="edtcontact">
+<nav><prev>vercontacts</prev><action>add</action><redir/></nav>
+<nav><prev>edtacc</prev><action>add</action><redir/></nav>
+</pg>
+
+
+<pg name="edtimmo">
+<nav><prev>verimmo</prev><action>add</action><redir/></nav>
+<nav><prev>edtacc</prev><action>add</action><redir/></nav>
+</pg>
+
+<pg name="edthimmo">
+<nav><prev>edtimmo</prev><action>add</action><redir/></nav>
+</pg>
+
+<pg name="edtimmogal">
+<nav><prev>edtimmo</prev><action>add</action></nav>
+<nav><prev>edtimmogal</prev><action>current</action></nav>
+<central>
+<block>addimg</block>
+<block>thumb</block>
+</central>
+</pg>
+
+<pg name="edtbooking">
+<nav><prev>bookings</prev><action>add</action><redir/></nav>
+<nav><prev>verbookings</prev><action>add</action><redir/></nav>
+</pg>
+
+<pg name="thumb">
+<nav><prev>vergal</prev><action>add</action></nav>
+</pg>
+
+<pg name="edtgal">
+<nav><prev>vergal</prev><action>add</action></nav>
+<nav><prev>edtgal</prev><action>current</action></nav>
+<central>
+<block>thumb</block>
+</central>
+</pg>
+
+<pg name="edtorg">
+<nav><prev>verorgs</prev><action>add</action><redir/></nav>
+<nav><prev>datemp</prev><action>current</action><redir/></nav>
+</pg>
+
+<pg name="datemp">
+<nav><prev>any</prev><action>reset</action></nav>
+</pg>
+
+<pg name="edtposition">
+<nav><prev>verorgs</prev><action>add</action></nav>
+</pg>
+
+<pg name="addimg">
+<nav><prev>edtgal</prev><action>add</action><redir/></nav>
+</pg>
+
+<pg name="vertkemails">
+<nav><prev>any</prev><action>reset</action></nav>
+</pg>
+
+<pg name="edttkemail">
+<nav><prev>vertkemails</prev><action>add</action><redir/></nav>
+</pg>
+
+<pg name="vercountries">
+<nav><prev>any</prev><action>reset</action></nav>
+</pg>
+
+<pg name="vercomdad">
+<nav><prev>vercountries</prev><action>add</action></nav>
+</pg>
+
+<pg name="verprovs">
+<nav><prev>vercomdad</prev><action>add</action></nav>
+</pg>
+
+<pg name="vercities">
+<nav><prev>verprovs</prev><action>add</action></nav>
+</pg>
+
+<pg name="edtpob">
+<nav><prev>vercities</prev><action>add</action><redir/></nav>
+</pg>
+
+<pg name="edtcountry">
+<nav><prev>vercountries</prev><action>add</action><redir/></nav>
+</pg>
+
+<pg name="edtcomdad">
+<nav><prev>vercomdad</prev><action>add</action><redir/></nav>
+</pg>
+
+<pg name="edtprov">
+<nav><prev>verprovs</prev><action>add</action><redir/></nav>
+</pg>
+
+<pg name="mapinit">
+<nav><prev>any</prev><action>reset</action><redir/></nav>
+</pg>
+
+<pg name="lovs">
+<nav><prev>any</prev><action>reset</action><redir/></nav>
+</pg>
+
+
+</navigator>

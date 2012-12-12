@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<provincia>
+<row><id_prov type="smallint" >1548</id_prov><id_comunidad type="smallint" >289</id_comunidad><prov_name type="varchar"  label="County">Howard</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >1549</id_prov><id_comunidad type="smallint" >289</id_comunidad><prov_name type="varchar"  label="County">Washington</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >1550</id_prov><id_comunidad type="smallint" >289</id_comunidad><prov_name type="varchar"  label="County">Dorchester</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >1551</id_prov><id_comunidad type="smallint" >289</id_comunidad><prov_name type="varchar"  label="County">Anne Arundel</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >1552</id_prov><id_comunidad type="smallint" >289</id_comunidad><prov_name type="varchar"  label="County">Frederick</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >1553</id_prov><id_comunidad type="smallint" >289</id_comunidad><prov_name type="varchar"  label="County">Somerset</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >1554</id_prov><id_comunidad type="smallint" >289</id_comunidad><prov_name type="varchar"  label="County">Calvert</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >1555</id_prov><id_comunidad type="smallint" >289</id_comunidad><prov_name type="varchar"  label="County">Allegany</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >1556</id_prov><id_comunidad type="smallint" >289</id_comunidad><prov_name type="varchar"  label="County">Baltimore</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >1557</id_prov><id_comunidad type="smallint" >289</id_comunidad><prov_name type="varchar"  label="County">Montgomery</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >1558</id_prov><id_comunidad type="smallint" >289</id_comunidad><prov_name type="varchar"  label="County">Caroline</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >1559</id_prov><id_comunidad type="smallint" >289</id_comunidad><prov_name type="varchar"  label="County">Carroll</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >1560</id_prov><id_comunidad type="smallint" >289</id_comunidad><prov_name type="varchar"  label="County">Saint Mary's</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >1561</id_prov><id_comunidad type="smallint" >289</id_comunidad><prov_name type="varchar"  label="County">Harford</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >1562</id_prov><id_comunidad type="smallint" >289</id_comunidad><prov_name type="varchar"  label="County">Cecil</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >1563</id_prov><id_comunidad type="smallint" >289</id_comunidad><prov_name type="varchar"  label="County">Baltimore</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >1564</id_prov><id_comunidad type="smallint" >289</id_comunidad><prov_name type="varchar"  label="County">Charles</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >1565</id_prov><id_comunidad type="smallint" >289</id_comunidad><prov_name type="varchar"  label="County">Talbot</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >1566</id_prov><id_comunidad type="smallint" >289</id_comunidad><prov_name type="varchar"  label="County">Queen Anne's</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >1567</id_prov><id_comunidad type="smallint" >289</id_comunidad><prov_name type="varchar"  label="County">Wicomico</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >1568</id_prov><id_comunidad type="smallint" >289</id_comunidad><prov_name type="varchar"  label="County">Prince George's</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >1569</id_prov><id_comunidad type="smallint" >289</id_comunidad><prov_name type="varchar"  label="County">Worcester</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >1570</id_prov><id_comunidad type="smallint" >289</id_comunidad><prov_name type="varchar"  label="County">Kent</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >1571</id_prov><id_comunidad type="smallint" >289</id_comunidad><prov_name type="varchar"  label="County">Garrett</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+</provincia>
+</root>

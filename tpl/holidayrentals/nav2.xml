@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<navigator>
+
+	<page>
+		<xslt>hrentals</xslt>
+		<pgtitle />
+		<msg />
+		<mnu>
+			<item link="pg=page&amp;htm=about">ABOUTUS</item>
+			<item link="pg=org">OFICINAS</item>
+			<item href="http://www.bcn.cat">"Barcelona"</item>
+			<item link="pg=sinfo">CONTACTAR</item>
+			<item href="">"Condiciones"</item>
+			<item href="">"Nota Legal"</item>
+			<item href="">"Politica de Privacidad"</item>
+		</mnu>
+		<headers>
+			<block>langs</block>
+		</headers>
+		<home_central xml="home">home</home_central>
+		<bright>
+			<block>recom</block>			
+			<block>mnu_subs</block>
+			<block>news</block>
+		</bright>
+		<footers>
+			<block>footer</block>
+		</footers>
+	</page>
+
+	<pg name="home">
+		<nav>
+			<prev>any</prev>
+			<action>home</action>
+		</nav>
+		<central>
+		    <block xml="intro">copy</block>
+			<block>gmaps</block>
+			<block xml="search_title">copy</block>
+			<block>bookingsearch</block>			
+		</central>
+	</pg>
+
+	<pg name="tp_property">
+		<nav>
+			<prev>home</prev>
+			<action>add</action>
+		</nav>
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>
+	</pg>
+
+	<pg name="bookingsearch">
+		<nav>
+			<prev>home</prev>
+			<action>add</action>
+		</nav>
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>
+	</pg>
+
+	<pg name="isearch">
+		<nav>
+			<prev>home</prev>
+			<action>add</action>
+		</nav>
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>
+	</pg>
+
+	<pg name="verbookings">
+		<nav>
+			<prev>cities</prev>
+			<action>add</action>
+		</nav>
+		<nav>
+			<prev>tp_property</prev>
+			<action>add</action>
+		</nav>
+		<nav>
+			<prev>bookingsearch</prev>
+			<action>add</action>
+		</nav>
+		<nav>
+			<prev>verbookings</prev>
+			<action>current</action>
+		</nav>
+		<nav>
+			<prev>home</prev>
+			<action>add</action>
+		</nav>
+		<nav>
+			<prev>org</prev>
+			<action>reset</action>
+		</nav>
+	</pg>
+
+	<pg name="verimmo">
+		<nav>
+			<prev>cities</prev>
+			<action>add</action>
+		</nav>
+		<nav>
+			<prev>tp_property</prev>
+			<action>add</action>
+		</nav>
+		<nav>
+			<prev>isearch</prev>
+			<action>add</action>
+		</nav>
+		<nav>
+			<prev>verimmo</prev>
+			<action>current</action>
+		</nav>
+		<nav>
+			<prev>home</prev>
+			<action>add</action>
+		</nav>
+		<nav>
+			<prev>org</prev>
+			<action>reset</action>
+		</nav>
+	</pg>
+
+	<pg name="cities">
+		<nav>
+			<prev>home</prev>
+			<action>add</action>
+		</nav>
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>
+	</pg>
+
+	<pg name="immo">
+		<nav>
+			<prev>verimmo</prev>
+			<action>add</action>
+		</nav>
+		<nav>
+			<prev>verbookings</prev>
+			<action>add</action>
+		</nav>
+		<nav>
+			<prev>home</prev>
+			<action>add</action>
+		</nav>
+		<nav>
+			<prev>sinfo</prev>
+			<action>delete</action>
+		</nav>
+		<nav>
+			<prev>reservation</prev>
+			<action>delete</action>
+		</nav>
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>
+		<central>
+			<block>thumb</block>
+			<block>immocal</block>
+			<block>showpoint</block>
+		</central>
+	</pg>
+
+
+	<pg name="new">
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>
+	</pg>
+
+	<pg name="org">
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>
+		<central>
+			<block>bookingsearch</block>
+		</central>
+	</pg>
+
+	<pg name="sinfo">
+		<nav>
+			<prev>immo</prev>
+			<action>add</action>
+		</nav>
+		<nav>
+			<prev>sinfo</prev>
+			<action>current</action>
+		</nav>
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>
+
+	</pg>
+
+	<pg name="reservation">
+		<nav>
+			<prev>immo</prev>
+			<action>add</action>
+		</nav>
+		<nav>
+			<prev>reservation</prev>
+			<action>current</action>
+		</nav>
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>
+		<central>
+			<block>immo</block>
+			<block>immocal</block>		
+		</central>
+
+	</pg>
+
+	<pg name="about">
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>
+	</pg>
+
+	<pg name="sell">
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>
+	</pg>
+
+	<pg name="page">
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>
+		<central>
+			<block>bookingsearch</block>
+		</central>
+	</pg>
+
+	<pg name="subs">
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>
+	</pg>
+
+	<pg name="remember">
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>
+	</pg>
+
+	<pg name="confirm">
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>
+	</pg>
+	
+	<pg name="bookvalid">
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>
+	</pg>
+
+	<pg name="unreg">
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>
+	</pg>
+
+</navigator>

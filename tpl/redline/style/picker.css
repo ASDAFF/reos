@@ -1,0 +1,35 @@
+
+
+/* the div that holds the date picker calendar */
+.pDiv {
+       }
+
+
+/* the table (within the div) that holds the date picker calendar */
+.pTable {
+        font-family: Tahoma, Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        text-align: center;
+        color: #505050;
+        background-color: #ece9d8;
+        border: 1px solid #AAAAAA;
+        width:150px;
+        }
+.ptd {
+     padding:5px 5px 5px 5px;
+     {
+
+/* the forward/backward buttons at the top */
+.pButton {
+        font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+        font-size: 10px;
+        color: gray;
+        background: #d8e8ff;
+        font-weight: bold;
+        padding: 0px;
+        }
+
+
+
+
+

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<provincia>
+<row><id_prov type="smallint" >672</id_prov><id_comunidad type="smallint" >273</id_comunidad><prov_name type="varchar"  label="County">Sussex</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >673</id_prov><id_comunidad type="smallint" >273</id_comunidad><prov_name type="varchar"  label="County">New Castle</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >674</id_prov><id_comunidad type="smallint" >273</id_comunidad><prov_name type="varchar"  label="County">Kent</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+</provincia>
+</root>

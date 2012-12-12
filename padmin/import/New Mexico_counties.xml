@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<provincia>
+<row><id_prov type="smallint" >2150</id_prov><id_comunidad type="smallint" >301</id_comunidad><prov_name type="varchar"  label="County">Curry</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2151</id_prov><id_comunidad type="smallint" >301</id_comunidad><prov_name type="varchar"  label="County">Dona Ana</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2152</id_prov><id_comunidad type="smallint" >301</id_comunidad><prov_name type="varchar"  label="County">Chaves</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2153</id_prov><id_comunidad type="smallint" >301</id_comunidad><prov_name type="varchar"  label="County">Harding</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2154</id_prov><id_comunidad type="smallint" >301</id_comunidad><prov_name type="varchar"  label="County">Cibola</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2155</id_prov><id_comunidad type="smallint" >301</id_comunidad><prov_name type="varchar"  label="County">Eddy</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2156</id_prov><id_comunidad type="smallint" >301</id_comunidad><prov_name type="varchar"  label="County">Colfax</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2157</id_prov><id_comunidad type="smallint" >301</id_comunidad><prov_name type="varchar"  label="County">Catron</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2158</id_prov><id_comunidad type="smallint" >301</id_comunidad><prov_name type="varchar"  label="County">Hidalgo</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2159</id_prov><id_comunidad type="smallint" >301</id_comunidad><prov_name type="varchar"  label="County">Grant</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2160</id_prov><id_comunidad type="smallint" >301</id_comunidad><prov_name type="varchar"  label="County">DeBaca</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2161</id_prov><id_comunidad type="smallint" >301</id_comunidad><prov_name type="varchar"  label="County">Guadalupe</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2162</id_prov><id_comunidad type="smallint" >301</id_comunidad><prov_name type="varchar"  label="County">Rio Arriba</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2163</id_prov><id_comunidad type="smallint" >301</id_comunidad><prov_name type="varchar"  label="County">McKinley</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2164</id_prov><id_comunidad type="smallint" >301</id_comunidad><prov_name type="varchar"  label="County">Los Alamos</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2165</id_prov><id_comunidad type="smallint" >301</id_comunidad><prov_name type="varchar"  label="County">Otero</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2166</id_prov><id_comunidad type="smallint" >301</id_comunidad><prov_name type="varchar"  label="County">Roosevelt</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2167</id_prov><id_comunidad type="smallint" >301</id_comunidad><prov_name type="varchar"  label="County">Quay</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2168</id_prov><id_comunidad type="smallint" >301</id_comunidad><prov_name type="varchar"  label="County">Luna</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2169</id_prov><id_comunidad type="smallint" >301</id_comunidad><prov_name type="varchar"  label="County">Sierra</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2170</id_prov><id_comunidad type="smallint" >301</id_comunidad><prov_name type="varchar"  label="County">Socorro</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2171</id_prov><id_comunidad type="smallint" >301</id_comunidad><prov_name type="varchar"  label="County">Lincoln</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2172</id_prov><id_comunidad type="smallint" >301</id_comunidad><prov_name type="varchar"  label="County">Bernalillo</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2173</id_prov><id_comunidad type="smallint" >301</id_comunidad><prov_name type="varchar"  label="County">Santa Fe</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2174</id_prov><id_comunidad type="smallint" >301</id_comunidad><prov_name type="varchar"  label="County">San Miguel</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2175</id_prov><id_comunidad type="smallint" >301</id_comunidad><prov_name type="varchar"  label="County">Taos</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2176</id_prov><id_comunidad type="smallint" >301</id_comunidad><prov_name type="varchar"  label="County">Lea</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2177</id_prov><id_comunidad type="smallint" >301</id_comunidad><prov_name type="varchar"  label="County">San Juan</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2178</id_prov><id_comunidad type="smallint" >301</id_comunidad><prov_name type="varchar"  label="County">Valencia</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2179</id_prov><id_comunidad type="smallint" >301</id_comunidad><prov_name type="varchar"  label="County">Sandoval</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2180</id_prov><id_comunidad type="smallint" >301</id_comunidad><prov_name type="varchar"  label="County">Mora</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2181</id_prov><id_comunidad type="smallint" >301</id_comunidad><prov_name type="varchar"  label="County">Torrance</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2182</id_prov><id_comunidad type="smallint" >301</id_comunidad><prov_name type="varchar"  label="County">Union</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+</provincia>
+</root>

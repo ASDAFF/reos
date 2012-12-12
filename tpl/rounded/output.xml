@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html>
+<head>
+<title>Company Name</title>
+<meta http-equiv="CONTENT-LANGUAGE" content="en-us"/><meta http-equiv="EXPIRES" content="0"/>
+<meta name="RESOURCE-TYPE" content="DOCUMENT"/>
+<meta name="DISTRIBUTION" content="GLOBAL"/>
+<meta name="AUTHOR" content="Company Name"/>
+<meta name="COPYRIGHT" content="Copyright (c) 2010 by Company Name"/>
+<meta name="KEYWORDS" content="Real Estate"/>
+<meta name="DESCRIPTION" content="Real Estate Management"/>
+<meta name="ROBOTS" content="INDEX, FOLLOW"/>
+<meta name="REVISIT-AFTER" content="1 DAYS"/>
+<meta name="RATING" content="GENERAL"/>
+<meta name="GENERATOR" content="Copyright 2010 by Company Name"/>
+<script language="javascript" type="text/javascript" src="padmin//jscripts/dol.js"> </script>
+</head>
+<page onload="initDynamicOptionLists();" lang="en-us" path="">
+<msg><position><pos>Home</pos></position></msg><headers>
+<langs>
+<item href="index.php?idma=en">English</item><item href="index.php?idma=es">Spanish</item><item href="index.php?idma=fr">French</item><item href="index.php?idma=nl">Ducth</item><item href="index.php?idma=ca">Catalan</item><item href="index.php?idma=de">German</item><item href="index.php?idma=tr">Turkish</item><item href="index.php?idma=zh-tw">Chinese-tw</item><item href="index.php?idma=zh-cn">Chinese-cn</item><item href="index.php?idma=ru">Russian</item><item href="index.php?idma=en-us">English-US</item></langs></headers>
+<bleft>
+<mnu title="Customers Area">
+<item href="members.php">Enter</item>
+</mnu>
+<mnu_oferta title="Properties"><moptions><TP_0 href="for-sale.html?pg=tp_property&amp;option=1&amp;tp_servicio=1&amp;nm=For Sale">For Sale</TP_0><TP_1 href="for-rent.html?pg=tp_property&amp;option=1&amp;tp_servicio=2&amp;nm=For Rent">For Rent</TP_1><TP_2 href="holiday-rental.html?pg=tp_property&amp;option=1&amp;tp_servicio=3&amp;nm=Holiday Rental">Holiday Rental</TP_2><TP_3 href="new-building.html?pg=tp_property&amp;option=1&amp;tp_servicio=4&amp;nm=New Building">New Building</TP_3><search href="search-by-criteria.html?pg=isearch&amp;nm=Search by Criteria">Search by Criteria</search></moptions></mnu_oferta><mnu_about title="Company Name"><moptions><about href="about-us.html?pg=page&amp;htm=about&amp;nm=About us">About us</about><ofis href="offices.html?pg=org&amp;nm=Offices">Offices</ofis><contact href="contact.html?pg=sinfo&amp;nm=Contact">Contact</contact></moptions></mnu_about><mnu_sell title="I want to sell"><moptions><sell href="obtain-for-your-house-what-really-costs.html?pg=page&amp;htm=sell&amp;nm=I want to sell">Obtain for your house what really costs</sell></moptions></mnu_sell><mnu_subs title="Register"><moptions><subs href="receive-our-news.html?pg=subs&amp;nm=Register">Receive our news</subs></moptions></mnu_subs><mnu_bguide title="Buying Guide"><moptions><bguide href="guide.html?pg=page&amp;htm=guia&amp;nm=Guide">Guide</bguide><calc href="mortatge-calculation.html?pg=hipotec&amp;nm=Mortatge Calculation">Mortatge Calculation</calc></moptions></mnu_bguide></bleft>
+<central>
+<content><home>
+<title_home>Buy, Sell or Rent a Home</title_home>
+</home>
+</content>
+<tp_property ><title>Search by Property Type</title><item id="1" num="51" href="single-family-home.html?pg=cities&amp;tp_propiedad=1&amp;nm=Single Family Home">Single Family Home</item><item id="3" num="4" href="apartment.html?pg=cities&amp;tp_propiedad=3&amp;nm=Apartment">Apartment</item><item id="4" num="1" href="investment-property.html?pg=cities&amp;tp_propiedad=4&amp;nm=Investment Property">Investment Property</item></tp_property><immosearch>
+<title>Search by Criteria</title><script type="text/javascript" id="form1_txt_poblacion">
+var levels = new DynamicOptionList("form1_txt_poblacion","form1_txt_zona");
+levels.forValue("").addOptionsTextValue('Any','');
+levels.forValue("Los Angeles").addOptionsTextValue('Any','');
+levels.forValue("Los Angeles").addOptionsTextValue('Long Beach','Long Beach');
+levels.forValue("Richmond").addOptionsTextValue('Any','');
+levels.forValue("Richmond").addOptionsTextValue('Lowertown','Lowertown');
+levels.forValue("Chicago").addOptionsTextValue('Any','');
+levels.forValue("Chicago").addOptionsTextValue('Any','');
+levels.forValue("Wichita").addOptionsTextValue('Any','');
+levels.forValue("Wichita").addOptionsTextValue('Beacon Hill','Beacon Hill');
+levels.forValue("Boston").addOptionsTextValue('Any','');
+levels.forValue("Boston").addOptionsTextValue('North End','North End');
+levels.forValue("Saint Paul").addOptionsTextValue('Any','');
+levels.forValue("Saint Paul").addOptionsTextValue('Riverside','Riverside');
+levels.forValue("New York").addOptionsTextValue('Any','');
+levels.forValue("New York").addOptionsTextValue('Downtown','Downtown');
+levels.forValue("Austin").addOptionsTextValue('Any','');
+levels.forValue("Austin").addOptionsTextValue('Yorkville','Yorkville');
+levels.selectFirstOption = true;
+</script>
+<formdef name="form1"><htmlform><form class="forms" method="get" action="index.php" id="form1" enctype="multipart/form-data">
+<table class="forms">
+<tr><td class="field_title">Reference:</td><td class="field_value" >
+<input type="text" class="field_textbox" id="form1_ref_immo" name="form1_ref_immo" size="10" maxlength="10" value=""   />
+</td><td class="field_title">Order by:</td><td class="field_value" ><select class="field_listbox" name="form1_order_by"   >
+<option value="precio" >Price</option>
+<option value="ref_immo" >Reference</option>
+<option value="txt_poblacion" >City</option>
+<option value="tp_propiedad" >Property type</option>
+</select>
+</td></tr><tr><td class="field_title">Property type:</td><td class="field_value" ><select class="field_listbox" name="form1_tp_propiedad"   >
+<option value="" selected="selected">Any</option>
+<option value="1" >Single Family Home</option>
+<option value="2" >Condo or Townhome</option>
+<option value="3" >Apartment</option>
+<option value="4" >Investment Property</option>
+<option value="5" >Vacant Land</option>
+<option value="6" >Others</option>
+</select>
+</td><td class="field_title">Order:</td><td class="field_value" ><select class="field_listbox" name="form1_in_order"   >
+<option value="ASC" >Ascending</option>
+<option value="DESC" >Descending</option>
+</select>
+</td></tr><tr><td class="field_title">Transaction:</td><td class="field_value" ><select class="field_listbox" name="form1_tp_servicio"   >
+<option value="" selected="selected">Any</option>
+<option value="1" >For Sale</option>
+<option value="2" >For Rent</option>
+<option value="3" >Holiday Rental</option>
+<option value="4" >New Building</option>
+</select>
+</td></tr><tr><td class="field_title">City:</td><td class="field_value" ><select class="field_listbox" name="form1_txt_poblacion"   >
+<option value="" selected="selected">Any</option>
+<option value="Los Angeles" >Los Angeles</option>
+<option value="Richmond" >Richmond</option>
+<option value="Chicago" >Chicago</option>
+<option value="Wichita" >Wichita</option>
+<option value="Boston" >Boston</option>
+<option value="Saint Paul" >Saint Paul</option>
+<option value="New York" >New York</option>
+<option value="Austin" >Austin</option>
+</select>
+</td></tr><tr><td class="field_title">Zone:</td><td class="field_value" ><select class="field_listbox" name="form1_txt_zona"   >
+<option value="" selected="selected"><script type="text/javascript">levels.printOptions("form1_txt_zona")</script></option>
+</select>
+</td></tr><tr><td class="field_title">Min. Price US$:</td><td class="field_value" ><select class="field_listbox" name="form1_precio_min"   >
+<option value="" selected="selected"> </option>
+<option value="10000" >10,000 </option>
+<option value="20000" >20,000 </option>
+<option value="30000" >30,000 </option>
+<option value="40000" >40,000 </option>
+<option value="60000" >60,000 </option>
+<option value="80000" >80,000 </option>
+<option value="100000" >100,000 </option>
+<option value="130000" >130,000 </option>
+<option value="160000" >160,000 </option>
+<option value="200000" >200,000 </option>
+<option value="230000" >230,000 </option>
+<option value="260000" >260,000 </option>
+<option value="300000" >300,000 </option>
+<option value="330000" >330,000 </option>
+<option value="360000" >360,000 </option>
+<option value="400000" >400,000 </option>
+<option value="500000" >500,000 </option>
+<option value="600000" >600,000 </option>
+<option value="700000" >700,000 </option>
+<option value="800000" >800,000 </option>
+<option value="900000" >900,000 </option>
+<option value="1000000" >1,000,000 </option>
+<option value="1200000" >1,200,000 </option>
+<option value="1400000" >1,400,000 </option>
+<option value="1600000" >1,600,000 </option>
+<option value="1800000" >1,800,000 </option>
+<option value="2000000" >2,000,000</option>
+</select>
+</td></tr><tr><td class="field_title">Max. Price US$:</td><td class="field_value" ><select class="field_listbox" name="form1_precio_max"   >
+<option value="" selected="selected"> </option>
+<option value="10000" >10,000 </option>
+<option value="20000" >20,000 </option>
+<option value="30000" >30,000 </option>
+<option value="40000" >40,000 </option>
+<option value="60000" >60,000 </option>
+<option value="80000" >80,000 </option>
+<option value="100000" >100,000 </option>
+<option value="130000" >130,000 </option>
+<option value="160000" >160,000 </option>
+<option value="200000" >200,000 </option>
+<option value="230000" >230,000 </option>
+<option value="260000" >260,000 </option>
+<option value="300000" >300,000 </option>
+<option value="330000" >330,000 </option>
+<option value="360000" >360,000 </option>
+<option value="400000" >400,000 </option>
+<option value="500000" >500,000 </option>
+<option value="600000" >600,000 </option>
+<option value="700000" >700,000 </option>
+<option value="800000" >800,000 </option>
+<option value="900000" >900,000 </option>
+<option value="1000000" >1,000,000 </option>
+<option value="1200000" >1,200,000 </option>
+<option value="1400000" >1,400,000 </option>
+<option value="1600000" >1,600,000 </option>
+<option value="1800000" >1,800,000 </option>
+<option value="2000000" >2,000,000</option>
+</select>
+</td></tr><tr><td class="field_title"></td><td class="field_value" ><input type="hidden" id="form1_data" name="form1_data" value="pg=verimmo,nm=Search Results,show=0,from=0"/>
+</td></tr></table>
+<div><input type="hidden" name="form1_phpform_sent" value="1"/></div>
+</form></htmlform>
+<fbutton>
+Search</fbutton></formdef>
+</immosearch></central>
+<footers>
+<footer>Copyright © 2010 <a href="http://www.elazos.com">Your Company Name</a> - All Rights Reserved. - Powered by <a href="http://reos.elazos.com">ReOS 2.0.5</a> and released under the <a href="http://www.fsf.org/licensing/licenses/agpl-3.0.html">GNU/AGPLv3 License.</a></footer></footers>
+</page>
+</html>

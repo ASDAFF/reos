@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<navigator>
+	<page>
+		<xslt>redline</xslt>
+		<pgtitle />
+		<msg />
+		<mnu name="logout">
+			<item href="logout.php">logout</item>
+		</mnu>
+		<headers/>
+		<bleft>
+			<block>mnu_members</block>
+			<block>bguide</block>
+		</bleft>
+		<home_central xml="members">home</home_central>
+		<footers>
+			<block>footer</block>
+		</footers>
+	</page>
+
+	<pg name="loginform">
+		<nav>
+			<prev>any</prev>
+			<action>home</action>
+		</nav>
+		<bleft>
+			<mnu title="HOME">
+				<item href="index.php">BACK</item>
+			</mnu>
+		</bleft>
+		<bright />
+	</pg>
+
+	<pg name="home">
+		<nav>
+			<prev>any</prev>
+			<action>home</action>
+		</nav>
+	</pg>
+
+	<pg name="edtacc">
+		<nav>
+			<prev>edtacc</prev>
+			<action>nothing</action>
+		</nav>
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+			<redir />
+		</nav>
+	</pg>
+
+	<pg name="edtimmo">
+		<nav>
+			<prev>immo</prev>
+			<action>add</action>
+		</nav>
+		<nav>
+			<prev>edtimmo</prev>
+			<action>current</action>
+			<redir>edtimmogal</redir>
+		</nav>
+		<nav>
+			<prev>my_immos</prev>
+			<action>add</action>
+			<redir />
+		</nav>
+	</pg>
+
+	<pg name="edtimmogal">
+		<nav>
+			<prev>edtimmo</prev>
+			<action>current</action>
+		</nav>
+		<nav>
+			<prev>edtimmogal</prev>
+			<action>current</action>
+		</nav>
+		<central>
+			<block>addimg</block>
+			<block>thumb</block>
+		</central>
+	</pg>
+
+	<pg name="addpoint">
+		<nav>
+			<prev>edtimmogal</prev>
+			<action>current</action>
+		</nav>
+		<nav>
+			<prev>edtimmo</prev>
+			<action>current</action>
+		</nav>
+		<nav>
+			<prev>addpoint</prev>
+			<action>current</action>
+			<redir>immo</redir>
+		</nav>
+	</pg>
+
+
+	<pg name="edtperfil">
+		<nav>
+			<prev>home</prev>
+			<action>add</action>
+			<redir />
+		</nav>
+		<nav>
+			<prev>edtperfil</prev>
+			<action>nothing</action>
+		</nav>
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>
+	</pg>
+
+	<pg name="verpobs">
+		<nav>
+			<prev>edtperfil</prev>
+			<action>add</action>
+		</nav>
+		<nav>
+			<prev>verpobs</prev>
+			<action>current</action>
+		</nav>
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>		
+	</pg>
+
+
+	<pg name="my_immos">	
+		<nav>
+			<prev>edtimmo</prev>
+			<action>delete</action>
+		</nav>
+		<nav>
+			<prev>edtimmogal</prev>
+			<action>delete</action>
+		</nav>	
+		<nav>
+			<prev>my_immos</prev>
+			<action>current</action>
+		</nav>	
+		<nav>
+			<prev>home</prev>
+			<action>add</action>
+		</nav>
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+			<redir/>
+		</nav>
+		<bright></bright>
+	</pg>
+
+
+	<pg name="immo">
+		<nav>
+			<prev>my_immos</prev>
+			<action>add</action>
+		</nav>
+		<nav>
+			<prev>addpoint</prev>
+			<action>current</action>
+		</nav>
+		<bright></bright>
+		<central>
+			<block>thumb</block>
+			<block>immocal</block>
+			<block>showpoint</block>
+		</central>
+	</pg>
+
+	<pg name="org">
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>
+	</pg>
+
+	<pg name="sinfo">
+		<nav>
+			<prev>immo</prev>
+			<action>add</action>
+		</nav>
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>
+		<bright></bright>
+	</pg>
+
+	<pg name="about">
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>
+	</pg>
+
+	<pg name="sell">
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>
+	</pg>
+
+	<pg name="page">
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>
+	</pg>
+
+	<pg name="subs">
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>
+	</pg>
+
+	<pg name="confirm">
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>
+	</pg>
+
+	<pg name="unreg">
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>
+	</pg>
+
+	<pg name="hipotec">
+		<nav>
+			<prev>immo</prev>
+			<action>add</action>
+		</nav>
+		<nav>
+			<prev>hipotec</prev>
+			<action>current</action>
+		</nav>
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>
+		<bright></bright>
+	</pg>
+
+</navigator>

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html>
+<head>
+<title>Company Name</title>
+<meta http-equiv="CONTENT-LANGUAGE" content="en"/><meta http-equiv="EXPIRES" content="0"/>
+<meta name="RESOURCE-TYPE" content="DOCUMENT"/>
+<meta name="DISTRIBUTION" content="GLOBAL"/>
+<meta name="AUTHOR" content="Company Name"/>
+<meta name="COPYRIGHT" content="Copyright (c) 2010 by Company Name"/>
+<meta name="KEYWORDS" content="Real Estate"/>
+<meta name="DESCRIPTION" content="Real Estate Management"/>
+<meta name="ROBOTS" content="INDEX, FOLLOW"/>
+<meta name="REVISIT-AFTER" content="1 DAYS"/>
+<meta name="RATING" content="GENERAL"/>
+<meta name="GENERATOR" content="Copyright 2010 by Company Name"/>
+<script language="javascript" type="text/javascript" src="padmin//jscripts/dol.js"> </script>
+</head>
+<page onload="initDynamicOptionLists();" lang="en" path="">
+<mnu >
+<item href="about-us.html?pg=page&amp;htm=about&amp;nm=About us">About us</item>
+<item href="offices.html?pg=org&amp;nm=Offices">Offices</item>
+<item href="http://www.bcn.cat">Barcelona</item>
+<item href="contact.html?pg=sinfo&amp;nm=Contact">Contact</item>
+<item href="">Condiciones</item>
+<item href="">Nota Legal</item>
+<item href="">Politica de Privacidad</item>
+</mnu>
+<msg><position><pos>Home</pos></position></msg><headers>
+<langs>
+<item href="index.php?idma=en">English</item><item href="index.php?idma=es">Spanish</item><item href="index.php?idma=fr">French</item><item href="index.php?idma=nl">Ducth</item><item href="index.php?idma=ca">Catalan</item><item href="index.php?idma=de">German</item><item href="index.php?idma=tr">Turkish</item><item href="index.php?idma=zh-tw">Chinese-tw</item><item href="index.php?idma=zh-cn">Chinese-cn</item><item href="index.php?idma=ru">Russian</item><item href="index.php?idma=en-us">English-US</item></langs></headers>
+<central>
+<home>
+  <img src="tpl/holidayrentals/images/beach.jpg"/>
+</home>
+<search_title>
+Your perfect holiday rental is a click away
+</search_title>
+<gmap>
+<script
+	src="http://maps.google.com/maps?file=api&amp;v=2&amp;hl=en&amp;key=ABQIAAAAXqhLkdc0bUs8sBT4Gb3cYBQNAhrwv2b04l8JGpHz7Ea3766UlxQEGMQBNrRH1HISmz_l77ghgjEUUQ"
+	type="text/javascript"> </script>
+<script
+	src="padmin/jscripts//gmap.js"
+	type="text/javascript"> </script>	
+	
+<script type="text/javascript">
+    <![CDATA[
+    if (window.addEventListener){    
+    window.addEventListener('load', function() {loadmap('40.04443758460856','-96.50390625',3,'localhost:8080/index.php?');}, false);
+    } else {
+     window.attachEvent('onload',function() {loadmap('40.04443758460856','-96.50390625',3,'localhost:8080/index.php?');});    
+    }
+    
+    ]]>
+    </script>
+
+    <div id="map" class="gmap"></div>
+</gmap><search_title>
+Your perfect holiday rental is a click away
+</search_title>
+<immosearch>
+<title>Search by Criteria</title><script type="text/javascript" id="form1_txt_poblacion">
+var levels = new DynamicOptionList("form1_txt_poblacion","form1_txt_zona");
+levels.forValue("").addOptionsTextValue('Any','');
+levels.forValue("Los Angeles").addOptionsTextValue('Any','');
+levels.forValue("Los Angeles").addOptionsTextValue('Long Beach','Long Beach');
+levels.forValue("Richmond").addOptionsTextValue('Any','');
+levels.forValue("Richmond").addOptionsTextValue('Lowertown','Lowertown');
+levels.forValue("Chicago").addOptionsTextValue('Any','');
+levels.forValue("Chicago").addOptionsTextValue('Any','');
+levels.forValue("Wichita").addOptionsTextValue('Any','');
+levels.forValue("Wichita").addOptionsTextValue('Beacon Hill','Beacon Hill');
+levels.forValue("Boston").addOptionsTextValue('Any','');
+levels.forValue("Boston").addOptionsTextValue('North End','North End');
+levels.forValue("Saint Paul").addOptionsTextValue('Any','');
+levels.forValue("Saint Paul").addOptionsTextValue('Riverside','Riverside');
+levels.forValue("New York").addOptionsTextValue('Any','');
+levels.forValue("New York").addOptionsTextValue('Downtown','Downtown');
+levels.forValue("Austin").addOptionsTextValue('Any','');
+levels.forValue("Austin").addOptionsTextValue('Yorkville','Yorkville');
+levels.selectFirstOption = true;
+</script>
+<formdef name="form1"><htmlform><form class="forms" method="get" action="index.php" id="form1" enctype="multipart/form-data">
+<table class="forms">
+<tr><td class="field_title">Reference:</td><td class="field_value" >
+<input type="text" class="field_textbox" id="form1_ref_immo" name="form1_ref_immo" size="10" maxlength="10" value=""   />
+</td></tr><tr><td class="field_title">Min. Price US$:</td><td class="field_value" ><select class="field_listbox" name="form1_precio_min"   >
+<option value="" selected="selected"> </option>
+<option value="10000" >10,000 </option>
+<option value="20000" >20,000 </option>
+<option value="30000" >30,000 </option>
+<option value="40000" >40,000 </option>
+<option value="60000" >60,000 </option>
+<option value="80000" >80,000 </option>
+<option value="100000" >100,000 </option>
+<option value="130000" >130,000 </option>
+<option value="160000" >160,000 </option>
+<option value="200000" >200,000 </option>
+<option value="230000" >230,000 </option>
+<option value="260000" >260,000 </option>
+<option value="300000" >300,000 </option>
+<option value="330000" >330,000 </option>
+<option value="360000" >360,000 </option>
+<option value="400000" >400,000 </option>
+<option value="500000" >500,000 </option>
+<option value="600000" >600,000 </option>
+<option value="700000" >700,000 </option>
+<option value="800000" >800,000 </option>
+<option value="900000" >900,000 </option>
+<option value="1000000" >1,000,000 </option>
+<option value="1200000" >1,200,000 </option>
+<option value="1400000" >1,400,000 </option>
+<option value="1600000" >1,600,000 </option>
+<option value="1800000" >1,800,000 </option>
+<option value="2000000" >2,000,000</option>
+</select>
+</td></tr><tr><td class="field_title">Max. Price US$:</td><td class="field_value" ><select class="field_listbox" name="form1_precio_max"   >
+<option value="" selected="selected"> </option>
+<option value="10000" >10,000 </option>
+<option value="20000" >20,000 </option>
+<option value="30000" >30,000 </option>
+<option value="40000" >40,000 </option>
+<option value="60000" >60,000 </option>
+<option value="80000" >80,000 </option>
+<option value="100000" >100,000 </option>
+<option value="130000" >130,000 </option>
+<option value="160000" >160,000 </option>
+<option value="200000" >200,000 </option>
+<option value="230000" >230,000 </option>
+<option value="260000" >260,000 </option>
+<option value="300000" >300,000 </option>
+<option value="330000" >330,000 </option>
+<option value="360000" >360,000 </option>
+<option value="400000" >400,000 </option>
+<option value="500000" >500,000 </option>
+<option value="600000" >600,000 </option>
+<option value="700000" >700,000 </option>
+<option value="800000" >800,000 </option>
+<option value="900000" >900,000 </option>
+<option value="1000000" >1,000,000 </option>
+<option value="1200000" >1,200,000 </option>
+<option value="1400000" >1,400,000 </option>
+<option value="1600000" >1,600,000 </option>
+<option value="1800000" >1,800,000 </option>
+<option value="2000000" >2,000,000</option>
+</select>
+</td></tr><tr><td class="field_title">City:</td><td class="field_value" ><select class="field_listbox" name="form1_txt_poblacion"   >
+<option value="" selected="selected">Any</option>
+<option value="Los Angeles" >Los Angeles</option>
+<option value="Richmond" >Richmond</option>
+<option value="Chicago" >Chicago</option>
+<option value="Wichita" >Wichita</option>
+<option value="Boston" >Boston</option>
+<option value="Saint Paul" >Saint Paul</option>
+<option value="New York" >New York</option>
+<option value="Austin" >Austin</option>
+</select>
+</td></tr><tr><td class="field_title">Zone:</td><td class="field_value" ><select class="field_listbox" name="form1_txt_zona"   >
+<option value="" selected="selected"><script type="text/javascript">levels.printOptions("form1_txt_zona")</script></option>
+</select>
+</td></tr><tr><td class="field_title">Start Date:</td><td class="field_value" ><LINK REL="stylesheet" HREF="tpl/holidayrentals/style/datepicker.css" type="text/css"/>
+<SCRIPT LANGUAGE="JavaScript" SRC="padmin/jscripts/datepicker.js"></SCRIPT>
+
+<input type="text" class="field_datebox" name="form1_dt_start_bk" size="8" maxlength="10" value=""   />
+<a href="javascript:void(0);" onclick="displayDatePicker('form1_dt_start_bk',null,'mdy');"><img src="tpl/holidayrentals/images/fcalendar.png" alt="" style="vertical-align:top;border:0"/></a></td></tr><tr><td class="field_title">End Date:</td><td class="field_value" ><LINK REL="stylesheet" HREF="tpl/holidayrentals/style/datepicker.css" type="text/css"/>
+<SCRIPT LANGUAGE="JavaScript" SRC="padmin/jscripts/datepicker.js"></SCRIPT>
+
+<input type="text" class="field_datebox" name="form1_dt_end_bk" size="8" maxlength="10" value=""   />
+<a href="javascript:void(0);" onclick="displayDatePicker('form1_dt_end_bk',null,'mdy');"><img src="tpl/holidayrentals/images/fcalendar.png" alt="" style="vertical-align:top;border:0"/></a></td></tr><tr><td class="field_title">Order by:</td><td class="field_value" ><select class="field_listbox" name="form1_order_by"   >
+<option value="precio" >Price</option>
+<option value="ref_immo" >Reference</option>
+<option value="txt_poblacion" >City</option>
+<option value="tp_propiedad" >Property type</option>
+</select>
+</td></tr><tr><td class="field_title">Order:</td><td class="field_value" ><select class="field_listbox" name="form1_in_order"   >
+<option value="ASC" >Ascending</option>
+<option value="DESC" >Descending</option>
+</select>
+</td></tr><tr><td class="field_title"></td><td class="field_value" ><input type="hidden" id="form1_data" name="form1_data" value="pg=verbookings,nm=Search Results,show=0,from=0"/>
+</td></tr></table>
+<div><input type="hidden" name="form1_phpform_sent" value="1"/></div>
+</form></htmlform>
+<fbutton>
+Search</fbutton></formdef>
+</immosearch></central>
+<bright>
+<recom title="Recommended"><item href="apartment-for-sale-boston.html?pg=immo&amp;id_immo=47&amp;nm=Recommended P-F88A"><img src="padmin/galleries/12d8d0/thumbnails/3c57casa1.jpg"/><refe>P-F88A</refe><transaction>Apartment For Sale</transaction><city>Boston</city><zone>North End</zone><price><label>Price : Under request.</label></price></item><item href="apartment-for-sale-new-york.html?pg=immo&amp;id_immo=60&amp;nm=Recommended P-8C34"><img src="padmin/galleries/167b66/thumbnails/15a0dsff.jpg"/><refe>P-8C34</refe><transaction>Apartment For Sale</transaction><city>New york</city><zone>Yorkville</zone><price><label>Price : </label><valprc>425,000 US$</valprc><type></type></price></item></recom><mnu_subs title="Register"><moptions><subs href="receive-our-news.html?pg=subs&amp;nm=Register">Receive our news</subs></moptions></mnu_subs></bright>
+<footers>
+<footer>Copyright © 2010 <a href="http://www.elazos.com">Your Company Name</a> - All Rights Reserved. - Powered by <a href="http://reos.elazos.com">ReOS 2.0.5</a> and released under the <a href="http://www.fsf.org/licensing/licenses/agpl-3.0.html">GNU/AGPLv3 License.</a></footer></footers>
+</page>
+</html>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<poblacion>
+<row><id_poblacion type="int" >4313</id_poblacion><id_prov type="smallint" >452</id_prov><name_pob type="varchar"  label="City">Holbrook</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >4314</id_poblacion><id_prov type="smallint" >453</id_prov><name_pob type="varchar"  label="City">Kingman</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >4315</id_poblacion><id_prov type="smallint" >454</id_prov><name_pob type="varchar"  label="City">Clifton</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >4316</id_poblacion><id_prov type="smallint" >455</id_prov><name_pob type="varchar"  label="City">Safford</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >4317</id_poblacion><id_prov type="smallint" >455</id_prov><name_pob type="varchar"  label="City">Hill City</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >4318</id_poblacion><id_prov type="smallint" >455</id_prov><name_pob type="varchar"  label="City">Robbinsvill</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >4319</id_poblacion><id_prov type="smallint" >456</id_prov><name_pob type="varchar"  label="City">Parker</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >4320</id_poblacion><id_prov type="smallint" >457</id_prov><name_pob type="varchar"  label="City">Prescott</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >4321</id_poblacion><id_prov type="smallint" >458</id_prov><name_pob type="varchar"  label="City">Bisbee</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >4322</id_poblacion><id_prov type="smallint" >459</id_prov><name_pob type="varchar"  label="City">Nogales</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >4323</id_poblacion><id_prov type="smallint" >459</id_prov><name_pob type="varchar"  label="City">Santa Cruz</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >4324</id_poblacion><id_prov type="smallint" >460</id_prov><name_pob type="varchar"  label="City">Yuma</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >4325</id_poblacion><id_prov type="smallint" >460</id_prov><name_pob type="varchar"  label="City">Wray</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >4326</id_poblacion><id_prov type="smallint" >461</id_prov><name_pob type="varchar"  label="City">Globe</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >4327</id_poblacion><id_prov type="smallint" >462</id_prov><name_pob type="varchar"  label="City">Flagstaff</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >4328</id_poblacion><id_prov type="smallint" >463</id_prov><name_pob type="varchar"  label="City">Phoenix</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >4329</id_poblacion><id_prov type="smallint" >464</id_prov><name_pob type="varchar"  label="City">Florence</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >4330</id_poblacion><id_prov type="smallint" >465</id_prov><name_pob type="varchar"  label="City">Tucson</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >4331</id_poblacion><id_prov type="smallint" >466</id_prov><name_pob type="varchar"  label="City">Saint Johns</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+</poblacion>
+</root>

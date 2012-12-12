@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<navigator>
+
+	<page>
+		<xslt>redline</xslt>
+		<pgtitle />
+		<msg />
+		<headers>
+		</headers>
+		<home_central xml="home">home</home_central>
+		<bright>
+			<block>langs</block>
+			<block>tp_property</block>
+			<block>about</block>
+			<block>bguide</block>
+			<mnu title="CUSTZONE">
+				<item href="members.php">CUSTZONE</item>
+				<item link="pg=subs&amp;op=1">PUBLI_YOUR</item>
+				<item link="pg=subs">SUBS_PHRASE</item>
+			</mnu>
+			<block>isearch</block>
+		</bright>
+		<footers>
+			<block>footer</block>
+		</footers>
+	</page>
+
+	<pg name="home">
+		<nav>
+			<prev>any</prev>
+			<action>home</action>
+		</nav>
+		<headers />
+		<central>
+			<block>special</block>
+			<block>recom</block>
+			<!--<block>news_main</block>-->
+		</central>
+	</pg>
+
+	<pg name="verimmo">
+		<nav>
+			<prev>cities</prev>
+			<action>add</action>
+		</nav>
+		<nav>
+			<prev>verimmo</prev>
+			<action>current</action>
+		</nav>
+		<nav>
+			<prev>tp_property</prev>
+			<action>add</action>
+		</nav>
+		<nav>
+			<prev>home</prev>
+			<action>add</action>
+		</nav>
+		<bright>
+			<block>isearch</block>
+		</bright>
+	</pg>
+
+	<pg name="tp_property">
+		<nav>
+			<prev>home</prev>
+			<action>add</action>
+		</nav>
+		<blockr />
+	</pg>
+
+	<pg name="cities">
+		<nav>
+			<prev>home</prev>
+			<action>add</action>
+		</nav>
+		<bright></bright>
+	</pg>
+
+	<pg name="immo">
+		<nav>
+			<prev>verimmo</prev>
+			<action>add</action>
+		</nav>
+		<nav>
+			<prev>home</prev>
+			<action>add</action>
+		</nav>
+		<bright></bright>
+		<central>
+			<block>thumb</block>
+			<block>immocal</block>
+		</central>
+	</pg>
+
+	<pg name="imggal">
+		<nav>
+			<prev>immo</prev>
+			<action>add</action>
+		</nav>
+		<bright></bright>
+	</pg>
+
+	<pg name="new">
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>
+		<bright></bright>
+	</pg>
+
+	<pg name="org">
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>
+	</pg>
+
+	<pg name="sinfo">
+		<nav>
+			<prev>immo</prev>
+			<action>add</action>
+		</nav>
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>
+		<bright>
+			<block>org</block>
+		</bright>
+	</pg>
+
+	<pg name="about">
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>
+	</pg>
+
+	<pg name="sell">
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>
+	</pg>
+
+	<pg name="page">
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>
+		<bright />
+	</pg>
+
+	<pg name="subs">
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>
+		<bright />
+	</pg>
+
+	<pg name="remember">
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>
+		<bright />
+	</pg>
+
+	<pg name="confirm">
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>
+	</pg>
+
+	<pg name="unreg">
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>
+	</pg>
+
+	<pg name="hipotec">
+		<nav>
+			<prev>immo</prev>
+			<action>add</action>
+		</nav>
+		<nav>
+			<prev>hipotec</prev>
+			<action>current</action>
+		</nav>
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>
+		<bright>
+			<block xml="guiah">page</block>
+		</bright>
+	</pg>
+
+</navigator>

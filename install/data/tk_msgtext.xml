@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<tk_msgtext>
+<row><id_msgtext type="char" >_TK_CLOSE</id_msgtext><cod_lang type="char"  label="Language">ca</cod_lang><txt_subject type="varchar"  label="Subject">Ticket has been closed</txt_subject><txt_email type="text"  label="eMail">Ticket has been closed.
+
+You can view this ticket progress online here: [link].</txt_email></row>
+<row><id_msgtext type="char" >_TK_OPEN</id_msgtext><cod_lang type="char"  label="Language">ca</cod_lang><txt_subject type="varchar"  label="Subject">Ticket has been created</txt_subject><txt_email type="text"  label="eMail">A support ticket has been created and a representative will get back to you shortly.
+
+You can view this ticket progress online here: [link].
+
+NOTE: If you wish to send additional information regarding this ticket, please do not send another email. Instead, reply to this email.</txt_email></row>
+<row><id_msgtext type="char" >_TK_REPLY</id_msgtext><cod_lang type="char"  label="Language">ca</cod_lang><txt_subject type="varchar"  label="Subject">Reply has been noted</txt_subject><txt_email type="text"  label="eMail">Your reply to support ticket has been noted.
+
+You can view this ticket progress online here: [link].</txt_email></row>
+<row><id_msgtext type="char" >_TK_CLOSE</id_msgtext><cod_lang type="char"  label="Language">en</cod_lang><txt_subject type="varchar"  label="Subject">Ticket has been closed</txt_subject><txt_email type="text"  label="eMail">Ticket has been closed.
+
+You can view this ticket progress online here: [link].</txt_email></row>
+<row><id_msgtext type="char" >_TK_OPEN</id_msgtext><cod_lang type="char"  label="Language">en</cod_lang><txt_subject type="varchar"  label="Subject">Ticket has been created</txt_subject><txt_email type="text"  label="eMail">A support ticket has been created and a representative will get back to you shortly.
+
+You can view this ticket progress online here: [link].
+
+NOTE: If you wish to send additional information regarding this ticket, please do not send another email. Instead, reply to this email.</txt_email></row>
+<row><id_msgtext type="char" >_TK_REPLY</id_msgtext><cod_lang type="char"  label="Language">en</cod_lang><txt_subject type="varchar"  label="Subject">Reply has been noted</txt_subject><txt_email type="text"  label="eMail">Your reply to support ticket has been noted.
+
+You can view this ticket progress online here: [link].</txt_email></row>
+<row><id_msgtext type="char" >_TK_CLOSE</id_msgtext><cod_lang type="char"  label="Language">es</cod_lang><txt_subject type="varchar"  label="Subject">Ticket has been closed</txt_subject><txt_email type="text"  label="eMail">Ticket has been closed.
+
+You can view this ticket progress online here: [link].</txt_email></row>
+<row><id_msgtext type="char" >_TK_OPEN</id_msgtext><cod_lang type="char"  label="Language">es</cod_lang><txt_subject type="varchar"  label="Subject">Ticket has been created</txt_subject><txt_email type="text"  label="eMail">A support ticket has been created and a representative will get back to you shortly.
+
+You can view this ticket progress online here: [link].
+
+NOTE: If you wish to send additional information regarding this ticket, please do not send another email. Instead, reply to this email.</txt_email></row>
+<row><id_msgtext type="char" >_TK_REPLY</id_msgtext><cod_lang type="char"  label="Language">es</cod_lang><txt_subject type="varchar"  label="Subject">Reply has been noted</txt_subject><txt_email type="text"  label="eMail">Your reply to support ticket has been noted.
+
+You can view this ticket progress online here: [link].</txt_email></row>
+</tk_msgtext>
+</root>

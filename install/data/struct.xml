@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<perms>
+<row><id_perm type="int" >1</id_perm><nm_profile type="varchar"  label="Name">_ADMIN</nm_profile><txt_obsrv type="varchar"  label="Description">Administrator</txt_obsrv></row>
+<row><id_perm type="int" >2</id_perm><nm_profile type="varchar"  label="Name">_SUPPORT</nm_profile><txt_obsrv type="varchar"  label="Description">Customer Service</txt_obsrv></row>
+<row><id_perm type="int" >3</id_perm><nm_profile type="varchar"  label="Name">_UNKOWN</nm_profile><txt_obsrv type="varchar"  label="Description">No Definido</txt_obsrv></row>
+<row><id_perm type="int" >4</id_perm><nm_profile type="varchar"  label="Name">_REOS_TEAM_MANAGER</nm_profile><txt_obsrv type="varchar"  label="Description">ReOS Team Manager</txt_obsrv></row>
+<row><id_perm type="int" >5</id_perm><nm_profile type="varchar"  label="Name">_REOS_TEAM_MEMBER</nm_profile><txt_obsrv type="varchar"  label="Description">ReOS Team Member</txt_obsrv></row>
+<row><id_perm type="int" >6</id_perm><nm_profile type="varchar"  label="Name">_REOS_MANAGER</nm_profile><txt_obsrv type="varchar"  label="Description">ReOS Manager</txt_obsrv></row>
+<row><id_perm type="int" >7</id_perm><nm_profile type="varchar"  label="Name">_REOS_ADMIN</nm_profile><txt_obsrv type="varchar"  label="Description">ReOS Administrator</txt_obsrv></row>
+</perms>
+<screens>
+<row><id_screen type="int" >1</id_screen><nm_screen type="varchar"  label="Screen">_ADMIN</nm_screen><txt_obsrv type="varchar"  label="Description">Administration</txt_obsrv><app_file type="varchar"  label="Application File">home</app_file></row>
+<row><id_screen type="int" >2</id_screen><nm_screen type="varchar"  label="Screen">_MY_PROFILE</nm_screen><txt_obsrv type="varchar"  label="Description">My Profile</txt_obsrv><app_file type="varchar"  label="Application File">home</app_file></row>
+<row><id_screen type="int" >3</id_screen><nm_screen type="varchar"  label="Screen">_PREFERE</nm_screen><txt_obsrv type="varchar"  label="Description">Preferences</txt_obsrv><app_file type="varchar"  label="Application File">home</app_file></row>
+<row><id_screen type="int" >4</id_screen><nm_screen type="varchar"  label="Screen">_MKT</nm_screen><txt_obsrv type="varchar"  label="Description">Mailings</txt_obsrv><app_file type="varchar"  label="Application File">home</app_file></row>
+<row><id_screen type="int" >5</id_screen><nm_screen type="varchar"  label="Screen">_PRODS</nm_screen><txt_obsrv type="varchar"  label="Description">Product Catalog</txt_obsrv><app_file type="varchar"  label="Application File">home</app_file></row>
+<row><id_screen type="int" >6</id_screen><nm_screen type="varchar"  label="Screen">_GALLERIES</nm_screen><txt_obsrv type="varchar"  label="Description">Galleries</txt_obsrv><app_file type="varchar"  label="Application File">home</app_file></row>
+<row><id_screen type="int" >7</id_screen><nm_screen type="varchar"  label="Screen">_NEWS_EVENTS</nm_screen><txt_obsrv type="varchar"  label="Description">My / All News Events </txt_obsrv><app_file type="varchar"  label="Application File">home</app_file></row>
+<row><id_screen type="int" >8</id_screen><nm_screen type="varchar"  label="Screen">_ACCOUNTS</nm_screen><txt_obsrv type="varchar"  label="Description">My / Team / All Accounts / Buyers</txt_obsrv><app_file type="varchar"  label="Application File">home</app_file></row>
+<row><id_screen type="int" >9</id_screen><nm_screen type="varchar"  label="Screen">_IMMOS</nm_screen><txt_obsrv type="varchar"  label="Description">My / Team / All Properties </txt_obsrv><app_file type="varchar"  label="Application File">home</app_file></row>
+<row><id_screen type="int" >10</id_screen><nm_screen type="varchar"  label="Screen">_SUPPORT</nm_screen><txt_obsrv type="varchar"  label="Description">My / Team / All Tickets / Admin</txt_obsrv><app_file type="varchar"  label="Application File">home</app_file></row>
+<row><id_screen type="int" >11</id_screen><nm_screen type="varchar"  label="Screen">_ACCOUNTS</nm_screen><txt_obsrv type="varchar"  label="Description">My Accounts Screen</txt_obsrv><app_file type="varchar"  label="Application File">home</app_file></row>
+<row><id_screen type="int" >12</id_screen><nm_screen type="varchar"  label="Screen">_IMMOS</nm_screen><txt_obsrv type="varchar"  label="Description">My Properties Screen</txt_obsrv><app_file type="varchar"  label="Application File">home</app_file></row>
+<row><id_screen type="int" >13</id_screen><nm_screen type="varchar"  label="Screen">_NEWS</nm_screen><txt_obsrv type="varchar"  label="Description">My News Screen</txt_obsrv><app_file type="varchar"  label="Application File">home</app_file></row>
+<row><id_screen type="int" >14</id_screen><nm_screen type="varchar"  label="Screen">_ADMIN</nm_screen><txt_obsrv type="varchar"  label="Description">ReOS Administration</txt_obsrv><app_file type="varchar"  label="Application File">home</app_file></row>
+<row><id_screen type="int" >15</id_screen><nm_screen type="varchar"  label="Screen">_SUPPORT</nm_screen><txt_obsrv type="varchar"  label="Description">My Tickets</txt_obsrv><app_file type="varchar"  label="Application File">home</app_file></row>
+<row><id_screen type="int" >16</id_screen><nm_screen type="varchar"  label="Screen">_ACCOUNTS</nm_screen><txt_obsrv type="varchar"  label="Description">My / Team Accounts</txt_obsrv><app_file type="varchar"  label="Application File">home</app_file></row>
+<row><id_screen type="int" >17</id_screen><nm_screen type="varchar"  label="Screen">_IMMOS</nm_screen><txt_obsrv type="varchar"  label="Description">My / Team properties</txt_obsrv><app_file type="varchar"  label="Application File">home</app_file></row>
+<row><id_screen type="int" >18</id_screen><nm_screen type="varchar"  label="Screen">_SUPPORT</nm_screen><txt_obsrv type="varchar"  label="Description">My / Team Tickets</txt_obsrv><app_file type="varchar"  label="Application File">home</app_file></row>
+<row><id_screen type="int" >19</id_screen><nm_screen type="varchar"  label="Screen">_SUPPORT</nm_screen><txt_obsrv type="varchar"  label="Description">My / Team / All Tickets </txt_obsrv><app_file type="varchar"  label="Application File">home</app_file></row>
+<row><id_screen type="int" >20</id_screen><nm_screen type="varchar"  label="Screen">_BOOKINGS</nm_screen><txt_obsrv type="varchar"  label="Description">Holiday Rental Bookings</txt_obsrv><app_file type="varchar"  label="Application File">home</app_file></row>
+</screens>
+<views>
+<row><id_view type="int" >1</id_view><nm_view type="varchar"  label="View">_ORG_LST</nm_view><app_file type="varchar"  label="Application File">verorgs</app_file><txt_obsrv type="varchar"  label="Description">Organization Structure</txt_obsrv></row>
+<row><id_view type="int" >2</id_view><nm_view type="varchar"  label="View">_LSTUSER</nm_view><app_file type="varchar"  label="Application File">verusers</app_file><txt_obsrv type="varchar"  label="Description">User List</txt_obsrv></row>
+<row><id_view type="int" >3</id_view><nm_view type="varchar"  label="View">_DATEMP</nm_view><app_file type="varchar"  label="Application File">datemp</app_file><txt_obsrv type="varchar"  label="Description">Organization Data</txt_obsrv><params type="varchar"  label="Parameters">id_dept=</params></row>
+<row><id_view type="int" >4</id_view><nm_view type="varchar"  label="View">_STATISTICS</nm_view><app_file type="varchar"  label="Application File">logsreader</app_file><txt_obsrv type="varchar"  label="Description">Access Statistics</txt_obsrv></row>
+<row><id_view type="int" >5</id_view><nm_view type="varchar"  label="View">_DATOS_PERS</nm_view><app_file type="varchar"  label="Application File">datpers</app_file><txt_obsrv type="varchar"  label="Description">Personal Profile</txt_obsrv><params type="varchar"  label="Parameters">user_id=</params></row>
+<row><id_view type="int" >6</id_view><nm_view type="varchar"  label="View">_CHANGE_PASS</nm_view><app_file type="varchar"  label="Application File">cpass</app_file><txt_obsrv type="varchar"  label="Description">Change Password</txt_obsrv></row>
+<row><id_view type="int" >7</id_view><nm_view type="varchar"  label="View">_POBLACIONES</nm_view><app_file type="varchar"  label="Application File">verpobs</app_file><txt_obsrv type="varchar"  label="Description">Cities</txt_obsrv></row>
+<row><id_view type="int" >8</id_view><nm_view type="varchar"  label="View">_GESTLANGS</nm_view><app_file type="varchar"  label="Application File">gestlangs</app_file><txt_obsrv type="varchar"  label="Description">Languages</txt_obsrv></row>
+<row><id_view type="int" >9</id_view><nm_view type="varchar"  label="View">_CONTENTS</nm_view><app_file type="varchar"  label="Application File">verhtml</app_file><txt_obsrv type="varchar"  label="Description">Contents</txt_obsrv></row>
+<row><id_view type="int" >10</id_view><nm_view type="varchar"  label="View">_VERCONFIG</nm_view><app_file type="varchar"  label="Application File">verconfig</app_file><txt_obsrv type="varchar"  label="Description">Config Templates</txt_obsrv></row>
+<row><id_view type="int" >11</id_view><nm_view type="varchar"  label="View">_MAILING</nm_view><app_file type="varchar"  label="Application File">vermailings</app_file><txt_obsrv type="varchar"  label="Description">Mailing</txt_obsrv></row>
+<row><id_view type="int" >12</id_view><nm_view type="varchar"  label="View">_CTGS</nm_view><app_file type="varchar"  label="Application File">verprd</app_file><txt_obsrv type="varchar"  label="Description">Product Categories</txt_obsrv></row>
+<row><id_view type="int" >13</id_view><nm_view type="varchar"  label="View">_VERPRICELST</nm_view><app_file type="varchar"  label="Application File">verpricelst</app_file><txt_obsrv type="varchar"  label="Description">Price List</txt_obsrv></row>
+<row><id_view type="int" >14</id_view><nm_view type="varchar"  label="View">_GAL_LST</nm_view><app_file type="varchar"  label="Application File">vergal</app_file><txt_obsrv type="varchar"  label="Description">Galleries</txt_obsrv></row>
+<row><id_view type="int" >15</id_view><nm_view type="varchar"  label="View">_MY_NEWS</nm_view><app_file type="varchar"  label="Application File">vernot</app_file><txt_obsrv type="varchar"  label="Description">My News</txt_obsrv><params type="varchar"  label="Parameters">view=My</params></row>
+<row><id_view type="int" >16</id_view><nm_view type="varchar"  label="View">_ALL_NEWS</nm_view><app_file type="varchar"  label="Application File">vernot</app_file><txt_obsrv type="varchar"  label="Description">All News</txt_obsrv><params type="varchar"  label="Parameters">view=All</params></row>
+<row><id_view type="int" >17</id_view><nm_view type="varchar"  label="View">_MY_ACCOUNTS</nm_view><app_file type="varchar"  label="Application File">veraccs</app_file><txt_obsrv type="varchar"  label="Description">My Accounts</txt_obsrv><params type="varchar"  label="Parameters">view=My</params></row>
+<row><id_view type="int" >18</id_view><nm_view type="varchar"  label="View">_TEAM_ACCOUNTS</nm_view><app_file type="varchar"  label="Application File">veraccs</app_file><txt_obsrv type="varchar"  label="Description">Team Accounts</txt_obsrv><params type="varchar"  label="Parameters">view=Team</params></row>
+<row><id_view type="int" >19</id_view><nm_view type="varchar"  label="View">_ALL_ACCOUNTS</nm_view><app_file type="varchar"  label="Application File">veraccs</app_file><txt_obsrv type="varchar"  label="Description">All Accounts</txt_obsrv><params type="varchar"  label="Parameters">view=All</params></row>
+<row><id_view type="int" >20</id_view><nm_view type="varchar"  label="View">_BUYERS_ACCOUNTS</nm_view><app_file type="varchar"  label="Application File">veraccs</app_file><txt_obsrv type="varchar"  label="Description">Buyers</txt_obsrv><params type="varchar"  label="Parameters">view=Join</params></row>
+<row><id_view type="int" >21</id_view><nm_view type="varchar"  label="View">_MY_IMMOS</nm_view><app_file type="varchar"  label="Application File">verimmo</app_file><txt_obsrv type="varchar"  label="Description">My Properties</txt_obsrv><params type="varchar"  label="Parameters">view=My</params></row>
+<row><id_view type="int" >22</id_view><nm_view type="varchar"  label="View">_TEAM_IMMOS</nm_view><app_file type="varchar"  label="Application File">verimmo</app_file><txt_obsrv type="varchar"  label="Description">Team Properties</txt_obsrv><params type="varchar"  label="Parameters">view=Team</params></row>
+<row><id_view type="int" >23</id_view><nm_view type="varchar"  label="View">_ALL_IMMOS</nm_view><app_file type="varchar"  label="Application File">verimmo</app_file><txt_obsrv type="varchar"  label="Description">All Properties</txt_obsrv><params type="varchar"  label="Parameters">view=All</params></row>
+<row><id_view type="int" >24</id_view><nm_view type="varchar"  label="View">_SEASONS</nm_view><app_file type="varchar"  label="Application File">verseasons</app_file><txt_obsrv type="varchar"  label="Description">Rental Seasons</txt_obsrv></row>
+<row><id_view type="int" >25</id_view><nm_view type="varchar"  label="View">_MY_TICKETS</nm_view><app_file type="varchar"  label="Application File">vertickets</app_file><txt_obsrv type="varchar"  label="Description">My Tickets</txt_obsrv><params type="varchar"  label="Parameters">view=My</params></row>
+<row><id_view type="int" >26</id_view><nm_view type="varchar"  label="View">_TEAM_TICKETS</nm_view><app_file type="varchar"  label="Application File">vertickets</app_file><txt_obsrv type="varchar"  label="Description">Team Tickets</txt_obsrv><params type="varchar"  label="Parameters">view=Team</params></row>
+<row><id_view type="int" >27</id_view><nm_view type="varchar"  label="View">_ALL_TICKETS</nm_view><app_file type="varchar"  label="Application File">vertickets</app_file><txt_obsrv type="varchar"  label="Description">All Tickets</txt_obsrv><params type="varchar"  label="Parameters">view=All</params></row>
+<row><id_view type="int" >28</id_view><nm_view type="varchar"  label="View">_SCREENS</nm_view><app_file type="varchar"  label="Application File">verscr</app_file><txt_obsrv type="varchar"  label="Description">Screens</txt_obsrv></row>
+<row><id_view type="int" >29</id_view><nm_view type="varchar"  label="View">_VIEWS</nm_view><app_file type="varchar"  label="Application File">verviews</app_file><txt_obsrv type="varchar"  label="Description">Views</txt_obsrv></row>
+<row><id_view type="int" >30</id_view><nm_view type="varchar"  label="View">_PERMS</nm_view><app_file type="varchar"  label="Application File">verperms</app_file><txt_obsrv type="varchar"  label="Description">User Roles</txt_obsrv></row>
+<row><id_view type="int" >31</id_view><nm_view type="varchar"  label="View">_MY_TK_STATS</nm_view><app_file type="varchar"  label="Application File">mytkstats</app_file><txt_obsrv type="varchar"  label="Description">My ticket statistics</txt_obsrv><params type="varchar"  label="Parameters">view=My</params></row>
+<row><id_view type="int" >32</id_view><nm_view type="varchar"  label="View">_VERTKCTGS</nm_view><app_file type="varchar"  label="Application File">vertkctgs</app_file><txt_obsrv type="varchar"  label="Description">Support Categories List</txt_obsrv><params type="varchar"  label="Parameters">NULL</params></row>
+<row><id_view type="int" >33</id_view><nm_view type="varchar"  label="View">_VERTKEMAILS</nm_view><app_file type="varchar"  label="Application File">vertkemails</app_file><txt_obsrv type="varchar"  label="Description">Edit email messages for automatic replies</txt_obsrv><params type="varchar"  label="Parameters">NULL</params></row>
+<row><id_view type="int" >34</id_view><nm_view type="varchar"  label="View">_VERPREFS</nm_view><app_file type="varchar"  label="Application File">verprefs</app_file><txt_obsrv type="varchar"  label="Description">Preferences Values</txt_obsrv><params type="varchar"  label="Parameters">NULL</params></row>
+<row><id_view type="int" >35</id_view><nm_view type="varchar"  label="View">_THEMES</nm_view><app_file type="varchar"  label="Application File">themes</app_file><txt_obsrv type="varchar"  label="Description">Select active theme</txt_obsrv><params type="varchar"  label="Parameters">NULL</params></row>
+<row><id_view type="int" >36</id_view><nm_view type="varchar"  label="View">_VERCOUNTRIES</nm_view><app_file type="varchar"  label="Application File">vercountries</app_file><txt_obsrv type="varchar"  label="Description">List of countries for cities management</txt_obsrv><params type="varchar"  label="Parameters">NULL</params></row>
+<row><id_view type="int" >37</id_view><nm_view type="varchar"  label="View">_MAPINIT</nm_view><app_file type="varchar"  label="Application File">mapinit</app_file><txt_obsrv type="varchar"  label="Description">First google map view</txt_obsrv><params type="varchar"  label="Parameters">NULL</params></row>
+<row><id_view type="int" >38</id_view><nm_view type="varchar"  label="View">_LOVS</nm_view><app_file type="varchar"  label="Application File">lovs</app_file><txt_obsrv type="varchar"  label="Description">List of Values</txt_obsrv><params type="varchar"  label="Parameters">NULL</params></row>
+<row><id_view type="int" >39</id_view><nm_view type="varchar"  label="View">_VERLABELS</nm_view><app_file type="varchar"  label="Application File">verlabels</app_file><txt_obsrv type="varchar"  label="Description">Application Labels List</txt_obsrv><params type="varchar"  label="Parameters">NULL</params></row>
+<row><id_view type="int" >40</id_view><nm_view type="varchar"  label="View">_BACKUP</nm_view><app_file type="varchar"  label="Application File">backup</app_file><txt_obsrv type="varchar"  label="Description">Database Backup</txt_obsrv><params type="varchar"  label="Parameters">NULL</params></row>
+<row><id_view type="int" >41</id_view><nm_view type="varchar"  label="View">_BOOKINGS</nm_view><app_file type="varchar"  label="Application File">bookings</app_file><txt_obsrv type="varchar"  label="Description">List of holiday rental bookings</txt_obsrv><params type="varchar"  label="Parameters">NULL</params></row>
+<row><id_view type="int" >42</id_view><nm_view type="varchar"  label="View">_VERBOOKINGS</nm_view><app_file type="varchar"  label="Application File">verbookings</app_file><txt_obsrv type="varchar"  label="Description">Booking Availability Search</txt_obsrv><params type="varchar"  label="Parameters">NULL</params></row>
+</views>
+<scr_views>
+<row><id_screen type="int" >1</id_screen><id_view type="int" >1</id_view><numorder type="int"  label="Orden">0</numorder></row>
+<row><id_screen type="int" >1</id_screen><id_view type="int" >2</id_view><numorder type="int"  label="Orden">1</numorder></row>
+<row><id_screen type="int" >1</id_screen><id_view type="int" >3</id_view><numorder type="int"  label="Orden">3</numorder></row>
+<row><id_screen type="int" >1</id_screen><id_view type="int" >28</id_view><numorder type="int"  label="Orden">5</numorder></row>
+<row><id_screen type="int" >1</id_screen><id_view type="int" >29</id_view><numorder type="int"  label="Orden">6</numorder></row>
+<row><id_screen type="int" >1</id_screen><id_view type="int" >30</id_view><numorder type="int"  label="Orden">7</numorder></row>
+<row><id_screen type="int" >1</id_screen><id_view type="int" >34</id_view><numorder type="int"  label="Orden">8</numorder></row>
+<row><id_screen type="int" >1</id_screen><id_view type="int" >35</id_view><numorder type="int"  label="Orden">9</numorder></row>
+<row><id_screen type="int" >1</id_screen><id_view type="int" >36</id_view><numorder type="int"  label="Orden">14</numorder></row>
+<row><id_screen type="int" >1</id_screen><id_view type="int" >37</id_view><numorder type="int"  label="Orden">11</numorder></row>
+<row><id_screen type="int" >1</id_screen><id_view type="int" >38</id_view><numorder type="int"  label="Orden">12</numorder></row>
+<row><id_screen type="int" >1</id_screen><id_view type="int" >39</id_view><numorder type="int"  label="Orden">13</numorder></row>
+<row><id_screen type="int" >1</id_screen><id_view type="int" >40</id_view><numorder type="int"  label="Orden">20</numorder></row>
+<row><id_screen type="int" >2</id_screen><id_view type="int" >5</id_view><numorder type="int"  label="Orden">0</numorder></row>
+<row><id_screen type="int" >2</id_screen><id_view type="int" >6</id_view><numorder type="int"  label="Orden">1</numorder></row>
+<row><id_screen type="int" >3</id_screen><id_view type="int" >4</id_view><numorder type="int"  label="Orden">4</numorder></row>
+<row><id_screen type="int" >3</id_screen><id_view type="int" >7</id_view><numorder type="int"  label="Orden">0</numorder></row>
+<row><id_screen type="int" >3</id_screen><id_view type="int" >9</id_view><numorder type="int"  label="Orden">2</numorder></row>
+<row><id_screen type="int" >3</id_screen><id_view type="int" >10</id_view><numorder type="int"  label="Orden">3</numorder></row>
+<row><id_screen type="int" >4</id_screen><id_view type="int" >11</id_view><numorder type="int"  label="Orden">0</numorder></row>
+<row><id_screen type="int" >5</id_screen><id_view type="int" >12</id_view><numorder type="int"  label="Orden">0</numorder></row>
+<row><id_screen type="int" >5</id_screen><id_view type="int" >13</id_view><numorder type="int"  label="Orden">1</numorder></row>
+<row><id_screen type="int" >6</id_screen><id_view type="int" >14</id_view><numorder type="int"  label="Orden">0</numorder></row>
+<row><id_screen type="int" >7</id_screen><id_view type="int" >15</id_view><numorder type="int"  label="Orden">0</numorder></row>
+<row><id_screen type="int" >7</id_screen><id_view type="int" >16</id_view><numorder type="int"  label="Orden">1</numorder></row>
+<row><id_screen type="int" >8</id_screen><id_view type="int" >17</id_view><numorder type="int"  label="Orden">0</numorder></row>
+<row><id_screen type="int" >8</id_screen><id_view type="int" >18</id_view><numorder type="int"  label="Orden">1</numorder></row>
+<row><id_screen type="int" >8</id_screen><id_view type="int" >19</id_view><numorder type="int"  label="Orden">2</numorder></row>
+<row><id_screen type="int" >8</id_screen><id_view type="int" >20</id_view><numorder type="int"  label="Orden">3</numorder></row>
+<row><id_screen type="int" >9</id_screen><id_view type="int" >21</id_view><numorder type="int"  label="Orden">0</numorder></row>
+<row><id_screen type="int" >9</id_screen><id_view type="int" >22</id_view><numorder type="int"  label="Orden">1</numorder></row>
+<row><id_screen type="int" >9</id_screen><id_view type="int" >23</id_view><numorder type="int"  label="Orden">2</numorder></row>
+<row><id_screen type="int" >9</id_screen><id_view type="int" >24</id_view><numorder type="int"  label="Orden">3</numorder></row>
+<row><id_screen type="int" >10</id_screen><id_view type="int" >25</id_view><numorder type="int"  label="Orden">1</numorder></row>
+<row><id_screen type="int" >10</id_screen><id_view type="int" >26</id_view><numorder type="int"  label="Orden">2</numorder></row>
+<row><id_screen type="int" >10</id_screen><id_view type="int" >27</id_view><numorder type="int"  label="Orden">3</numorder></row>
+<row><id_screen type="int" >10</id_screen><id_view type="int" >31</id_view><numorder type="int"  label="Orden">0</numorder></row>
+<row><id_screen type="int" >10</id_screen><id_view type="int" >32</id_view><numorder type="int"  label="Orden">40</numorder></row>
+<row><id_screen type="int" >10</id_screen><id_view type="int" >33</id_view><numorder type="int"  label="Orden">50</numorder></row>
+<row><id_screen type="int" >11</id_screen><id_view type="int" >17</id_view><numorder type="int"  label="Orden">0</numorder></row>
+<row><id_screen type="int" >12</id_screen><id_view type="int" >21</id_view><numorder type="int"  label="Orden">10</numorder></row>
+<row><id_screen type="int" >13</id_screen><id_view type="int" >15</id_view><numorder type="int"  label="Orden">10</numorder></row>
+<row><id_screen type="int" >14</id_screen><id_view type="int" >1</id_view><numorder type="int"  label="Orden">10</numorder></row>
+<row><id_screen type="int" >14</id_screen><id_view type="int" >2</id_view><numorder type="int"  label="Orden">20</numorder></row>
+<row><id_screen type="int" >14</id_screen><id_view type="int" >3</id_view><numorder type="int"  label="Orden">30</numorder></row>
+<row><id_screen type="int" >14</id_screen><id_view type="int" >7</id_view><numorder type="int"  label="Orden">100</numorder></row>
+<row><id_screen type="int" >14</id_screen><id_view type="int" >34</id_view><numorder type="int"  label="Orden">40</numorder></row>
+<row><id_screen type="int" >14</id_screen><id_view type="int" >35</id_view><numorder type="int"  label="Orden">50</numorder></row>
+<row><id_screen type="int" >14</id_screen><id_view type="int" >36</id_view><numorder type="int"  label="Orden">90</numorder></row>
+<row><id_screen type="int" >14</id_screen><id_view type="int" >37</id_view><numorder type="int"  label="Orden">60</numorder></row>
+<row><id_screen type="int" >14</id_screen><id_view type="int" >38</id_view><numorder type="int"  label="Orden">80</numorder></row>
+<row><id_screen type="int" >14</id_screen><id_view type="int" >39</id_view><numorder type="int"  label="Orden">70</numorder></row>
+<row><id_screen type="int" >15</id_screen><id_view type="int" >25</id_view><numorder type="int"  label="Orden">10</numorder></row>
+<row><id_screen type="int" >15</id_screen><id_view type="int" >31</id_view><numorder type="int"  label="Orden">5</numorder></row>
+<row><id_screen type="int" >16</id_screen><id_view type="int" >17</id_view><numorder type="int"  label="Orden">10</numorder></row>
+<row><id_screen type="int" >16</id_screen><id_view type="int" >18</id_view><numorder type="int"  label="Orden">20</numorder></row>
+<row><id_screen type="int" >16</id_screen><id_view type="int" >20</id_view><numorder type="int"  label="Orden">30</numorder></row>
+<row><id_screen type="int" >17</id_screen><id_view type="int" >21</id_view><numorder type="int"  label="Orden">10</numorder></row>
+<row><id_screen type="int" >17</id_screen><id_view type="int" >22</id_view><numorder type="int"  label="Orden">20</numorder></row>
+<row><id_screen type="int" >18</id_screen><id_view type="int" >25</id_view><numorder type="int"  label="Orden">10</numorder></row>
+<row><id_screen type="int" >18</id_screen><id_view type="int" >26</id_view><numorder type="int"  label="Orden">20</numorder></row>
+<row><id_screen type="int" >18</id_screen><id_view type="int" >31</id_view><numorder type="int"  label="Orden">5</numorder></row>
+<row><id_screen type="int" >19</id_screen><id_view type="int" >25</id_view><numorder type="int"  label="Orden">20</numorder></row>
+<row><id_screen type="int" >19</id_screen><id_view type="int" >26</id_view><numorder type="int"  label="Orden">30</numorder></row>
+<row><id_screen type="int" >19</id_screen><id_view type="int" >27</id_view><numorder type="int"  label="Orden">40</numorder></row>
+<row><id_screen type="int" >19</id_screen><id_view type="int" >31</id_view><numorder type="int"  label="Orden">10</numorder></row>
+<row><id_screen type="int" >20</id_screen><id_view type="int" >41</id_view><numorder type="int"  label="Orden">10</numorder></row>
+<row><id_screen type="int" >20</id_screen><id_view type="int" >42</id_view><numorder type="int"  label="Orden">20</numorder></row>
+</scr_views>
+<perm_scrs>
+<row><id_perm type="int" >1</id_perm><id_screen type="int" >1</id_screen><numorder type="int"  label="Orden">80</numorder></row>
+<row><id_perm type="int" >1</id_perm><id_screen type="int" >2</id_screen><numorder type="int"  label="Orden">100</numorder></row>
+<row><id_perm type="int" >1</id_perm><id_screen type="int" >3</id_screen><numorder type="int"  label="Orden">90</numorder></row>
+<row><id_perm type="int" >1</id_perm><id_screen type="int" >4</id_screen><numorder type="int"  label="Orden">70</numorder></row>
+<row><id_perm type="int" >1</id_perm><id_screen type="int" >5</id_screen><numorder type="int"  label="Orden">50</numorder></row>
+<row><id_perm type="int" >1</id_perm><id_screen type="int" >6</id_screen><numorder type="int"  label="Orden">60</numorder></row>
+<row><id_perm type="int" >1</id_perm><id_screen type="int" >7</id_screen><numorder type="int"  label="Orden">40</numorder></row>
+<row><id_perm type="int" >1</id_perm><id_screen type="int" >8</id_screen><numorder type="int"  label="Orden">10</numorder></row>
+<row><id_perm type="int" >1</id_perm><id_screen type="int" >9</id_screen><numorder type="int"  label="Orden">20</numorder></row>
+<row><id_perm type="int" >1</id_perm><id_screen type="int" >10</id_screen><numorder type="int"  label="Orden">30</numorder></row>
+<row><id_perm type="int" >1</id_perm><id_screen type="int" >20</id_screen><numorder type="int"  label="Orden">25</numorder></row>
+<row><id_perm type="int" >2</id_perm><id_screen type="int" >2</id_screen><numorder type="int"  label="Orden">20</numorder></row>
+<row><id_perm type="int" >2</id_perm><id_screen type="int" >15</id_screen><numorder type="int"  label="Orden">10</numorder></row>
+<row><id_perm type="int" >4</id_perm><id_screen type="int" >2</id_screen><numorder type="int"  label="Orden">30</numorder></row>
+<row><id_perm type="int" >4</id_perm><id_screen type="int" >4</id_screen><numorder type="int"  label="Orden">25</numorder></row>
+<row><id_perm type="int" >4</id_perm><id_screen type="int" >16</id_screen><numorder type="int"  label="Orden">10</numorder></row>
+<row><id_perm type="int" >4</id_perm><id_screen type="int" >17</id_screen><numorder type="int"  label="Orden">20</numorder></row>
+<row><id_perm type="int" >4</id_perm><id_screen type="int" >18</id_screen><numorder type="int"  label="Orden">22</numorder></row>
+<row><id_perm type="int" >5</id_perm><id_screen type="int" >2</id_screen><numorder type="int"  label="Orden">30</numorder></row>
+<row><id_perm type="int" >5</id_perm><id_screen type="int" >11</id_screen><numorder type="int"  label="Orden">10</numorder></row>
+<row><id_perm type="int" >5</id_perm><id_screen type="int" >12</id_screen><numorder type="int"  label="Orden">20</numorder></row>
+<row><id_perm type="int" >5</id_perm><id_screen type="int" >13</id_screen><numorder type="int"  label="Orden">25</numorder></row>
+<row><id_perm type="int" >5</id_perm><id_screen type="int" >15</id_screen><numorder type="int"  label="Orden">22</numorder></row>
+<row><id_perm type="int" >6</id_perm><id_screen type="int" >2</id_screen><numorder type="int"  label="Orden">50</numorder></row>
+<row><id_perm type="int" >6</id_perm><id_screen type="int" >4</id_screen><numorder type="int"  label="Orden">40</numorder></row>
+<row><id_perm type="int" >6</id_perm><id_screen type="int" >7</id_screen><numorder type="int"  label="Orden">30</numorder></row>
+<row><id_perm type="int" >6</id_perm><id_screen type="int" >8</id_screen><numorder type="int"  label="Orden">10</numorder></row>
+<row><id_perm type="int" >6</id_perm><id_screen type="int" >9</id_screen><numorder type="int"  label="Orden">20</numorder></row>
+<row><id_perm type="int" >6</id_perm><id_screen type="int" >19</id_screen><numorder type="int"  label="Orden">35</numorder></row>
+<row><id_perm type="int" >7</id_perm><id_screen type="int" >2</id_screen><numorder type="int"  label="Orden">60</numorder></row>
+<row><id_perm type="int" >7</id_perm><id_screen type="int" >4</id_screen><numorder type="int"  label="Orden">40</numorder></row>
+<row><id_perm type="int" >7</id_perm><id_screen type="int" >7</id_screen><numorder type="int"  label="Orden">30</numorder></row>
+<row><id_perm type="int" >7</id_perm><id_screen type="int" >8</id_screen><numorder type="int"  label="Orden">10</numorder></row>
+<row><id_perm type="int" >7</id_perm><id_screen type="int" >9</id_screen><numorder type="int"  label="Orden">20</numorder></row>
+<row><id_perm type="int" >7</id_perm><id_screen type="int" >10</id_screen><numorder type="int"  label="Orden">35</numorder></row>
+<row><id_perm type="int" >7</id_perm><id_screen type="int" >14</id_screen><numorder type="int"  label="Orden">50</numorder></row>
+<row><id_perm type="int" >7</id_perm><id_screen type="int" >20</id_screen><numorder type="int"  label="Orden">25</numorder></row>
+</perm_scrs>
+</root>

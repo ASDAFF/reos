@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<tk_ctg>
+<row><id_tk_ctg type="int" >1</id_tk_ctg><nm_tk_ctg type="varchar"  label="Category">Default Support Category</nm_tk_ctg><pophost type="varchar"  label="Mail Host">host</pophost><popuser type="varchar"  label="Pop3 User">user</popuser><poppass type="varchar"  label="Pop3 Password">pass</poppass><txt_email type="varchar"  label="eMail">email@email.com</txt_email><txt_sign type="text"  label="Signature">sign</txt_sign><fg_hidden type="tinyint"  label="Hidden">0</fg_hidden></row>
+</tk_ctg>
+</root>

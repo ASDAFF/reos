@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<comunidad>
+<row><id_comunidad type="smallint" >265</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">Alabama</comdad_name></row>
+<row><id_comunidad type="smallint" >266</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">Alaska</comdad_name></row>
+<row><id_comunidad type="smallint" >267</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">American Samoa</comdad_name></row>
+<row><id_comunidad type="smallint" >268</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">Arizona</comdad_name></row>
+<row><id_comunidad type="smallint" >269</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">Arkansas</comdad_name></row>
+<row><id_comunidad type="smallint" >270</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">California</comdad_name></row>
+<row><id_comunidad type="smallint" >271</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">Colorado</comdad_name></row>
+<row><id_comunidad type="smallint" >272</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">Connecticut</comdad_name></row>
+<row><id_comunidad type="smallint" >273</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">Delaware</comdad_name></row>
+<row><id_comunidad type="smallint" >274</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">District Of Columbia</comdad_name></row>
+<row><id_comunidad type="smallint" >275</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">F. S. Of Micronesia</comdad_name></row>
+<row><id_comunidad type="smallint" >276</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">Florida</comdad_name></row>
+<row><id_comunidad type="smallint" >277</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">Georgia</comdad_name></row>
+<row><id_comunidad type="smallint" >278</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">Guam</comdad_name></row>
+<row><id_comunidad type="smallint" >279</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">Hawaii</comdad_name></row>
+<row><id_comunidad type="smallint" >280</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">Idaho</comdad_name></row>
+<row><id_comunidad type="smallint" >281</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">Illinois</comdad_name></row>
+<row><id_comunidad type="smallint" >282</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">Indiana</comdad_name></row>
+<row><id_comunidad type="smallint" >283</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">Iowa</comdad_name></row>
+<row><id_comunidad type="smallint" >284</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">Kansas</comdad_name></row>
+<row><id_comunidad type="smallint" >285</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">Kentucky</comdad_name></row>
+<row><id_comunidad type="smallint" >286</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">Louisiana</comdad_name></row>
+<row><id_comunidad type="smallint" >287</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">Maine</comdad_name></row>
+<row><id_comunidad type="smallint" >288</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">Marshall Islands</comdad_name></row>
+<row><id_comunidad type="smallint" >289</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">Maryland</comdad_name></row>
+<row><id_comunidad type="smallint" >290</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">Massachusetts</comdad_name></row>
+<row><id_comunidad type="smallint" >291</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">Michigan</comdad_name></row>
+<row><id_comunidad type="smallint" >292</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">Minnesota</comdad_name></row>
+<row><id_comunidad type="smallint" >293</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">Mississippi</comdad_name></row>
+<row><id_comunidad type="smallint" >294</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">Missouri</comdad_name></row>
+<row><id_comunidad type="smallint" >295</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">Montana</comdad_name></row>
+<row><id_comunidad type="smallint" >296</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">N. Mariana Islands</comdad_name></row>
+<row><id_comunidad type="smallint" >297</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">Nebraska</comdad_name></row>
+<row><id_comunidad type="smallint" >298</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">Nevada</comdad_name></row>
+<row><id_comunidad type="smallint" >299</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">New Hampshire</comdad_name></row>
+<row><id_comunidad type="smallint" >300</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">New Jersey</comdad_name></row>
+<row><id_comunidad type="smallint" >301</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">New Mexico</comdad_name></row>
+<row><id_comunidad type="smallint" >302</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">New York</comdad_name></row>
+<row><id_comunidad type="smallint" >303</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">North Carolina</comdad_name></row>
+<row><id_comunidad type="smallint" >304</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">North Dakota</comdad_name></row>
+<row><id_comunidad type="smallint" >305</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">Ohio</comdad_name></row>
+<row><id_comunidad type="smallint" >306</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">Oklahoma</comdad_name></row>
+<row><id_comunidad type="smallint" >307</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">Oregon</comdad_name></row>
+<row><id_comunidad type="smallint" >308</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">Palau</comdad_name></row>
+<row><id_comunidad type="smallint" >309</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">Pennsylvania</comdad_name></row>
+<row><id_comunidad type="smallint" >310</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">Puerto Rico</comdad_name></row>
+<row><id_comunidad type="smallint" >311</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">Rhode Island</comdad_name></row>
+<row><id_comunidad type="smallint" >312</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">South Carolina</comdad_name></row>
+<row><id_comunidad type="smallint" >313</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">South Dakota</comdad_name></row>
+<row><id_comunidad type="smallint" >314</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">Tennessee</comdad_name></row>
+<row><id_comunidad type="smallint" >315</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">Texas</comdad_name></row>
+<row><id_comunidad type="smallint" >316</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">Utah</comdad_name></row>
+<row><id_comunidad type="smallint" >317</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">Vermont</comdad_name></row>
+<row><id_comunidad type="smallint" >318</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">Virgin Islands</comdad_name></row>
+<row><id_comunidad type="smallint" >319</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">Virginia</comdad_name></row>
+<row><id_comunidad type="smallint" >320</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">Washington</comdad_name></row>
+<row><id_comunidad type="smallint" >321</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">West Virginia</comdad_name></row>
+<row><id_comunidad type="smallint" >322</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">Wisconsin</comdad_name></row>
+<row><id_comunidad type="smallint" >323</id_comunidad><id_country type="smallint" >223</id_country><comdad_name type="varchar"  label="State">Wyoming</comdad_name></row>
+</comunidad>
+</root>

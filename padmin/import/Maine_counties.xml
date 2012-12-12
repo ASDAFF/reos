@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<provincia>
+<row><id_prov type="smallint" >1532</id_prov><id_comunidad type="smallint" >287</id_comunidad><prov_name type="varchar"  label="County">Cumberland</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >1533</id_prov><id_comunidad type="smallint" >287</id_comunidad><prov_name type="varchar"  label="County">Waldo</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >1534</id_prov><id_comunidad type="smallint" >287</id_comunidad><prov_name type="varchar"  label="County">Franklin</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >1535</id_prov><id_comunidad type="smallint" >287</id_comunidad><prov_name type="varchar"  label="County">Penobscot</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >1536</id_prov><id_comunidad type="smallint" >287</id_comunidad><prov_name type="varchar"  label="County">York</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >1537</id_prov><id_comunidad type="smallint" >287</id_comunidad><prov_name type="varchar"  label="County">Piscataquis</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >1538</id_prov><id_comunidad type="smallint" >287</id_comunidad><prov_name type="varchar"  label="County">Oxford</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >1539</id_prov><id_comunidad type="smallint" >287</id_comunidad><prov_name type="varchar"  label="County">Hancock</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >1540</id_prov><id_comunidad type="smallint" >287</id_comunidad><prov_name type="varchar"  label="County">Washington</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >1541</id_prov><id_comunidad type="smallint" >287</id_comunidad><prov_name type="varchar"  label="County">Somerset</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >1542</id_prov><id_comunidad type="smallint" >287</id_comunidad><prov_name type="varchar"  label="County">Androscoggin</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >1543</id_prov><id_comunidad type="smallint" >287</id_comunidad><prov_name type="varchar"  label="County">Knox</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >1544</id_prov><id_comunidad type="smallint" >287</id_comunidad><prov_name type="varchar"  label="County">Kennebec</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >1545</id_prov><id_comunidad type="smallint" >287</id_comunidad><prov_name type="varchar"  label="County">Aroostook</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >1546</id_prov><id_comunidad type="smallint" >287</id_comunidad><prov_name type="varchar"  label="County">Sagadahoc</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >1547</id_prov><id_comunidad type="smallint" >287</id_comunidad><prov_name type="varchar"  label="County">Lincoln</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+</provincia>
+</root>

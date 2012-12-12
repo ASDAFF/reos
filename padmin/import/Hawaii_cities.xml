@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<poblacion>
+<row><id_poblacion type="int" >6356</id_poblacion><id_prov type="smallint" >901</id_prov><name_pob type="varchar"  label="City">Lihue</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >6357</id_poblacion><id_prov type="smallint" >902</id_prov><name_pob type="varchar"  label="City">Hilo</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >6358</id_poblacion><id_prov type="smallint" >903</id_prov><name_pob type="varchar"  label="City">Wailuku</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >6359</id_poblacion><id_prov type="smallint" >904</id_prov><name_pob type="varchar"  label="City">Honolulu</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >6360</id_poblacion><id_prov type="smallint" >905</id_prov><name_pob type="varchar"  label="City">Kalaupapa</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+</poblacion>
+</root>

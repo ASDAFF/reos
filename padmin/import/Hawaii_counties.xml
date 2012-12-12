@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<provincia>
+<row><id_prov type="smallint" >901</id_prov><id_comunidad type="smallint" >279</id_comunidad><prov_name type="varchar"  label="County">Kauai</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >902</id_prov><id_comunidad type="smallint" >279</id_comunidad><prov_name type="varchar"  label="County">Hawaii</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >903</id_prov><id_comunidad type="smallint" >279</id_comunidad><prov_name type="varchar"  label="County">Maui</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >904</id_prov><id_comunidad type="smallint" >279</id_comunidad><prov_name type="varchar"  label="County">Honolulu</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >905</id_prov><id_comunidad type="smallint" >279</id_comunidad><prov_name type="varchar"  label="County">Kalawao</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+</provincia>
+</root>

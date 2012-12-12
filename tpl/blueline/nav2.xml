@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<navigator>
+
+	<page>
+		<xslt>blueline</xslt>
+		<pgtitle />
+		<msg />
+		<headers>
+			<block>langs</block>
+		</headers>
+		<bleft>
+			<block>mnu_immo</block>
+			<block>mnu_cities</block>
+			<block>about</block>
+			<block>sell</block>
+			<block>mnu_subs</block>
+			<mnu title="CUSTZONE">
+				<item href="members.php">LOGIN_NOW</item>
+			</mnu>
+			<block>bguide</block>			
+		</bleft>
+		<home_central xml="home">home</home_central>
+		<bright>
+			<block>mnu_inews</block>
+			<block>recom</block>
+			<block>news</block>
+		</bright>
+		<footers>
+			<block>footer</block>
+		</footers>
+	</page>
+	
+	<pg name="home">
+		<nav>
+			<prev>any</prev>
+			<action>home</action>
+		</nav>
+		<central>
+		<block>gmaps</block>
+			<block>tp_property</block>
+			<block>special</block>
+			<block>isearch</block>
+			<block>news_main</block>
+		</central>
+	</pg>
+	
+	<pg name="tp_property">
+		<nav>
+			<prev>home</prev>
+			<action>add</action>
+		</nav>
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>
+		<blockr />
+	</pg>
+
+	<pg name="isearch">
+		<nav>
+			<prev>home</prev>
+			<action>add</action>
+		</nav>
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>
+		<blockr />
+	</pg>
+	
+	<pg name="verimmo">
+		<nav>
+			<prev>cities</prev>
+			<action>add</action>
+		</nav>
+		<nav>
+			<prev>tp_property</prev>
+			<action>add</action>
+		</nav>
+		<nav>
+			<prev>isearch</prev>
+			<action>add</action>
+		</nav>
+		<nav>
+			<prev>verimmo</prev>
+			<action>current</action>
+		</nav>
+		<nav>
+			<prev>immo</prev>
+			<action>delete</action>
+		</nav>
+		<nav>
+			<prev>home</prev>
+			<action>add</action>
+		</nav>
+		<bright></bright>
+	</pg>
+
+	<pg name="cities">
+		<nav>
+			<prev>home</prev>
+			<action>add</action>
+		</nav>
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>
+		<bright></bright>
+	</pg>
+
+	<pg name="immo">
+		<nav>
+			<prev>verimmo</prev>
+			<action>add</action>
+		</nav>
+		<nav>
+			<prev>home</prev>
+			<action>add</action>
+		</nav>
+		<nav>
+			<prev>sinfo</prev>
+			<action>delete</action>
+		</nav>
+		<nav>
+			<prev>reservation</prev>
+			<action>delete</action>
+		</nav>
+		<nav>
+			<prev>hipotec</prev>
+			<action>delete</action>
+		</nav>
+		<nav>
+			<prev>immo</prev>
+			<action>current</action>
+		</nav>
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>
+		<bright></bright>
+		<central>
+			<block>thumb</block>
+			<block>immocal</block>
+			<block>showpoint</block>
+		</central>
+	</pg>
+
+	<pg name="imggal">
+		<nav>
+			<prev>immo</prev>
+			<action>add</action>
+		</nav>
+		<bright></bright>
+	</pg>
+
+	<pg name="new">
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>
+		<bright></bright>
+	</pg>
+
+	<pg name="org">
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>
+	</pg>
+
+	<pg name="sinfo">
+		<nav>
+			<prev>immo</prev>
+			<action>add</action>
+		</nav>
+		<nav>
+			<prev>sinfo</prev>
+			<action>current</action>
+		</nav>
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>
+		<bright></bright>
+	</pg>
+
+	<pg name="about">
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>
+	</pg>
+
+	<pg name="sell">
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>
+	</pg>
+
+	<pg name="page">
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>
+	</pg>
+
+	<pg name="subs">
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>
+	</pg>
+
+	<pg name="remember">
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>
+		<bright />
+	</pg>
+
+	<pg name="confirm">
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>
+	</pg>
+
+	<pg name="unreg">
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>
+	</pg>
+
+	<pg name="hipotec">
+		<nav>
+			<prev>immo</prev>
+			<action>add</action>
+		</nav>
+		<nav>
+			<prev>hipotec</prev>
+			<action>current</action>
+		</nav>
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>
+		<bright></bright>
+	</pg>
+	
+	<pg name="reservation">
+		<nav>
+			<prev>immo</prev>
+			<action>add</action>
+		</nav>
+		<nav>
+			<prev>reservation</prev>
+			<action>current</action>
+		</nav>
+		<nav>
+			<prev>any</prev>
+			<action>reset</action>
+		</nav>
+		<central>
+			<block>immocal</block>		
+		</central>
+
+	</pg>
+
+</navigator>

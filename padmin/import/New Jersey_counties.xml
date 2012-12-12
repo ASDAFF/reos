@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<provincia>
+<row><id_prov type="smallint" >2129</id_prov><id_comunidad type="smallint" >300</id_comunidad><prov_name type="varchar"  label="County">Hudson</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2130</id_prov><id_comunidad type="smallint" >300</id_comunidad><prov_name type="varchar"  label="County">Camden</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2131</id_prov><id_comunidad type="smallint" >300</id_comunidad><prov_name type="varchar"  label="County">Gloucester</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2132</id_prov><id_comunidad type="smallint" >300</id_comunidad><prov_name type="varchar"  label="County">Burlington</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2133</id_prov><id_comunidad type="smallint" >300</id_comunidad><prov_name type="varchar"  label="County">Cape May</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2134</id_prov><id_comunidad type="smallint" >300</id_comunidad><prov_name type="varchar"  label="County">Morris</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2135</id_prov><id_comunidad type="smallint" >300</id_comunidad><prov_name type="varchar"  label="County">Bergen</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2136</id_prov><id_comunidad type="smallint" >300</id_comunidad><prov_name type="varchar"  label="County">Atlantic</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2137</id_prov><id_comunidad type="smallint" >300</id_comunidad><prov_name type="varchar"  label="County">Union</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2138</id_prov><id_comunidad type="smallint" >300</id_comunidad><prov_name type="varchar"  label="County">Passaic</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2139</id_prov><id_comunidad type="smallint" >300</id_comunidad><prov_name type="varchar"  label="County">Somerset</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2140</id_prov><id_comunidad type="smallint" >300</id_comunidad><prov_name type="varchar"  label="County">Essex</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2141</id_prov><id_comunidad type="smallint" >300</id_comunidad><prov_name type="varchar"  label="County">Hunterdon</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2142</id_prov><id_comunidad type="smallint" >300</id_comunidad><prov_name type="varchar"  label="County">Sussex</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2143</id_prov><id_comunidad type="smallint" >300</id_comunidad><prov_name type="varchar"  label="County">Mercer</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2144</id_prov><id_comunidad type="smallint" >300</id_comunidad><prov_name type="varchar"  label="County">Cumberland</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2145</id_prov><id_comunidad type="smallint" >300</id_comunidad><prov_name type="varchar"  label="County">Ocean</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2146</id_prov><id_comunidad type="smallint" >300</id_comunidad><prov_name type="varchar"  label="County">Salem</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2147</id_prov><id_comunidad type="smallint" >300</id_comunidad><prov_name type="varchar"  label="County">Middlesex</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2148</id_prov><id_comunidad type="smallint" >300</id_comunidad><prov_name type="varchar"  label="County">Monmouth</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2149</id_prov><id_comunidad type="smallint" >300</id_comunidad><prov_name type="varchar"  label="County">Warren</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+</provincia>
+</root>

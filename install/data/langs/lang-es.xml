@@ -1,0 +1,950 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<labels>
+<row><id_name type="varchar" >_0</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >No</txt_label></row>
+<row><id_name type="varchar" >_1</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Si</txt_label></row>
+<row><id_name type="varchar" >_ABOUTUS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Quienes Somos</txt_label></row>
+<row><id_name type="varchar" >_ACCOUNTS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Clientes</txt_label></row>
+<row><id_name type="varchar" >_ACONSULTAR</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >A consultar</txt_label></row>
+<row><id_name type="varchar" >_ACTIVE</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Activo</txt_label></row>
+<row><id_name type="varchar" >_ACTIVE_ALL</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ACTIVITIES_LIST</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Lista de valores actividades vacaciones</txt_label></row>
+<row><id_name type="varchar" >_ADD</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Añadir</txt_label></row>
+<row><id_name type="varchar" >_ADDIMG</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Añadir Foto</txt_label></row>
+<row><id_name type="varchar" >_ADDIMGNOT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Fotos Noticia</txt_label></row>
+<row><id_name type="varchar" >_ADDPOINT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Google Maps</txt_label></row>
+<row><id_name type="varchar" >_ADDPRICELST</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Añadir Lista de Precios</txt_label></row>
+<row><id_name type="varchar" >_ADDPRICEPRD</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Añadir Producto/Precio</txt_label></row>
+<row><id_name type="varchar" >_ADDT_FILES</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >FICHEROS ADICIONALES</txt_label></row>
+<row><id_name type="varchar" >_ADD_ACCOUNT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Añadir Cliente</txt_label></row>
+<row><id_name type="varchar" >_ADD_CITY</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Añadir Población</txt_label></row>
+<row><id_name type="varchar" >_ADD_COMDAD</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Añadir Comunidad</txt_label></row>
+<row><id_name type="varchar" >_ADD_CONTACT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Añadir Contacto</txt_label></row>
+<row><id_name type="varchar" >_ADD_COUNTRY</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Añadir País</txt_label></row>
+<row><id_name type="varchar" >_ADD_CTG</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Añadir familia</txt_label></row>
+<row><id_name type="varchar" >_ADD_DEPT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Añadir Departamento</txt_label></row>
+<row><id_name type="varchar" >_ADD_GAL</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Añadir Galeria</txt_label></row>
+<row><id_name type="varchar" >_ADD_IMG_GAL</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Añadir imagen a la galería</txt_label></row>
+<row><id_name type="varchar" >_ADD_IMMO</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Añadir Inmueble</txt_label></row>
+<row><id_name type="varchar" >_ADD_MAILING</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Añadir Mailing</txt_label></row>
+<row><id_name type="varchar" >_ADD_NEW</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Añadir Noticia</txt_label></row>
+<row><id_name type="varchar" >_ADD_PERFIL</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Añadir Perfil de Compra</txt_label></row>
+<row><id_name type="varchar" >_ADD_PERM</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Añadir Role / Perfil</txt_label></row>
+<row><id_name type="varchar" >_ADD_PICTURE</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Añadir foto</txt_label></row>
+<row><id_name type="varchar" >_ADD_POSITION</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Añadir Empleado</txt_label></row>
+<row><id_name type="varchar" >_ADD_PROD</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Añadir producto</txt_label></row>
+<row><id_name type="varchar" >_ADD_PROV</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Añadir Provincia</txt_label></row>
+<row><id_name type="varchar" >_ADD_SCR</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Añadir Pantalla</txt_label></row>
+<row><id_name type="varchar" >_ADD_SDAY</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Añadir nuevos días</txt_label></row>
+<row><id_name type="varchar" >_ADD_SEASON</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Añadir nueva temporada</txt_label></row>
+<row><id_name type="varchar" >_ADD_TICKET</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Añadir Ticket</txt_label></row>
+<row><id_name type="varchar" >_ADD_TK_CTG</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Añadir Categoria</txt_label></row>
+<row><id_name type="varchar" >_ADD_USER</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Añadir Usuario</txt_label></row>
+<row><id_name type="varchar" >_ADD_VAL</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Añadir Valor</txt_label></row>
+<row><id_name type="varchar" >_ADD_VIEW</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Añadir Vista</txt_label></row>
+<row><id_name type="varchar" >_ADD_ZONA</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Nueva Zona</txt_label></row>
+<row><id_name type="varchar" >_ADMIN</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Administración</txt_label></row>
+<row><id_name type="varchar" >_ALL_ACCOUNTS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Todos los Clientes</txt_label></row>
+<row><id_name type="varchar" >_ALL_IMMOS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Todos los Inmuebles</txt_label></row>
+<row><id_name type="varchar" >_ALL_NEWS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Todas las Noticias</txt_label></row>
+<row><id_name type="varchar" >_ALL_TICKETS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Todos los Tickets</txt_label></row>
+<row><id_name type="varchar" >_ANY</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Indiferente</txt_label></row>
+<row><id_name type="varchar" >_APP_FILE</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Fichero Aplicación</txt_label></row>
+<row><id_name type="varchar" >_APRIL</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Abril</txt_label></row>
+<row><id_name type="varchar" >_ASIGN_POB</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Seleccionar Poblaciones preferidas</txt_label></row>
+<row><id_name type="varchar" >_AUGUST</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Agosto</txt_label></row>
+<row><id_name type="varchar" >_AVG_DAY_HITS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Media Páginas Vistas Diarias</txt_label></row>
+<row><id_name type="varchar" >_AVG_DAY_ROBOTS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Media Buscadores Diarios</txt_label></row>
+<row><id_name type="varchar" >_AVG_DAY_VISITS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Media Visitas Diarias</txt_label></row>
+<row><id_name type="varchar" >_BACK</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Retroceder</txt_label></row>
+<row><id_name type="varchar" >_BACKUP</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Copias de Seguridad</txt_label></row>
+<row><id_name type="varchar" >_BOOK</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Libro de visitas</txt_label></row>
+<row><id_name type="varchar" >_BOOKINGS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Reservas</txt_label></row>
+<row><id_name type="varchar" >_BOOKING_VALID</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Su petición de reserva ha sido enviada. Recibirá un email de validación.</txt_label></row>
+<row><id_name type="varchar" >_BOOKVALID</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Validación Reserva</txt_label></row>
+<row><id_name type="varchar" >_BOOK_ISVALID</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Su reserva ha sido validada. Nos pondremos en contacto con Ud. para confirmar su reserva.</txt_label></row>
+<row><id_name type="varchar" >_BOOK_TXT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Puede dejar su opinión rellenando el formulario del final. Muchas gracias por su participación.</txt_label></row>
+<row><id_name type="varchar" >_BORRAR</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Borrar</txt_label></row>
+<row><id_name type="varchar" >_BUGGET</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Presupuesto &quot;._CURRENCY.&quot;</txt_label></row>
+<row><id_name type="varchar" >_BUSY</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Ocupado</txt_label></row>
+<row><id_name type="varchar" >_BUSYBOOKING</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >La propiedad está ocupada para las fechas seleccionadas</txt_label></row>
+<row><id_name type="varchar" >_BUYERS_ACCOUNTS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Buscar Compradores</txt_label></row>
+<row><id_name type="varchar" >_BUY_GUIDE</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Guía de Compra</txt_label></row>
+<row><id_name type="varchar" >_CALC</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Calcular</txt_label></row>
+<row><id_name type="varchar" >_CALC_INM</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Cálculo de cuotas hipoteca</txt_label></row>
+<row><id_name type="varchar" >_CALC_LOAN_PAYMENTS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Cálculo de cuotas hipoteca</txt_label></row>
+<row><id_name type="varchar" >_CALENDAR</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Calendario</txt_label></row>
+<row><id_name type="varchar" >_CAPTCHA</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Texto de verificación</txt_label></row>
+<row><id_name type="varchar" >_CATALOG</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Catálogo</txt_label></row>
+<row><id_name type="varchar" >_CHANGE_PASS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Cambiar Contraseña</txt_label></row>
+<row><id_name type="varchar" >_CHARSET</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >UTF-8</txt_label></row>
+<row><id_name type="varchar" >_CMT_CSSFILE</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Fichero CSS - Cascading Style Sheets</txt_label></row>
+<row><id_name type="varchar" >_CMT_IMAG</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Gestión de imágenes de diseño y ficheros flash</txt_label></row>
+<row><id_name type="varchar" >_CMT_XMLNAV</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Fichero XML que define la estructura de cada pagina</txt_label></row>
+<row><id_name type="varchar" >_CMT_XMLOUTPUT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Fichero generado por la aplicación como entrada del fichero XSL Transformation</txt_label></row>
+<row><id_name type="varchar" >_CMT_XMLPRT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Fichero XML que define la estructura de cada página para imprimir</txt_label></row>
+<row><id_name type="varchar" >_CMT_XSLFILE</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Fichero XSL de transformación. Toma como entrada el fichero XML Output de la aplicación.</txt_label></row>
+<row><id_name type="varchar" >_CMT_XSLPRT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Fichero XSL de transformación. Toma como entrada el fichero XML Output de la aplicación.</txt_label></row>
+<row><id_name type="varchar" >_COD</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Código</txt_label></row>
+<row><id_name type="varchar" >_COD_CATEGORY</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Código de Familia</txt_label></row>
+<row><id_name type="varchar" >_COD_LANG</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Idioma</txt_label></row>
+<row><id_name type="varchar" >_COD_PRODUCT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Código de Producto</txt_label></row>
+<row><id_name type="varchar" >_COMDAD_NAME</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Comunidad Autonoma</txt_label></row>
+<row><id_name type="varchar" >_COMO</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Nos conociste por...</txt_label></row>
+<row><id_name type="varchar" >_COM_APER</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Comisión apertura :</txt_label></row>
+<row><id_name type="varchar" >_CONFIRM</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Confirmación de registro</txt_label></row>
+<row><id_name type="varchar" >_CONNECTED_AS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Conectado como</txt_label></row>
+<row><id_name type="varchar" >_CONTACTAR</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Contactar</txt_label></row>
+<row><id_name type="varchar" >_CONTACTS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Contactos</txt_label></row>
+<row><id_name type="varchar" >_CONTENTS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Contenidos</txt_label></row>
+<row><id_name type="varchar" >_CPASS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Contraseña</txt_label></row>
+<row><id_name type="varchar" >_CSSCONFIG</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Ficheros CSS</txt_label></row>
+<row><id_name type="varchar" >_CSSFILE</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >CSS File</txt_label></row>
+<row><id_name type="varchar" >_CSS_DELETED</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Fichero CSS eliminado</txt_label></row>
+<row><id_name type="varchar" >_CTG</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Familia</txt_label></row>
+<row><id_name type="varchar" >_CTGS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Familias</txt_label></row>
+<row><id_name type="varchar" >_CTG_BELONGS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Familia a la que pertenece</txt_label></row>
+<row><id_name type="varchar" >_CTG_HAS_PROD</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Error al eliminar familia. La familia tiene productos, elimine primero los productos</txt_label></row>
+<row><id_name type="varchar" >_CTG_NO_EXIST</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Familia no existe</txt_label></row>
+<row><id_name type="varchar" >_CTG_NO_NAME</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >El nombre de familia es obligatorio</txt_label></row>
+<row><id_name type="varchar" >_CURRENT_PASS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Contraseña Actual</txt_label></row>
+<row><id_name type="varchar" >_CUSTOMER</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Cliente</txt_label></row>
+<row><id_name type="varchar" >_CUSTZONE</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Zona Clientes</txt_label></row>
+<row><id_name type="varchar" >_DATE</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Fecha</txt_label></row>
+<row><id_name type="varchar" >_DATEMP</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Datos Empresa</txt_label></row>
+<row><id_name type="varchar" >_DATETIME_SQL</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >'%d/%m/%Y - %H:%i'</txt_label></row>
+<row><id_name type="varchar" >_DATE_FORMAT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >d/m/Y</txt_label></row>
+<row><id_name type="varchar" >_DATE_FT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Fecha</txt_label></row>
+<row><id_name type="varchar" >_DATE_SQL</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >'%d/%m/%Y'</txt_label></row>
+<row><id_name type="varchar" >_DATOS_PERS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Datos Personales</txt_label></row>
+<row><id_name type="varchar" >_DATPERS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Datos Personales</txt_label></row>
+<row><id_name type="varchar" >_DAY</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Día</txt_label></row>
+<row><id_name type="varchar" >_DEACTIVE_ALL</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_DECEMBER</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Diciembre</txt_label></row>
+<row><id_name type="varchar" >_DEC_POINT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >,</txt_label></row>
+<row><id_name type="varchar" >_DELETE</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Eliminar</txt_label></row>
+<row><id_name type="varchar" >_DELETED</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Elemento eliminado correctamente</txt_label></row>
+<row><id_name type="varchar" >_DEPT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Departamento</txt_label></row>
+<row><id_name type="varchar" >_DEPTS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Departamentos</txt_label></row>
+<row><id_name type="varchar" >_DESC_CATEGORY</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Descripción</txt_label></row>
+<row><id_name type="varchar" >_DESC_PROD</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Descripción</txt_label></row>
+<row><id_name type="varchar" >_DO_CALC</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Cáculo Hipoteca</txt_label></row>
+<row><id_name type="varchar" >_DTL</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Detalle</txt_label></row>
+<row><id_name type="varchar" >_DTL_ACCOUNT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Datos Cliente</txt_label></row>
+<row><id_name type="varchar" >_DTL_ACCPERFIL</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Datos Perfil de Compra</txt_label></row>
+<row><id_name type="varchar" >_DTL_PROP</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Datos Inmueble</txt_label></row>
+<row><id_name type="varchar" >_DT_CREATE</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Fecha Alta</txt_label></row>
+<row><id_name type="varchar" >_DT_END</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Fecha Fin</txt_label></row>
+<row><id_name type="varchar" >_DT_SENT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Fecha de Envio</txt_label></row>
+<row><id_name type="varchar" >_DT_START</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Fecha Inicio</txt_label></row>
+<row><id_name type="varchar" >_DT_VAL</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Fecha de validez</txt_label></row>
+<row><id_name type="varchar" >_DT_VALID</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Valido hasta</txt_label></row>
+<row><id_name type="varchar" >_EDIT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Editar</txt_label></row>
+<row><id_name type="varchar" >_EDTACC</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Cliente</txt_label></row>
+<row><id_name type="varchar" >_EDTCOMDAD</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Edit Comunidad</txt_label></row>
+<row><id_name type="varchar" >_EDTCONTACT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Contacto</txt_label></row>
+<row><id_name type="varchar" >_EDTCOUNTRY</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >País</txt_label></row>
+<row><id_name type="varchar" >_EDTCTG</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Familia Producto</txt_label></row>
+<row><id_name type="varchar" >_EDTGAL</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Galeria</txt_label></row>
+<row><id_name type="varchar" >_EDTHIMMO</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Propiedades Alojamiento Vacaciones</txt_label></row>
+<row><id_name type="varchar" >_EDTHTML</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Editar página</txt_label></row>
+<row><id_name type="varchar" >_EDTIMMO</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Inmueble</txt_label></row>
+<row><id_name type="varchar" >_EDTIMMOGAL</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Fotos inmueble</txt_label></row>
+<row><id_name type="varchar" >_EDTLABEL</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Editar Literal</txt_label></row>
+<row><id_name type="varchar" >_EDTLST</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Valor</txt_label></row>
+<row><id_name type="varchar" >_EDTMAILING</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Detalle de mailing</txt_label></row>
+<row><id_name type="varchar" >_EDTMSG</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Editar Mensaje</txt_label></row>
+<row><id_name type="varchar" >_EDTORG</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Departamento</txt_label></row>
+<row><id_name type="varchar" >_EDTPERFIL</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Perfil de Compra</txt_label></row>
+<row><id_name type="varchar" >_EDTPERM</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Perfil</txt_label></row>
+<row><id_name type="varchar" >_EDTPOB</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Editar Población</txt_label></row>
+<row><id_name type="varchar" >_EDTPOSITION</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Detalle Empleado</txt_label></row>
+<row><id_name type="varchar" >_EDTPRD</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Producto</txt_label></row>
+<row><id_name type="varchar" >_EDTPRDGAL</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Fotos Producto</txt_label></row>
+<row><id_name type="varchar" >_EDTPREF</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Editar Valor</txt_label></row>
+<row><id_name type="varchar" >_EDTPRICELST</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Editar Lista de precios</txt_label></row>
+<row><id_name type="varchar" >_EDTPRICEPRD</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Editar Precio</txt_label></row>
+<row><id_name type="varchar" >_EDTPROV</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Editar Provincia</txt_label></row>
+<row><id_name type="varchar" >_EDTSCR</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Pantalla</txt_label></row>
+<row><id_name type="varchar" >_EDTSDAY</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Días y precios</txt_label></row>
+<row><id_name type="varchar" >_EDTSEASON</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Detalle Temporada</txt_label></row>
+<row><id_name type="varchar" >_EDTTICKET</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDTTKCTG</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Editar Categoria</txt_label></row>
+<row><id_name type="varchar" >_EDTTKEMAIL</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Email Template</txt_label></row>
+<row><id_name type="varchar" >_EDTUSER</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Usuario</txt_label></row>
+<row><id_name type="varchar" >_EDTVIEW</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Vista</txt_label></row>
+<row><id_name type="varchar" >_EDT_ACCOUNT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Editar cliente</txt_label></row>
+<row><id_name type="varchar" >_EDT_CONTACT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Editar Contacto</txt_label></row>
+<row><id_name type="varchar" >_EDT_CTG</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Editar Familia</txt_label></row>
+<row><id_name type="varchar" >_EDT_DEPT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Editar Departamento</txt_label></row>
+<row><id_name type="varchar" >_EDT_EMPL</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Editar Empleado</txt_label></row>
+<row><id_name type="varchar" >_EDT_GAL</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Editar Galeria</txt_label></row>
+<row><id_name type="varchar" >_EDT_IMMO</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Editar Inmueble</txt_label></row>
+<row><id_name type="varchar" >_EDT_MAILING</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Editar mailing</txt_label></row>
+<row><id_name type="varchar" >_EDT_NEW</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Editar Noticia</txt_label></row>
+<row><id_name type="varchar" >_EDT_PERM</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Editar Role / Perfil</txt_label></row>
+<row><id_name type="varchar" >_EDT_PROD</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Editar producto</txt_label></row>
+<row><id_name type="varchar" >_EDT_SCR</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Editar Pantalla</txt_label></row>
+<row><id_name type="varchar" >_EDT_USER</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Editar Usuario</txt_label></row>
+<row><id_name type="varchar" >_EDT_VAL</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Editar Valor</txt_label></row>
+<row><id_name type="varchar" >_EDT_VIEW</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Editar Vista</txt_label></row>
+<row><id_name type="varchar" >_EMPL</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Empleado</txt_label></row>
+<row><id_name type="varchar" >_EMPLES</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ENVIAR</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Enviar</txt_label></row>
+<row><id_name type="varchar" >_EQUIP_LIST</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Lista de valores equipamiento alquileres vacaciones</txt_label></row>
+<row><id_name type="varchar" >_ERROR_CAPTCHA</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Introduzca el texto de verificación.</txt_label></row>
+<row><id_name type="varchar" >_ERROR_CHECK_PSW</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Error al comprobar contraseña</txt_label></row>
+<row><id_name type="varchar" >_ERROR_CONTENT_MAILING</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Introduzca el contenido del mail</txt_label></row>
+<row><id_name type="varchar" >_ERROR_CURRENT_PSW</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Contraseña actual incorrecta</txt_label></row>
+<row><id_name type="varchar" >_ERROR_DATS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Error al acceder a los datos</txt_label></row>
+<row><id_name type="varchar" >_ERROR_DELETE</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Error durante la eliminación</txt_label></row>
+<row><id_name type="varchar" >_ERROR_DIR_GAL</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Error al crear directorios de la galería</txt_label></row>
+<row><id_name type="varchar" >_ERROR_EMAIL_USER</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Debe introducir el email</txt_label></row>
+<row><id_name type="varchar" >_ERROR_ES_IN</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Debe introducir una valor en español.</txt_label></row>
+<row><id_name type="varchar" >_ERROR_IN</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Error</txt_label></row>
+<row><id_name type="varchar" >_ERROR_INSERT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Error al añadir</txt_label></row>
+<row><id_name type="varchar" >_ERROR_LAST_USER</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >No se puede eliminar el último usuario de la organización</txt_label></row>
+<row><id_name type="varchar" >_ERROR_NAME_MAILING</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Introduzca el nombre del mailing</txt_label></row>
+<row><id_name type="varchar" >_ERROR_NAME_USER</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >El nombre completo es obligatorio</txt_label></row>
+<row><id_name type="varchar" >_ERROR_NM</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Debe introducir el nombre</txt_label></row>
+<row><id_name type="varchar" >_ERROR_NM_PROFILE</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >El nombre debe tener más de 5 carácteres</txt_label></row>
+<row><id_name type="varchar" >_ERROR_NOPOB</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >No se han encontrado poblaciones para la provincia</txt_label></row>
+<row><id_name type="varchar" >_ERROR_NUM_DOM</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Introduzca el número de habitaciones</txt_label></row>
+<row><id_name type="varchar" >_ERROR_NUM_PARKING</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Introduzca el numero de plazas de parking</txt_label></row>
+<row><id_name type="varchar" >_ERROR_NUM_WC</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Introduzca el número de baños</txt_label></row>
+<row><id_name type="varchar" >_ERROR_OBSRV</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Debe introducir la descripción</txt_label></row>
+<row><id_name type="varchar" >_ERROR_OPEN_DIR</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >No se puede abrir el directorio</txt_label></row>
+<row><id_name type="varchar" >_ERROR_OPEN_FILE</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Error al abrir fichero</txt_label></row>
+<row><id_name type="varchar" >_ERROR_PASSUSR_NULL</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >EL usuario y la contraseña debe estar en blanco o tener valos ambos</txt_label></row>
+<row><id_name type="varchar" >_ERROR_PROCESS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >El proceso ha generado errores</txt_label></row>
+<row><id_name type="varchar" >_ERROR_PSW_ERROR</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Ha introducido la contraseña incorrectamente, reescriba la contraseña en los dos campos</txt_label></row>
+<row><id_name type="varchar" >_ERROR_PSW_NOSTR</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >La contraseña solo puede contener letras y numeros, espacios no</txt_label></row>
+<row><id_name type="varchar" >_ERROR_PSW_SHORT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >La contraseña debe tener más de 5 carácteres</txt_label></row>
+<row><id_name type="varchar" >_ERROR_PSW_USERNAME</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >La contraseña no puede ser igual al nombre de usuario</txt_label></row>
+<row><id_name type="varchar" >_ERROR_SUBJ_MAILING</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Introduzca el asunto</txt_label></row>
+<row><id_name type="varchar" >_ERROR_SUPERF</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Introduzca la superficie del terreno/parcela en M2, sino tiene ponga 0</txt_label></row>
+<row><id_name type="varchar" >_ERROR_SUPERF_CONST</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Introduzca la superficie en M2, sino tiene ponga 0</txt_label></row>
+<row><id_name type="varchar" >_ERROR_SUPERT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Introduzca la superficie de terraza o ponga 0 si no tiene</txt_label></row>
+<row><id_name type="varchar" >_ERROR_TELF1_USER</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Debe introducir el teléfono</txt_label></row>
+<row><id_name type="varchar" >_ERROR_TXT_CONTENT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Debe introducir el mensaje.</txt_label></row>
+<row><id_name type="varchar" >_ERROR_UPDATE</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Error durante la modificación</txt_label></row>
+<row><id_name type="varchar" >_ERROR_USNAME_EXIST</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >El nombre de usuario ya existe, elija otro</txt_label></row>
+<row><id_name type="varchar" >_ERROR_USRNAME_EXISTS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >El usuario ya existe</txt_label></row>
+<row><id_name type="varchar" >_ERROR_USRNAME_NOSTR</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >El usuario solo puede contener letras y numeros, espacios no</txt_label></row>
+<row><id_name type="varchar" >_ERROR_USRNAME_SHORT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >El nombre de usuario debe tener más de 5 carácteres</txt_label></row>
+<row><id_name type="varchar" >_ER_SELET_TBL</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Error en SELECT tabla</txt_label></row>
+<row><id_name type="varchar" >_FDAY</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Vi</txt_label></row>
+<row><id_name type="varchar" >_FEBRUARY</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Febrero</txt_label></row>
+<row><id_name type="varchar" >_FECHA_FT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Fecha</txt_label></row>
+<row><id_name type="varchar" >_FG_HIDDEN</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Hidden</txt_label></row>
+<row><id_name type="varchar" >_FG_PRIVATE</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Mensaje privado</txt_label></row>
+<row><id_name type="varchar" >_FIND</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Buscar</txt_label></row>
+<row><id_name type="varchar" >_FIND_BY_CITIES</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Busqueda por Población</txt_label></row>
+<row><id_name type="varchar" >_FIND_BY_CRITERIA</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Busqueda por Criterios</txt_label></row>
+<row><id_name type="varchar" >_FIND_BY_TPPROP</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Busqueda por tipo de inmueble</txt_label></row>
+<row><id_name type="varchar" >_FINPAGINA</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" ></txt_label></row>
+<row><id_name type="varchar" >_FOLDER</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Directorio</txt_label></row>
+<row><id_name type="varchar" >_FOUND</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Total encontrados</txt_label></row>
+<row><id_name type="varchar" >_FRIDAY</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Viernes</txt_label></row>
+<row><id_name type="varchar" >_FRONT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Portada</txt_label></row>
+<row><id_name type="varchar" >_FULL_NAME</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Nombre Completo</txt_label></row>
+<row><id_name type="varchar" >_GALLERIES</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Galerías de Fotos</txt_label></row>
+<row><id_name type="varchar" >_GALLERY</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Galeria</txt_label></row>
+<row><id_name type="varchar" >_GALS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Galerias de Fotos</txt_label></row>
+<row><id_name type="varchar" >_GAL_LST</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Lista de Galerías</txt_label></row>
+<row><id_name type="varchar" >_GAST_GEST</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Gastos Gestoría, Notaría, Registro. &lt;br/&gt; (Depende del Gestor) Mínimo :</txt_label></row>
+<row><id_name type="varchar" >_GENERAL_LAYOUT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >ESTRUCTURA PAG.GENERALES</txt_label></row>
+<row><id_name type="varchar" >_GEN_LANG</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Instalar cambios en idiomas</txt_label></row>
+<row><id_name type="varchar" >_GESTLANGS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Gestión de idiomas</txt_label></row>
+<row><id_name type="varchar" >_GST_COMPRA</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Gastos compra de la vivienda</txt_label></row>
+<row><id_name type="varchar" >_GST_HIPOT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Gastos Hipoeca</txt_label></row>
+<row><id_name type="varchar" >_GUIA</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Guía</txt_label></row>
+<row><id_name type="varchar" >_HELP</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Ayuda</txt_label></row>
+<row><id_name type="varchar" >_HOME</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Inicio</txt_label></row>
+<row><id_name type="varchar" >_HOMEPG</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Inicio</txt_label></row>
+<row><id_name type="varchar" >_HOUR</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Hora</txt_label></row>
+<row><id_name type="varchar" >_IDIOMA</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >es</txt_label></row>
+<row><id_name type="varchar" >_ID_CATEGORY</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >id Familia</txt_label></row>
+<row><id_name type="varchar" >_ID_POSITION</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Asignado a</txt_label></row>
+<row><id_name type="varchar" >_ID_TICKET</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Número de Ticket</txt_label></row>
+<row><id_name type="varchar" >_IMAG</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Imágenes y ficheros flash</txt_label></row>
+<row><id_name type="varchar" >_IMG</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Foto</txt_label></row>
+<row><id_name type="varchar" >_IMGCONFIG</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Imágenes Plantilla</txt_label></row>
+<row><id_name type="varchar" >_IMGHOME</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >head.jpg</txt_label></row>
+<row><id_name type="varchar" >_IMGS_NOT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Imagenes de la noticia</txt_label></row>
+<row><id_name type="varchar" >_IMG_FILE_ERROR</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >tiene un formato incorrecto  (Acentos, espacios, etc..NO) o es más grande de</txt_label></row>
+<row><id_name type="varchar" >_IMG_FRONT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Imagen Portada</txt_label></row>
+<row><id_name type="varchar" >_IMG_INT_1</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Imagen Interior 1</txt_label></row>
+<row><id_name type="varchar" >_IMG_INT_2</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Imagen Interior 2</txt_label></row>
+<row><id_name type="varchar" >_IMG_INT_3</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Imagen Interior 3</txt_label></row>
+<row><id_name type="varchar" >_IMG_PORT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Imagen Portada</txt_label></row>
+<row><id_name type="varchar" >_IMMO</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Datos inmueble</txt_label></row>
+<row><id_name type="varchar" >_IMMOS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Inmuebles</txt_label></row>
+<row><id_name type="varchar" >_IMP_ACTOS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Impuesto de actos jurídicos documentados :</txt_label></row>
+<row><id_name type="varchar" >_IMP_COMPRA</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Imp. Tran. Patrimoniales (Segunda mano) o IVA (Nueva) :</txt_label></row>
+<row><id_name type="varchar" >_IMP_ENTR</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Importe de la Entrada</txt_label></row>
+<row><id_name type="varchar" >_IMP_SOL</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Importe Hipoteca</txt_label></row>
+<row><id_name type="varchar" >_IND_ACTIVE</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Activo</txt_label></row>
+<row><id_name type="varchar" >_IND_MAILING</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Mailing</txt_label></row>
+<row><id_name type="varchar" >_IND_OFERTA</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Oferta</txt_label></row>
+<row><id_name type="varchar" >_IND_PISCINA</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Piscina</txt_label></row>
+<row><id_name type="varchar" >_INFOLEGAL</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Información Legal</txt_label></row>
+<row><id_name type="varchar" >_INSERTED</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Elemento añadido correctamente</txt_label></row>
+<row><id_name type="varchar" >_INSIDE</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Interior</txt_label></row>
+<row><id_name type="varchar" >_INTROS_LIST</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Lista de valores de intro de una oferta</txt_label></row>
+<row><id_name type="varchar" >_INT_BANC</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Interés Bancario</txt_label></row>
+<row><id_name type="varchar" >_INT_CAPACITY</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Capacidad pers.</txt_label></row>
+<row><id_name type="varchar" >_INT_PERS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Número de personas</txt_label></row>
+<row><id_name type="varchar" >_INT_SUPERFICIE</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Terreno M2</txt_label></row>
+<row><id_name type="varchar" >_INT_SUPERFICIE_CONST</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Superficie M2</txt_label></row>
+<row><id_name type="varchar" >_INT_TERRACE</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Terraza M2</txt_label></row>
+<row><id_name type="varchar" >_IN_NAME_ACCOUNT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >El nombre de cliente es obligatorio</txt_label></row>
+<row><id_name type="varchar" >_IN_NAME_GAL</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >El nombre de la galeria es obligatorio</txt_label></row>
+<row><id_name type="varchar" >_IN_NAME_IMMO</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >La referencia de la Inmueble es obligatoria</txt_label></row>
+<row><id_name type="varchar" >_IN_NAME_ORG</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_IN_NOT_RESUM</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >El resumen de la noticia es obligatorio</txt_label></row>
+<row><id_name type="varchar" >_IN_NOT_TITLE</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >El título de la noticia es obligatorio</txt_label></row>
+<row><id_name type="varchar" >_IN_POB_IMMO</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Debe seleccionar una población. Si no esta en la lista de poblaciones pongase en contacto con el administrador</txt_label></row>
+<row><id_name type="varchar" >_IN_POB_ORG</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Debe seleccionar una población para el departamento</txt_label></row>
+<row><id_name type="varchar" >_IN_SUBJECT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Introduzca un asunto</txt_label></row>
+<row><id_name type="varchar" >_JANUARY</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Enero</txt_label></row>
+<row><id_name type="varchar" >_JULY</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Julio</txt_label></row>
+<row><id_name type="varchar" >_JUNE</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Junio</txt_label></row>
+<row><id_name type="varchar" >_KEYWORDS_ADM</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_LABELS_LIST</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Lista de literales del programa</txt_label></row>
+<row><id_name type="varchar" >_LANGS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Idiomas</txt_label></row>
+<row><id_name type="varchar" >_LANGUAGE</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Idioma</txt_label></row>
+<row><id_name type="varchar" >_LATTITUD</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_LBL_SEASONS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Temporada</txt_label></row>
+<row><id_name type="varchar" >_LOGIN_FAILED</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Su usuario o contraseña con incorrectos !</txt_label></row>
+<row><id_name type="varchar" >_LOGIN_NOW</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Entrar</txt_label></row>
+<row><id_name type="varchar" >_LOGOUT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Desconectar</txt_label></row>
+<row><id_name type="varchar" >_LONGITUD</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_LOVS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Listas de valores</txt_label></row>
+<row><id_name type="varchar" >_LSTMAILING</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Lista de Mailings</txt_label></row>
+<row><id_name type="varchar" >_LSTUSER</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Lista de Usuarios</txt_label></row>
+<row><id_name type="varchar" >_M2</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >M2</txt_label></row>
+<row><id_name type="varchar" >_M2_TERRACE</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >M2 de terraza</txt_label></row>
+<row><id_name type="varchar" >_M2_TERRENO</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >M2 de terreno</txt_label></row>
+<row><id_name type="varchar" >_MAILING</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Campañas de Mailing</txt_label></row>
+<row><id_name type="varchar" >_MAIL_BKVALID</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Validación de la reserva</txt_label></row>
+<row><id_name type="varchar" >_MAIL_BKVALID_TXT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Muy sr. Mio, 
+
+Para validar su reserva debe acceder al siguiente enlace :</txt_label></row>
+<row><id_name type="varchar" >_MAIL_CONFIRM</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Su petición de registro ha sido procesada, en breves momentos recibirá un correo para validar su registro.</txt_label></row>
+<row><id_name type="varchar" >_MAIL_FORMAT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >El formato del email es incorrecto</txt_label></row>
+<row><id_name type="varchar" >_MAIL_HRECEV</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Hemos recibido su petición</txt_label></row>
+<row><id_name type="varchar" >_MAIL_NMSG</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >En breve le atenderemos.</txt_label></row>
+<row><id_name type="varchar" >_MAIL_NOTI</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Notificación de recepción</txt_label></row>
+<row><id_name type="varchar" >_MAIL_REM</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Datos de Acceso</txt_label></row>
+<row><id_name type="varchar" >_MAIL_REM_TXT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Muy sr. Mio, 
+
+Sus datos de acceso son :</txt_label></row>
+<row><id_name type="varchar" >_MAIL_SUBS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Confirmación de registro</txt_label></row>
+<row><id_name type="varchar" >_MAIL_SUBS_TXT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Muy sr. Mio, 
+
+Para validar su registro  debe acceder al siguiente enlace :
+
+</txt_label></row>
+<row><id_name type="varchar" >_MAIN_IMG</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Imagen principal</txt_label></row>
+<row><id_name type="varchar" >_MANDATORY</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Hay campos obligatorios</txt_label></row>
+<row><id_name type="varchar" >_MAPINIT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Vista Inicial Google Maps</txt_label></row>
+<row><id_name type="varchar" >_MARCH</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Marzo</txt_label></row>
+<row><id_name type="varchar" >_MAY</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Mayo</txt_label></row>
+<row><id_name type="varchar" >_MDAY</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Lu</txt_label></row>
+<row><id_name type="varchar" >_MKT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Mailings</txt_label></row>
+<row><id_name type="varchar" >_MNU_ADM</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Menu</txt_label></row>
+<row><id_name type="varchar" >_MONDAY</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Lunes</txt_label></row>
+<row><id_name type="varchar" >_MONTH</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Mes</txt_label></row>
+<row><id_name type="varchar" >_MSG</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Mensaje</txt_label></row>
+<row><id_name type="varchar" >_MY_ACCOUNTS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Mis Clientes</txt_label></row>
+<row><id_name type="varchar" >_MY_IMMOS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Mis Inmuebles</txt_label></row>
+<row><id_name type="varchar" >_MY_NEWS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Mis Noticias</txt_label></row>
+<row><id_name type="varchar" >_MY_PROFILE</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Mi Perfil</txt_label></row>
+<row><id_name type="varchar" >_MY_TICKETS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Mis Tickets</txt_label></row>
+<row><id_name type="varchar" >_MY_TK_STATS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Mis Estadísticas</txt_label></row>
+<row><id_name type="varchar" >_NAME</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Nombre</txt_label></row>
+<row><id_name type="varchar" >_NAME_ACCOUNT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Nombre de Cliente</txt_label></row>
+<row><id_name type="varchar" >_NAME_CATEGORY</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Familia</txt_label></row>
+<row><id_name type="varchar" >_NAME_GAL</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Nombre Galeria</txt_label></row>
+<row><id_name type="varchar" >_NAME_MAILING</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Nombre del Mailing</txt_label></row>
+<row><id_name type="varchar" >_NAME_ORG</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Oficina</txt_label></row>
+<row><id_name type="varchar" >_NAME_POB</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Población</txt_label></row>
+<row><id_name type="varchar" >_NAME_POSITION</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Cargo</txt_label></row>
+<row><id_name type="varchar" >_NAME_PRICE_LST</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Nombre Lista</txt_label></row>
+<row><id_name type="varchar" >_NAME_PRODUCT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Nombre Producto</txt_label></row>
+<row><id_name type="varchar" >_NAME_SEASONS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Nombre Temporada</txt_label></row>
+<row><id_name type="varchar" >_NAME_USER</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Nombre Empleado / Usuario</txt_label></row>
+<row><id_name type="varchar" >_NESPECIAL</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Nuestra Oferta Especial</txt_label></row>
+<row><id_name type="varchar" >_NEW</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Noticia</txt_label></row>
+<row><id_name type="varchar" >_NEWS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Noticias</txt_label></row>
+<row><id_name type="varchar" >_NEWSLST</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Lista de Noticias</txt_label></row>
+<row><id_name type="varchar" >_NEWS_EVENTS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Noticias y eventos</txt_label></row>
+<row><id_name type="varchar" >_NEWUSER</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Nuevo Usuario</txt_label></row>
+<row><id_name type="varchar" >_NEW_PASSWORD</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Nueva Contraseña</txt_label></row>
+<row><id_name type="varchar" >_NEW_POS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Posición</txt_label></row>
+<row><id_name type="varchar" >_NEW_PROP</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Vivienda Nueva</txt_label></row>
+<row><id_name type="varchar" >_NEW_RESUM</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Resumen</txt_label></row>
+<row><id_name type="varchar" >_NEW_TITLE</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Título</txt_label></row>
+<row><id_name type="varchar" >_NEW_TXT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Texto</txt_label></row>
+<row><id_name type="varchar" >_NEXT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Siguiente</txt_label></row>
+<row><id_name type="varchar" >_NM_CONTACT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Nombre Contacto</txt_label></row>
+<row><id_name type="varchar" >_NM_PROFILE</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Nombre</txt_label></row>
+<row><id_name type="varchar" >_NM_SCREEN</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Pantalla</txt_label></row>
+<row><id_name type="varchar" >_NM_TK_CTG</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Categoría</txt_label></row>
+<row><id_name type="varchar" >_NM_VIEW</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Vista</txt_label></row>
+<row><id_name type="varchar" >_NOREGUSERS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >No hay clientes registrados al boletín de noticias</txt_label></row>
+<row><id_name type="varchar" >_NOSELECTED</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >No Seleccionado</txt_label></row>
+<row><id_name type="varchar" >_NOTFOUND</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_NOTI</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Noticia</txt_label></row>
+<row><id_name type="varchar" >_NOTICIA</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Visualizar Noticia</txt_label></row>
+<row><id_name type="varchar" >_NOVED</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Novedades</txt_label></row>
+<row><id_name type="varchar" >_NOVED_TXT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Ultimos inmuebles en cartera</txt_label></row>
+<row><id_name type="varchar" >_NOVEMBER</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Noviembre</txt_label></row>
+<row><id_name type="varchar" >_NO_ACCOUNT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >No hay clientes</txt_label></row>
+<row><id_name type="varchar" >_NO_AV_LG</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Este contenido no esta disponible en este idioma.</txt_label></row>
+<row><id_name type="varchar" >_NO_COD</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Código es obligatorio</txt_label></row>
+<row><id_name type="varchar" >_NO_CONTACT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >No se han encontrado contactos</txt_label></row>
+<row><id_name type="varchar" >_NO_CTG</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >No hay familias</txt_label></row>
+<row><id_name type="varchar" >_NO_EMPL</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >No hay empleados</txt_label></row>
+<row><id_name type="varchar" >_NO_GALS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >No hay galerias para la selección</txt_label></row>
+<row><id_name type="varchar" >_NO_IMG_FRONT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >La Galeria de imagenes no tiene establecida una imagen principal. La publicación de anuncios necesita la imagen principal.</txt_label></row>
+<row><id_name type="varchar" >_NO_IMG_INT_1</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >No hay Imagen Interior 1</txt_label></row>
+<row><id_name type="varchar" >_NO_IMG_INT_2</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >No hay Imagen Interior 2</txt_label></row>
+<row><id_name type="varchar" >_NO_IMG_INT_3</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >No hay Imagen Interior 3</txt_label></row>
+<row><id_name type="varchar" >_NO_IMG_PORT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >No hay Imagen portada</txt_label></row>
+<row><id_name type="varchar" >_NO_IMMO</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >No hay Inmuebles</txt_label></row>
+<row><id_name type="varchar" >_NO_MAILING</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >No hay mailings</txt_label></row>
+<row><id_name type="varchar" >_NO_MEMBERS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >No tiene miembros en su equipo</txt_label></row>
+<row><id_name type="varchar" >_NO_NOTS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >No hay noticias</txt_label></row>
+<row><id_name type="varchar" >_NO_ORGS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >No hay organizaciones</txt_label></row>
+<row><id_name type="varchar" >_NO_PRICE_LST</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >No hay listas de precios</txt_label></row>
+<row><id_name type="varchar" >_NO_PROD</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >No hay productos</txt_label></row>
+<row><id_name type="varchar" >_NO_PSTS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >No positions</txt_label></row>
+<row><id_name type="varchar" >_NO_SEASONS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >No hay temporadas</txt_label></row>
+<row><id_name type="varchar" >_NO_TICKET</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >No se han encontrado tickets para la selección</txt_label></row>
+<row><id_name type="varchar" >_NUMORDER</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Orden</txt_label></row>
+<row><id_name type="varchar" >_NUM_DORMITORIO</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >habitación</txt_label></row>
+<row><id_name type="varchar" >_NUM_DORMITORIOS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >habitaciones</txt_label></row>
+<row><id_name type="varchar" >_NUM_HITS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Páginas Vistas</txt_label></row>
+<row><id_name type="varchar" >_NUM_ORDER</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Orden de aparición</txt_label></row>
+<row><id_name type="varchar" >_NUM_PARKING</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >plaza de parking</txt_label></row>
+<row><id_name type="varchar" >_NUM_PARKINGS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >plazas de parking</txt_label></row>
+<row><id_name type="varchar" >_NUM_ROBOTS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Buscadores</txt_label></row>
+<row><id_name type="varchar" >_NUM_SENT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Envíos realizados</txt_label></row>
+<row><id_name type="varchar" >_NUM_VISITS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Visitas</txt_label></row>
+<row><id_name type="varchar" >_NUM_WC</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >baño</txt_label></row>
+<row><id_name type="varchar" >_NUM_WCS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Baños</txt_label></row>
+<row><id_name type="varchar" >_OBSERV_LIST</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Lista de valores observaciones alquiler vacaciones</txt_label></row>
+<row><id_name type="varchar" >_OCTOBER</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Octubre</txt_label></row>
+<row><id_name type="varchar" >_OF</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >de</txt_label></row>
+<row><id_name type="varchar" >_OFICINAS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Oficinas</txt_label></row>
+<row><id_name type="varchar" >_ONLOAD</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_OPINION</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Opinión de esta web</txt_label></row>
+<row><id_name type="varchar" >_OPTIONAL</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >(Opcional)</txt_label></row>
+<row><id_name type="varchar" >_ORDER</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Orden</txt_label></row>
+<row><id_name type="varchar" >_ORDERBY</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Ordenar por</txt_label></row>
+<row><id_name type="varchar" >_ORG</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Organización</txt_label></row>
+<row><id_name type="varchar" >_ORG_HAS_SUBORG</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >El departamento tiene sub-departamento, elimine los sub-departamentos</txt_label></row>
+<row><id_name type="varchar" >_ORG_LST</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Estructura de la Organización</txt_label></row>
+<row><id_name type="varchar" >_OUTAPP</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >SALIDA DE LA APLICACIÓN</txt_label></row>
+<row><id_name type="varchar" >_PAGE</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Página</txt_label></row>
+<row><id_name type="varchar" >_PAGO_MEN</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Pago mensual de la Hipoteca</txt_label></row>
+<row><id_name type="varchar" >_PAGS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Páginas</txt_label></row>
+<row><id_name type="varchar" >_PARAMS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Parámetros</txt_label></row>
+<row><id_name type="varchar" >_PARENTCTG_DCHILDREN</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Error al eliminar familia. La familia tiene subfamilias, elimine primero las subfamilias</txt_label></row>
+<row><id_name type="varchar" >_PASSWORD</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Contraseña</txt_label></row>
+<row><id_name type="varchar" >_PATH_IMAGE</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Imagen</txt_label></row>
+<row><id_name type="varchar" >_PERMS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Roles</txt_label></row>
+<row><id_name type="varchar" >_PERMS_HAS_SCR</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >El perfil tiene pantallas asignadas.</txt_label></row>
+<row><id_name type="varchar" >_PICTURES</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Fotos</txt_label></row>
+<row><id_name type="varchar" >_PIEPAGINA</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Powered by &lt;a href=&quot;http://reos.elazos.com&quot;&gt;ReOS &quot;._VERSION.&quot;&lt;/a&gt; and released under the &lt;a href=&quot;http://www.fsf.org/licensing/licenses/agpl-3.0.html&quot;&gt;GNU/AGPLv3 License.&lt;/a&gt;</txt_label></row>
+<row><id_name type="varchar" >_PLEASE_LOGIN</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Por favor, identifiquese con su usuario y contraseña</txt_label></row>
+<row><id_name type="varchar" >_POBLACIONES</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Activar Poblaciones</txt_label></row>
+<row><id_name type="varchar" >_POBS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Busqueda por poblaciones</txt_label></row>
+<row><id_name type="varchar" >_POPHOST</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Mail Host</txt_label></row>
+<row><id_name type="varchar" >_POPPASS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Pop3 Password</txt_label></row>
+<row><id_name type="varchar" >_POPUSER</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Pop3 User</txt_label></row>
+<row><id_name type="varchar" >_POSITION</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Cargo</txt_label></row>
+<row><id_name type="varchar" >_POS_IMG_PORT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Posición de la imagen en portada</txt_label></row>
+<row><id_name type="varchar" >_PRECIO</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Precio</txt_label></row>
+<row><id_name type="varchar" >_PRECIO_ALQUILER</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Precio de Alquiler &quot;._CURRENCY.&quot;</txt_label></row>
+<row><id_name type="varchar" >_PRECIO_COMPRA</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Precio de Compra &quot;._CURRENCY.&quot;</txt_label></row>
+<row><id_name type="varchar" >_PREFERE</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Preferencias</txt_label></row>
+<row><id_name type="varchar" >_PREF_POBS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Poblaciones Preferidas</txt_label></row>
+<row><id_name type="varchar" >_PREVIOUS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Anterior</txt_label></row>
+<row><id_name type="varchar" >_PRE_VIVIE</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Precio de la vivienda</txt_label></row>
+<row><id_name type="varchar" >_PRICE_FROM</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Precio desde</txt_label></row>
+<row><id_name type="varchar" >_PRICE_MAX</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Precio Máximo &quot;._CURRENCY.&quot;</txt_label></row>
+<row><id_name type="varchar" >_PRICE_MIN</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Precio Mínimo &quot;._CURRENCY.&quot;</txt_label></row>
+<row><id_name type="varchar" >_PRIORITY</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Prioridad</txt_label></row>
+<row><id_name type="varchar" >_PROCESS_OK</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Proceso ejecutado correctamente</txt_label></row>
+<row><id_name type="varchar" >_PRODS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Productos</txt_label></row>
+<row><id_name type="varchar" >_PROFS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Roles / Perfiles</txt_label></row>
+<row><id_name type="varchar" >_PROP_ACCOUNT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Inmuebles del Cliente</txt_label></row>
+<row><id_name type="varchar" >_PROV_NAME</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Provincia</txt_label></row>
+<row><id_name type="varchar" >_PRT_LAYOUT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >ESTRUCTURA PAG. IMPRESIÓN</txt_label></row>
+<row><id_name type="varchar" >_PST_ELEMTS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >El cargo tiene asignados elementos, elimine primero los elementos</txt_label></row>
+<row><id_name type="varchar" >_PUBLI_YOUR</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Publica tu propiedad</txt_label></row>
+<row><id_name type="varchar" >_READMORE</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Leer más...</txt_label></row>
+<row><id_name type="varchar" >_RECOM</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Recomendamos</txt_label></row>
+<row><id_name type="varchar" >_REFERERS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Remitentes</txt_label></row>
+<row><id_name type="varchar" >_REF_IMMO</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Referencia</txt_label></row>
+<row><id_name type="varchar" >_REF_TICKET</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Referencia</txt_label></row>
+<row><id_name type="varchar" >_REGS_TXT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Para evitar que otros usuarios puedan registrarle, usted recibirá un correo de confirmación con las instrucciones para validar su registro. Mediante el envio de este formulario, usted se registra a la zona de clientes. Su correo electrónico será su identificador de usuario.</txt_label></row>
+<row><id_name type="varchar" >_REGUSERS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Clientes registrados al boletín de noticias</txt_label></row>
+<row><id_name type="varchar" >_REM_CONFIRM</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Comprueba tu correo.</txt_label></row>
+<row><id_name type="varchar" >_REM_TXT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Te enviaremos tu datos de acceso (Usuario y password) a tu dirección de correo electrónico.</txt_label></row>
+<row><id_name type="varchar" >_REM_USR</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >¿ No recuerdas tus datos de acceso ?</txt_label></row>
+<row><id_name type="varchar" >_RESERVATION</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Reservar</txt_label></row>
+<row><id_name type="varchar" >_RESERV_CONFIRM</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Su petición de reserva ha sido confirmada.</txt_label></row>
+<row><id_name type="varchar" >_RESTORE</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Recuperar Copias</txt_label></row>
+<row><id_name type="varchar" >_RESULTS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Resultado de la busqueda</txt_label></row>
+<row><id_name type="varchar" >_RE_NEW_PASS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Reescriba la nueva Contraseña</txt_label></row>
+<row><id_name type="varchar" >_RE_PASSWORD</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Reescribir Contraseña</txt_label></row>
+<row><id_name type="varchar" >_ROOT_DEPT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Departamento Inicial</txt_label></row>
+<row><id_name type="varchar" >_ROWS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Registros</txt_label></row>
+<row><id_name type="varchar" >_SADAY</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Sa</txt_label></row>
+<row><id_name type="varchar" >_SATURDAY</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Sabado</txt_label></row>
+<row><id_name type="varchar" >_SAT_DEPT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Atención a Clientes</txt_label></row>
+<row><id_name type="varchar" >_SAVE</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Guardar</txt_label></row>
+<row><id_name type="varchar" >_SCREEN</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Pantalla</txt_label></row>
+<row><id_name type="varchar" >_SCREENS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Pantallas</txt_label></row>
+<row><id_name type="varchar" >_SCREEN_HAS_VIEW</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >La pantalla tiene vistas asignadas.</txt_label></row>
+<row><id_name type="varchar" >_SDAY</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Do</txt_label></row>
+<row><id_name type="varchar" >_SEARCH_TITLE</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Busqueda</txt_label></row>
+<row><id_name type="varchar" >_SEASONS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Temporadas para alquileres de vacaciones</txt_label></row>
+<row><id_name type="varchar" >_SEE2PRINT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Ver para imprimir</txt_label></row>
+<row><id_name type="varchar" >_SEE_CYRILIC</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Ver idiomas Cyrilicos (Ruso)</txt_label></row>
+<row><id_name type="varchar" >_SEE_LATIN1</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Ver idiomas Occidentales</txt_label></row>
+<row><id_name type="varchar" >_SEGUROS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Seguros</txt_label></row>
+<row><id_name type="varchar" >_SELECT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Seleccionar</txt_label></row>
+<row><id_name type="varchar" >_SELECTED</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Seleccionado</txt_label></row>
+<row><id_name type="varchar" >_SELECTLANGUAGE</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Change Language !</txt_label></row>
+<row><id_name type="varchar" >_SEND_OUTLOOK</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Enviar a Outlook</txt_label></row>
+<row><id_name type="varchar" >_SEPTEMBER</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Septiembre</txt_label></row>
+<row><id_name type="varchar" >_SERVICES_LIST</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Lista de valores servcios vacaciones</txt_label></row>
+<row><id_name type="varchar" >_SET_ACTIVITIES</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Actividades</txt_label></row>
+<row><id_name type="varchar" >_SET_EQUIP</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Equipamiento</txt_label></row>
+<row><id_name type="varchar" >_SET_IMG_FRONT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Hacer principal</txt_label></row>
+<row><id_name type="varchar" >_SET_INTRO</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Introducción</txt_label></row>
+<row><id_name type="varchar" >_SET_OBSERV</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Observaciones</txt_label></row>
+<row><id_name type="varchar" >_SET_PROPERTIES</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Características</txt_label></row>
+<row><id_name type="varchar" >_SET_SERVICES</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Servicios</txt_label></row>
+<row><id_name type="varchar" >_SHOW_GAL</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Mostrar Galeria</txt_label></row>
+<row><id_name type="varchar" >_SINFO</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Solicitud de Información</txt_label></row>
+<row><id_name type="varchar" >_SINFO_ADVERT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >A través de la página web no se recoge ningún dato personal sin su conocimiento, ni se ceden a terceros.</txt_label></row>
+<row><id_name type="varchar" >_SINFO_CONFIRM</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Formulario de contacto enviado correctamente.</txt_label></row>
+<row><id_name type="varchar" >_SINFO_TXT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Envíenos sus datos y nos pondremos en contacto con usted</txt_label></row>
+<row><id_name type="varchar" >_SLOGAN</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Gestión Inmobiliaria</txt_label></row>
+<row><id_name type="varchar" >_START</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Inicio</txt_label></row>
+<row><id_name type="varchar" >_STATE</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Estado</txt_label></row>
+<row><id_name type="varchar" >_STATISTICS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Estadísticas de Accesos</txt_label></row>
+<row><id_name type="varchar" >_SUBJECT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Asunto</txt_label></row>
+<row><id_name type="varchar" >_SUBS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Registrate</txt_label></row>
+<row><id_name type="varchar" >_SUBS_PHRASE</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Recibe nuestro boletín de novedades</txt_label></row>
+<row><id_name type="varchar" >_SUBS_TXT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Para evitar que otros usuarios puedan registrarle, usted recibirá un correo de confirmación con las instrucciones para validar su registro. Mediante el envio de este formulario, usted se registra en el servicio de boletin de noticias.</txt_label></row>
+<row><id_name type="varchar" >_SUNDAY</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Domingo</txt_label></row>
+<row><id_name type="varchar" >_SUPPORT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Soporte</txt_label></row>
+<row><id_name type="varchar" >_TDAY</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Ma</txt_label></row>
+<row><id_name type="varchar" >_TEAM_ACCOUNTS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Clientes de mi equipo</txt_label></row>
+<row><id_name type="varchar" >_TEAM_IMMOS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Inmuebles de mi equipo</txt_label></row>
+<row><id_name type="varchar" >_TEAM_TICKETS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Tickets de mi equipo</txt_label></row>
+<row><id_name type="varchar" >_THDAY</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Ju</txt_label></row>
+<row><id_name type="varchar" >_THEMES</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Themes</txt_label></row>
+<row><id_name type="varchar" >_THOUSANDS_SEP</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >.</txt_label></row>
+<row><id_name type="varchar" >_THUMB</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Fotos</txt_label></row>
+<row><id_name type="varchar" >_THURSDAY</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Jueves</txt_label></row>
+<row><id_name type="varchar" >_TICKETS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Tickets</txt_label></row>
+<row><id_name type="varchar" >_TITLE_LOGIN</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Area de administración</txt_label></row>
+<row><id_name type="varchar" >_TK_CTG_LST</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Lista de Categorias</txt_label></row>
+<row><id_name type="varchar" >_TOCLOSE</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Cerrar</txt_label></row>
+<row><id_name type="varchar" >_TODO</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Acción</txt_label></row>
+<row><id_name type="varchar" >_TOEND</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Finalizar</txt_label></row>
+<row><id_name type="varchar" >_TOTAL</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Total</txt_label></row>
+<row><id_name type="varchar" >_TOT_GST</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Total gastos :</txt_label></row>
+<row><id_name type="varchar" >_TOY_INTERES</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Contactar por este Inmmueble</txt_label></row>
+<row><id_name type="varchar" >_TP_PRICE</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Tipo Precio</txt_label></row>
+<row><id_name type="varchar" >_TP_PROPIEDAD</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Tipo Inmueble</txt_label></row>
+<row><id_name type="varchar" >_TP_SDAYS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Tipo</txt_label></row>
+<row><id_name type="varchar" >_TP_SEND</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Tipo de Envio</txt_label></row>
+<row><id_name type="varchar" >_TP_SEND_TO</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Enviar a</txt_label></row>
+<row><id_name type="varchar" >_TP_SERVICIO</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Operación</txt_label></row>
+<row><id_name type="varchar" >_TP_STATE</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Estado</txt_label></row>
+<row><id_name type="varchar" >_TP_VAT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Tipo IVA %</txt_label></row>
+<row><id_name type="varchar" >_TUESDAY</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Martes</txt_label></row>
+<row><id_name type="varchar" >_TXT_ADDRESS1</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Dirección</txt_label></row>
+<row><id_name type="varchar" >_TXT_AGE</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Edad</txt_label></row>
+<row><id_name type="varchar" >_TXT_ASUNT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Asunto</txt_label></row>
+<row><id_name type="varchar" >_TXT_COMMENT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Comentarios</txt_label></row>
+<row><id_name type="varchar" >_TXT_COMO</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >¿Cómo nos conociste?</txt_label></row>
+<row><id_name type="varchar" >_TXT_CONTENT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Contenido</txt_label></row>
+<row><id_name type="varchar" >_TXT_COUNTRY</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >País</txt_label></row>
+<row><id_name type="varchar" >_TXT_CP</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Código postal</txt_label></row>
+<row><id_name type="varchar" >_TXT_DESC</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Descripción</txt_label></row>
+<row><id_name type="varchar" >_TXT_EMAIL</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Correo</txt_label></row>
+<row><id_name type="varchar" >_TXT_EMAIL1</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Correo</txt_label></row>
+<row><id_name type="varchar" >_TXT_ES</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Valores</txt_label></row>
+<row><id_name type="varchar" >_TXT_FAX</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Fax</txt_label></row>
+<row><id_name type="varchar" >_TXT_MAILING</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Mediante las campañas de eMailing Uds. puede enviar masivamente información a sus clientes registrados.</txt_label></row>
+<row><id_name type="varchar" >_TXT_OBSRV</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Descripción</txt_label></row>
+<row><id_name type="varchar" >_TXT_POBLACION</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Población</txt_label></row>
+<row><id_name type="varchar" >_TXT_SEARCH</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Textos de Busqueda</txt_label></row>
+<row><id_name type="varchar" >_TXT_SIGN</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Firma</txt_label></row>
+<row><id_name type="varchar" >_TXT_SUBJECT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Asunto</txt_label></row>
+<row><id_name type="varchar" >_TXT_TELF1</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Teléfono</txt_label></row>
+<row><id_name type="varchar" >_TXT_TELF2</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Teléfono 2</txt_label></row>
+<row><id_name type="varchar" >_TXT_TITLE</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Título</txt_label></row>
+<row><id_name type="varchar" >_TXT_UNREG</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Ha recibido este correo como resultado de su propio registro en nuestra lista de distribucción. Si no desea recibir más correos pulse :</txt_label></row>
+<row><id_name type="varchar" >_TXT_URL</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Dirección Web</txt_label></row>
+<row><id_name type="varchar" >_TXT_WEB</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Web</txt_label></row>
+<row><id_name type="varchar" >_TXT_ZONA</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Zona</txt_label></row>
+<row><id_name type="varchar" >_UMONTH</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Mes</txt_label></row>
+<row><id_name type="varchar" >_UNREG</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Dar de baja</txt_label></row>
+<row><id_name type="varchar" >_UNTITLED</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >No definido</txt_label></row>
+<row><id_name type="varchar" >_UPDATE</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Actualizar</txt_label></row>
+<row><id_name type="varchar" >_UPDATED</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Modificación realizada correctamente</txt_label></row>
+<row><id_name type="varchar" >_USED_PROP</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Vivienda de segunda mano</txt_label></row>
+<row><id_name type="varchar" >_USER</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Usuario</txt_label></row>
+<row><id_name type="varchar" >_USERNAME</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Usuario</txt_label></row>
+<row><id_name type="varchar" >_USER_DELETED</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Usuario eliminado correctamente</txt_label></row>
+<row><id_name type="varchar" >_USER_HAS_PST</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >El usuario tiene un cargo asignado. Elimine primero el cargo en organizaciones</txt_label></row>
+<row><id_name type="varchar" >_USER_INSERTED</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Usuario añadido correctamente</txt_label></row>
+<row><id_name type="varchar" >_USER_TYPE</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Tipo</txt_label></row>
+<row><id_name type="varchar" >_USR_BOOK_NOVALID</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >No podemos validar su reserva.</txt_label></row>
+<row><id_name type="varchar" >_USR_CONFIRM</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Se ha confirmado su registro.</txt_label></row>
+<row><id_name type="varchar" >_USR_NOCONFIRM</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Se ha detectado un error en su confirmación de registro.</txt_label></row>
+<row><id_name type="varchar" >_USR_NOUNREG</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Su inscripción no ha podido ser validad para ser dada de baja. Pongase en contacto con Atención a clientes en caso de recibir más correos.</txt_label></row>
+<row><id_name type="varchar" >_USR_UNREG</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Ha sido dado de baja de la lista de distribución de correos</txt_label></row>
+<row><id_name type="varchar" >_VALUE</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Valor</txt_label></row>
+<row><id_name type="varchar" >_VERACCS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Busqueda de Clientes</txt_label></row>
+<row><id_name type="varchar" >_VERBOOKINGS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Busqueda de disponibilidad</txt_label></row>
+<row><id_name type="varchar" >_VERCONFIG</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Configuración de la plantilla</txt_label></row>
+<row><id_name type="varchar" >_VERCOUNTRIES</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Lista Paises/Ciudades </txt_label></row>
+<row><id_name type="varchar" >_VERGAL</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Galerias de Fotos</txt_label></row>
+<row><id_name type="varchar" >_VERHTML</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Ver páginas</txt_label></row>
+<row><id_name type="varchar" >_VERIMMO</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Busqueda de Inmuebles</txt_label></row>
+<row><id_name type="varchar" >_VERINTROS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Valores Intro de Oferta</txt_label></row>
+<row><id_name type="varchar" >_VERLABELS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Textos de la aplicación</txt_label></row>
+<row><id_name type="varchar" >_VERMAILINGS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Campañas de Mailing</txt_label></row>
+<row><id_name type="varchar" >_VERNOT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Noticias y Eventos</txt_label></row>
+<row><id_name type="varchar" >_VERORGS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Organización</txt_label></row>
+<row><id_name type="varchar" >_VERPERMS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Lista de Roles / Perfiles</txt_label></row>
+<row><id_name type="varchar" >_VERPOBS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Activar Poblaciones</txt_label></row>
+<row><id_name type="varchar" >_VERPRD</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Productos</txt_label></row>
+<row><id_name type="varchar" >_VERPREFS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >App. Variables</txt_label></row>
+<row><id_name type="varchar" >_VERPRICELST</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Listas de Precios</txt_label></row>
+<row><id_name type="varchar" >_VERPRICEPRD</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Productos y Precios</txt_label></row>
+<row><id_name type="varchar" >_VERPROPER</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Valores característcas de Oferta</txt_label></row>
+<row><id_name type="varchar" >_VERSCR</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Lista de Pantallas</txt_label></row>
+<row><id_name type="varchar" >_VERSEASONS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Lista de Temporadas</txt_label></row>
+<row><id_name type="varchar" >_VERTICKETS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Tickets</txt_label></row>
+<row><id_name type="varchar" >_VERTKCTGS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Categorias de Soporte</txt_label></row>
+<row><id_name type="varchar" >_VERTKEMAILS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Email Templates</txt_label></row>
+<row><id_name type="varchar" >_VERUSERS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Lista Usuarios</txt_label></row>
+<row><id_name type="varchar" >_VERVIEWS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Lista de vistas</txt_label></row>
+<row><id_name type="varchar" >_VER_PERFIL</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Perfil de Compra</txt_label></row>
+<row><id_name type="varchar" >_VIEW</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Vista</txt_label></row>
+<row><id_name type="varchar" >_VIEWED</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Visualizados</txt_label></row>
+<row><id_name type="varchar" >_VIEWS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Vistas</txt_label></row>
+<row><id_name type="varchar" >_VIEWS_LST</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Lista de Vistas</txt_label></row>
+<row><id_name type="varchar" >_VIEW_FRONT_IN</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Noticia</txt_label></row>
+<row><id_name type="varchar" >_WANT_SELL</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Quiero Vender</txt_label></row>
+<row><id_name type="varchar" >_WANT_SELL_TXT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Consiga por su vivienda lo que realmente vale !</txt_label></row>
+<row><id_name type="varchar" >_WDAY</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Mi</txt_label></row>
+<row><id_name type="varchar" >_WEDNESDAY</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Miercoles</txt_label></row>
+<row><id_name type="varchar" >_WORDS_TO_FIND</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Buscar palabras</txt_label></row>
+<row><id_name type="varchar" >_XMLNAV</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >XML Layout File</txt_label></row>
+<row><id_name type="varchar" >_XMLOUTPUT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >XML Output File</txt_label></row>
+<row><id_name type="varchar" >_XMLPRT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >XML Printing Layout File</txt_label></row>
+<row><id_name type="varchar" >_XSLFILE</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" > XSL Transformation File</txt_label></row>
+<row><id_name type="varchar" >_XSLPRT</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >XSL Printing Transformation File</txt_label></row>
+<row><id_name type="varchar" >_YEAR</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Año</txt_label></row>
+<row><id_name type="varchar" >_YEARS</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Años</txt_label></row>
+<row><id_name type="varchar" >_YOUR_LOAN</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Calcula tu hipoteca</txt_label></row>
+<row><id_name type="varchar" >_ZIP_FILE</id_name><cod_lang type="char"  label="Language">es</cod_lang><txt_label type="varchar" >Fichero ZIP</txt_label></row>
+</labels>
+<lists>
+<row><id_name type="varchar" >_LST_ACTIVITIES</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Senderismo</txt_value></row>
+<row><id_name type="varchar" >_LST_ACTIVITIES</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Off Road</txt_value></row>
+<row><id_name type="varchar" >_LST_ACTIVITIES</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >Mountain Bike</txt_value></row>
+<row><id_name type="varchar" >_LST_ACTIVITIES</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >Parasailing</txt_value></row>
+<row><id_name type="varchar" >_LST_ACTIVITIES</id_name><txt_code type="varchar" >5</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">5</num_order><txt_value type="varchar" >Playa</txt_value></row>
+<row><id_name type="varchar" >_LST_ACTIVITIES</id_name><txt_code type="varchar" >6</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">6</num_order><txt_value type="varchar" >Alquiler de barcos a vela y motor</txt_value></row>
+<row><id_name type="varchar" >_LST_ACTIVITIES</id_name><txt_code type="varchar" >7</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">7</num_order><txt_value type="varchar" >Pesca</txt_value></row>
+<row><id_name type="varchar" >_LST_ACTIVITIES</id_name><txt_code type="varchar" >8</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">8</num_order><txt_value type="varchar" >Vida Nocturna</txt_value></row>
+<row><id_name type="varchar" >_LST_ACTIVITIES</id_name><txt_code type="varchar" >9</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">9</num_order><txt_value type="varchar" >Casino</txt_value></row>
+<row><id_name type="varchar" >_LST_DT_VAL</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Válida</txt_value></row>
+<row><id_name type="varchar" >_LST_DT_VAL</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Caducada</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >TV</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >10</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">10</num_order><txt_value type="varchar" >Canal Plus</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >11</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">11</num_order><txt_value type="varchar" >Secadora</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >12</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">12</num_order><txt_value type="varchar" >Solarium UVA</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >13</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">13</num_order><txt_value type="varchar" >Freidora</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >14</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">14</num_order><txt_value type="varchar" >Horno</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >15</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">15</num_order><txt_value type="varchar" >Microondas</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >16</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">16</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >DVD</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >Internet banda ancha</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >Lavaropa</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >5</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">5</num_order><txt_value type="varchar" >Lavaplatos</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >6</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">6</num_order><txt_value type="varchar" >Cuberteria completa</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >7</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">7</num_order><txt_value type="varchar" >Sabanas y mantas</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >8</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">8</num_order><txt_value type="varchar" >Teléfono</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >9</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">9</num_order><txt_value type="varchar" >TV Satelite</txt_value></row>
+<row><id_name type="varchar" >_LST_IND_ACTIVE</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Si</txt_value></row>
+<row><id_name type="varchar" >_LST_IND_ACTIVE</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >No</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Impresionante loft</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >10</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">10</num_order><txt_value type="varchar" >Duplex</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >11</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">11</num_order><txt_value type="varchar" >Planta baja</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >12</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">12</num_order><txt_value type="varchar" >Piso alto</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >13</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">13</num_order><txt_value type="varchar" >Masia de piedra</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >14</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">14</num_order><txt_value type="varchar" >Casa de pueblo</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >15</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">15</num_order><txt_value type="varchar" >Piso seminuevo</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >16</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">16</num_order><txt_value type="varchar" >Casa seminueva</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >17</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">17</num_order><txt_value type="varchar" >Masia a reformar</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >18</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">18</num_order><txt_value type="varchar" >Atico seminuevo</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >19</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">19</num_order><txt_value type="varchar" >Piso reformado</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Casa apareada</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >20</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">20</num_order><txt_value type="varchar" >Local comercial</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >21</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">21</num_order><txt_value type="varchar" >Restaurante</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >22</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">22</num_order><txt_value type="varchar" >Bar</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >23</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">23</num_order><txt_value type="varchar" >Local almacén</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >24</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">24</num_order><txt_value type="varchar" >Piso</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >25</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">25</num_order><txt_value type="varchar" >Atico duplex</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >26</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">26</num_order><txt_value type="varchar" >Estudio</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >27</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">27</num_order><txt_value type="varchar" >Apartamento</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >28</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">28</num_order><txt_value type="varchar" >Casa</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >29</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">29</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >Piso señorial</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >30</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">30</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >Finca antigua</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >5</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">5</num_order><txt_value type="varchar" >Casa a cuatro vientos</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >6</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">6</num_order><txt_value type="varchar" >Casa unifamiliar</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >7</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">7</num_order><txt_value type="varchar" >Finca rústica</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >8</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">8</num_order><txt_value type="varchar" >Espectacular piso</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >9</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">9</num_order><txt_value type="varchar" >Atico</txt_value></row>
+<row><id_name type="varchar" >_LST_NEWS_POS</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Barra Lateral</txt_value></row>
+<row><id_name type="varchar" >_LST_NEWS_POS</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >No</txt_value></row>
+<row><id_name type="varchar" >_LST_NEWS_POS</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >Principal</txt_value></row>
+<row><id_name type="varchar" >_LST_NUMBERS_OP</id_name><txt_code type="varchar" ></txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Indiferente</txt_value></row>
+<row><id_name type="varchar" >_LST_NUMBERS_OP</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >1</txt_value></row>
+<row><id_name type="varchar" >_LST_NUMBERS_OP</id_name><txt_code type="varchar" >10</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">11</num_order><txt_value type="varchar" >10</txt_value></row>
+<row><id_name type="varchar" >_LST_NUMBERS_OP</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >2</txt_value></row>
+<row><id_name type="varchar" >_LST_NUMBERS_OP</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >3</txt_value></row>
+<row><id_name type="varchar" >_LST_NUMBERS_OP</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">5</num_order><txt_value type="varchar" >4</txt_value></row>
+<row><id_name type="varchar" >_LST_NUMBERS_OP</id_name><txt_code type="varchar" >5</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">6</num_order><txt_value type="varchar" >5</txt_value></row>
+<row><id_name type="varchar" >_LST_NUMBERS_OP</id_name><txt_code type="varchar" >6</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">7</num_order><txt_value type="varchar" >6</txt_value></row>
+<row><id_name type="varchar" >_LST_NUMBERS_OP</id_name><txt_code type="varchar" >7</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">8</num_order><txt_value type="varchar" >7</txt_value></row>
+<row><id_name type="varchar" >_LST_NUMBERS_OP</id_name><txt_code type="varchar" >8</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">9</num_order><txt_value type="varchar" >8</txt_value></row>
+<row><id_name type="varchar" >_LST_NUMBERS_OP</id_name><txt_code type="varchar" >9</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">10</num_order><txt_value type="varchar" >9</txt_value></row>
+<row><id_name type="varchar" >_LST_OBSERV</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >No se permiten animales</txt_value></row>
+<row><id_name type="varchar" >_LST_ORDER</id_name><txt_code type="varchar" >ASC</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Ascendente</txt_value></row>
+<row><id_name type="varchar" >_LST_ORDER</id_name><txt_code type="varchar" >DESC</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Descendente</txt_value></row>
+<row><id_name type="varchar" >_LST_PISCINA</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >No</txt_value></row>
+<row><id_name type="varchar" >_LST_PISCINA</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Piscina privada</txt_value></row>
+<row><id_name type="varchar" >_LST_PISCINA</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >Piscina comunitaria</txt_value></row>
+<row><id_name type="varchar" >_LST_POSIMG</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Derecha</txt_value></row>
+<row><id_name type="varchar" >_LST_POSIMG</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Izquierda</txt_value></row>
+<row><id_name type="varchar" >_LST_POSIMG</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >Arriba</txt_value></row>
+<row><id_name type="varchar" >_LST_POSIMG</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >Abajo</txt_value></row>
+<row><id_name type="varchar" >_LST_POSITIONS</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Comercial</txt_value></row>
+<row><id_name type="varchar" >_LST_POSITIONS</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Jefe de Equipo</txt_value></row>
+<row><id_name type="varchar" >_LST_POSITIONS</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >Director</txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" ></txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" > </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >10000</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >10.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >100000</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">8</num_order><txt_value type="varchar" >100.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >1000000</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">23</num_order><txt_value type="varchar" >1.000.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >1200000</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">24</num_order><txt_value type="varchar" >1.200.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >130000</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">9</num_order><txt_value type="varchar" >130.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >1400000</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">25</num_order><txt_value type="varchar" >1.400.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >160000</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">10</num_order><txt_value type="varchar" >160.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >1600000</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">26</num_order><txt_value type="varchar" >1.600.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >1800000</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">27</num_order><txt_value type="varchar" >1.800.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >20000</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >20.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >200000</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">11</num_order><txt_value type="varchar" >200.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >2000000</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">28</num_order><txt_value type="varchar" >2.000.000</txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >230000</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">12</num_order><txt_value type="varchar" >230.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >260000</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">13</num_order><txt_value type="varchar" >260.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >30000</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >30.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >300000</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">14</num_order><txt_value type="varchar" >300.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >330000</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">15</num_order><txt_value type="varchar" >330.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >360000</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">16</num_order><txt_value type="varchar" >360.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >40000</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">5</num_order><txt_value type="varchar" >40.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >400000</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">17</num_order><txt_value type="varchar" >400.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >500000</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">18</num_order><txt_value type="varchar" >500.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >60000</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">6</num_order><txt_value type="varchar" >60.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >600000</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">19</num_order><txt_value type="varchar" >600.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >700000</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">20</num_order><txt_value type="varchar" >700.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >80000</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">7</num_order><txt_value type="varchar" >80.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >800000</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">21</num_order><txt_value type="varchar" >800.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >900000</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">22</num_order><txt_value type="varchar" >900.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >10</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">10</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >11</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">11</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >12</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">12</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >13</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">13</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >14</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">14</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >15</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">15</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >16</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">16</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >17</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">17</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >18</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">18</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >19</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">19</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >20</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">20</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >21</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">21</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >22</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">22</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >23</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">23</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >24</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">24</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >25</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">25</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >26</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">26</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >27</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">27</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >28</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">28</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >29</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">29</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >30</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">30</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >31</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">31</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >32</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">32</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >33</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">33</num_order><txt_value type="varchar" >40</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >34</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">34</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >35</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">35</num_order><txt_value type="varchar" >8</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >36</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">36</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >37</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">37</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >38</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">38</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >39</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">39</num_order><txt_value type="varchar" >40</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >40</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">40</num_order><txt_value type="varchar" >40</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >41</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">41</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >42</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">42</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >43</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">43</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >44</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">44</num_order><txt_value type="varchar" >40</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >5</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">5</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >6</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">6</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >7</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">7</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >8</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">8</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >9</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">9</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >totalmente reformado</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >10</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">10</num_order><txt_value type="varchar" >chimenea</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >11</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">11</num_order><txt_value type="varchar" >cocina office</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >12</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">12</num_order><txt_value type="varchar" >gas natural</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >13</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">13</num_order><txt_value type="varchar" >vitrocerámica</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >14</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">14</num_order><txt_value type="varchar" >amplio Comedor</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >15</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">15</num_order><txt_value type="varchar" >bodega</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >16</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">16</num_order><txt_value type="varchar" >lavadero</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >17</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">17</num_order><txt_value type="varchar" >armarios empotrados</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >18</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">18</num_order><txt_value type="varchar" >trastero</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >19</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">19</num_order><txt_value type="varchar" >zona comunitaria</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >céntrico</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >20</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">20</num_order><txt_value type="varchar" >parqué</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >21</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">21</num_order><txt_value type="varchar" >amueblado</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >22</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">22</num_order><txt_value type="varchar" >cerca playa</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >23</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">23</num_order><txt_value type="varchar" >ascensor</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >24</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">24</num_order><txt_value type="varchar" >bálcon</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >25</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">25</num_order><txt_value type="varchar" >jacuzzi</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >26</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">26</num_order><txt_value type="varchar" >parking opcional</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >27</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">27</num_order><txt_value type="varchar" >zona ajardinada</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >28</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">28</num_order><txt_value type="varchar" >solarium</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >29</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">29</num_order><txt_value type="varchar" >juegos infantiles</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >jardin privado</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >30</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">30</num_order><txt_value type="varchar" >parcela llana</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >31</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">31</num_order><txt_value type="varchar" >buena distribución</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >32</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">32</num_order><txt_value type="varchar" >vistas mar</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >33</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">33</num_order><txt_value type="varchar" >acabados de calidad</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >34</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">34</num_order><txt_value type="varchar" >conserje</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >35</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">35</num_order><txt_value type="varchar" >diáfano</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >36</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">36</num_order><txt_value type="varchar" >patio interior</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >37</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">37</num_order><txt_value type="varchar" >suite</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >38</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">38</num_order><txt_value type="varchar" >altillo</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >39</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">39</num_order><txt_value type="varchar" >para entrar a vivir</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >terraza</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >40</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">40</num_order><txt_value type="varchar" >oportunidad única</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >41</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">41</num_order><txt_value type="varchar" >estudio</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >42</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">42</num_order><txt_value type="varchar" >muy tranquilo</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >43</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">43</num_order><txt_value type="varchar" >varias terrazas</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >44</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">44</num_order><txt_value type="varchar" >en perfecto estado</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >5</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">5</num_order><txt_value type="varchar" >soleado</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >6</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">6</num_order><txt_value type="varchar" >totalmente Exterior</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >7</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">7</num_order><txt_value type="varchar" >vistas</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >8</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">8</num_order><txt_value type="varchar" >calefacción</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >9</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">9</num_order><txt_value type="varchar" >aire acondicionado</txt_value></row>
+<row><id_name type="varchar" >_LST_PROVA</id_name><txt_code type="varchar" ></txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_PROVA</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Valor 1</txt_value></row>
+<row><id_name type="varchar" >_LST_PROVA</id_name><txt_code type="varchar" >blank</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">6</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_PROVA</id_name><txt_code type="varchar" >cod2</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">6</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_PROVA</id_name><txt_code type="varchar" >cod4</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_PROVA</id_name><txt_code type="varchar" >eeee</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >ooooooooooooooooo</txt_value></row>
+<row><id_name type="varchar" >_LST_ROLES</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Usuario</txt_value></row>
+<row><id_name type="varchar" >_LST_ROLES</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Supervisor</txt_value></row>
+<row><id_name type="varchar" >_LST_ROLES</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >Administrador</txt_value></row>
+<row><id_name type="varchar" >_LST_SERVICES</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Lavanderia</txt_value></row>
+<row><id_name type="varchar" >_LST_SERVICES</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Guarderia</txt_value></row>
+<row><id_name type="varchar" >_LST_SERVICES</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >Servicio de habitaciones</txt_value></row>
+<row><id_name type="varchar" >_LST_SERVICES</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >Bar</txt_value></row>
+<row><id_name type="varchar" >_LST_SERVICES</id_name><txt_code type="varchar" >5</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">5</num_order><txt_value type="varchar" >Restaurante</txt_value></row>
+<row><id_name type="varchar" >_LST_TK_PRIORITY</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Urgente</txt_value></row>
+<row><id_name type="varchar" >_LST_TK_PRIORITY</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Alta</txt_value></row>
+<row><id_name type="varchar" >_LST_TK_PRIORITY</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >Media</txt_value></row>
+<row><id_name type="varchar" >_LST_TK_PRIORITY</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >Baja</txt_value></row>
+<row><id_name type="varchar" >_LST_TK_STATE</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Abierto</txt_value></row>
+<row><id_name type="varchar" >_LST_TK_STATE</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >En Espera</txt_value></row>
+<row><id_name type="varchar" >_LST_TK_STATE</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >Pendiente</txt_value></row>
+<row><id_name type="varchar" >_LST_TK_STATE</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >Cerrado</txt_value></row>
+<row><id_name type="varchar" >_LST_TK_STATE</id_name><txt_code type="varchar" >5</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">5</num_order><txt_value type="varchar" >Solucionado</txt_value></row>
+<row><id_name type="varchar" >_LST_TK_STATE</id_name><txt_code type="varchar" >6</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">6</num_order><txt_value type="varchar" >Descartado</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_ACCSTATE</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Activo</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_ACCSTATE</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >No Activo</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_ACCSTATE</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >A validar</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_GALLERY</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Usuario</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_GALLERY</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Inmueble</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_OFERTA</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >No</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_OFERTA</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Recomendamos</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_OFERTA</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >Especial</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_PRICE</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" ></txt_value></row>
+<row><id_name type="varchar" >_LST_TP_PRICE</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Por día</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_PRICE</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >Al mes</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_PRICE</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >Por semana</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_PRICE</id_name><txt_code type="varchar" >5</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">5</num_order><txt_value type="varchar" >Fin de semana</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_PROPIEDAD</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Piso</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_PROPIEDAD</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >Local</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_PROPIEDAD</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Casa</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_PROPIEDAD</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >Apartamento</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_PROPIEDAD</id_name><txt_code type="varchar" >5</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">5</num_order><txt_value type="varchar" >Terreno</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_PROPIEDAD</id_name><txt_code type="varchar" >6</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">6</num_order><txt_value type="varchar" >Otros</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_RESERVSTATE</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >A validar</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_RESERVSTATE</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Activa</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_RESERVSTATE</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >Confirmada</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_RESERVSTATE</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >Cancelada</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_RESERVSTATE</id_name><txt_code type="varchar" >5</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">5</num_order><txt_value type="varchar" >Descartada</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_SDAYS</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Cerrado</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_SDAYS</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Temporada baja</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_SDAYS</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >Temporada media</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_SDAYS</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >Temporada alta</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_SEND</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Texto</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_SEND</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >html</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_SEND_TO</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >A los registrados al mailing</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_SEND_TO</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >A todos</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_SERVICIO</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >En Venta</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_SERVICIO</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >En Alquiler</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_SERVICIO</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >En Alquiler Vacaciones</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_SERVICIO</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >Obra Nueva</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_STATE</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Activo</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_STATE</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >No Activo</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_STATE</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >Vendido</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_STATE</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >Alquilado</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_STATE</id_name><txt_code type="varchar" >5</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">5</num_order><txt_value type="varchar" >A Validar</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_STE_MAIL</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Pendiente</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_STE_MAIL</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Enviado</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_STE_MAIL</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >Suspendido</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_STE_MAIL</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >Error</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_STE_PRC</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Activo</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_STE_PRC</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >No Activo</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_STE_PRC</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >A validar</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_VAT</id_name><txt_code type="varchar" >0</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Exento</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_VAT</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_VAT</id_name><txt_code type="varchar" >16</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >16%</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_VAT</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >4%</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_VAT</id_name><txt_code type="varchar" >7</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >7%</txt_value></row>
+<row><id_name type="varchar" >_LST_USER_TYPES</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Empleado</txt_value></row>
+<row><id_name type="varchar" >_LST_USER_TYPES</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">es</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Cliente</txt_value></row>
+</lists>
+</root>

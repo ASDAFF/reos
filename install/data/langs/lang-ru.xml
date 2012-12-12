@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<labels>
+<row><id_name type="varchar" >_0</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Нет</txt_label></row>
+<row><id_name type="varchar" >_1</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Да</txt_label></row>
+<row><id_name type="varchar" >_ABOUTUS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >О нас</txt_label></row>
+<row><id_name type="varchar" >_ACCOUNTS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Счета</txt_label></row>
+<row><id_name type="varchar" >_ACONSULTAR</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  В соответствии с просьбой  </txt_label></row>
+<row><id_name type="varchar" >_ACTIVE</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Активная</txt_label></row>
+<row><id_name type="varchar" >_ACTIVE_ALL</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Активный Все</txt_label></row>
+<row><id_name type="varchar" >_ACTIVITIES_LIST</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Мероприятия Этикетки Список  </txt_label></row>
+<row><id_name type="varchar" >_ADD</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Добавить</txt_label></row>
+<row><id_name type="varchar" >_ADDIMG</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Добавить изображение</txt_label></row>
+<row><id_name type="varchar" >_ADDIMGNOT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Новости фото</txt_label></row>
+<row><id_name type="varchar" >_ADDPOINT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Карты Google</txt_label></row>
+<row><id_name type="varchar" >_ADDPRICELST</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Добавить прайс-лист</txt_label></row>
+<row><id_name type="varchar" >_ADDPRICEPRD</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Добавить продукции / Цена  </txt_label></row>
+<row><id_name type="varchar" >_ADDT_FILES</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Дополнительные файлы</txt_label></row>
+<row><id_name type="varchar" >_ADD_ACCOUNT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Добавить аккаунт</txt_label></row>
+<row><id_name type="varchar" >_ADD_CITY</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Добавить город</txt_label></row>
+<row><id_name type="varchar" >_ADD_COMDAD</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Добавить государство</txt_label></row>
+<row><id_name type="varchar" >_ADD_CONTACT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Добавить новые контакты  </txt_label></row>
+<row><id_name type="varchar" >_ADD_COUNTRY</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Добавить Страна</txt_label></row>
+<row><id_name type="varchar" >_ADD_CTG</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Добавить категорию</txt_label></row>
+<row><id_name type="varchar" >_ADD_DEPT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Добавить Департамента</txt_label></row>
+<row><id_name type="varchar" >_ADD_GAL</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Добавить в галерее</txt_label></row>
+<row><id_name type="varchar" >_ADD_IMG_GAL</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Добавить изображение в галерею  </txt_label></row>
+<row><id_name type="varchar" >_ADD_IMMO</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Добавить собственности</txt_label></row>
+<row><id_name type="varchar" >_ADD_MAILING</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Добавить Почтовый</txt_label></row>
+<row><id_name type="varchar" >_ADD_NEW</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Создать</txt_label></row>
+<row><id_name type="varchar" >_ADD_PERFIL</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Добавить Покупка профиль  </txt_label></row>
+<row><id_name type="varchar" >_ADD_PERM</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Добавить Роль / Анкета</txt_label></row>
+<row><id_name type="varchar" >_ADD_PICTURE</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Добавить изображение</txt_label></row>
+<row><id_name type="varchar" >_ADD_POSITION</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Добавить работник</txt_label></row>
+<row><id_name type="varchar" >_ADD_PROD</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Добавить продукт</txt_label></row>
+<row><id_name type="varchar" >_ADD_PROV</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Добавить Уезд</txt_label></row>
+<row><id_name type="varchar" >_ADD_SCR</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Добавить экрана</txt_label></row>
+<row><id_name type="varchar" >_ADD_SDAY</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Добавить Новые дни</txt_label></row>
+<row><id_name type="varchar" >_ADD_SEASON</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Добавить новый сезон</txt_label></row>
+<row><id_name type="varchar" >_ADD_TICKET</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Добавить билетов</txt_label></row>
+<row><id_name type="varchar" >_ADD_TK_CTG</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Добавить категорию</txt_label></row>
+<row><id_name type="varchar" >_ADD_USER</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Добавить пользователя</txt_label></row>
+<row><id_name type="varchar" >_ADD_VAL</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Добавить Значение</txt_label></row>
+<row><id_name type="varchar" >_ADD_VIEW</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Добавить Vista</txt_label></row>
+<row><id_name type="varchar" >_ADD_ZONA</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Новые зоны</txt_label></row>
+<row><id_name type="varchar" >_ADMIN</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Администрация</txt_label></row>
+<row><id_name type="varchar" >_ALL_ACCOUNTS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Все аккаунты</txt_label></row>
+<row><id_name type="varchar" >_ALL_IMMOS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Все свойства</txt_label></row>
+<row><id_name type="varchar" >_ALL_NEWS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Все новости</txt_label></row>
+<row><id_name type="varchar" >_ALL_TICKETS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Все билеты</txt_label></row>
+<row><id_name type="varchar" >_ANY</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Любой</txt_label></row>
+<row><id_name type="varchar" >_APP_FILE</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Fichero Aplicación</txt_label></row>
+<row><id_name type="varchar" >_APRIL</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Апрель</txt_label></row>
+<row><id_name type="varchar" >_ASIGN_POB</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Выберите нужный город</txt_label></row>
+<row><id_name type="varchar" >_AUGUST</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Август</txt_label></row>
+<row><id_name type="varchar" >_AVG_DAY_HITS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Среднесуточное Page Просмотров  </txt_label></row>
+<row><id_name type="varchar" >_AVG_DAY_ROBOTS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Среднесуточное Поисковики  </txt_label></row>
+<row><id_name type="varchar" >_AVG_DAY_VISITS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Среднесуточное Посещений  </txt_label></row>
+<row><id_name type="varchar" >_BACK</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Назад</txt_label></row>
+<row><id_name type="varchar" >_BACKUP</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Резервное копирование</txt_label></row>
+<row><id_name type="varchar" >_BOOK</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Либро де Посещений</txt_label></row>
+<row><id_name type="varchar" >_BOOKINGS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Праздничная Аренда Бронирование  </txt_label></row>
+<row><id_name type="varchar" >_BOOKING_VALID</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Ваш заказ был отправлен. Вы получите подтверждение по  электронной почте.  </txt_label></row>
+<row><id_name type="varchar" >_BOOKVALID</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Бронирование валидации</txt_label></row>
+<row><id_name type="varchar" >_BOOK_ISVALID</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Ваш заказ был одобрен. Мы свяжемся с Вами для  подтверждения бронирования вам.  </txt_label></row>
+<row><id_name type="varchar" >_BOOK_TXT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  PUEDE dejar вс Опиньон rellenando эль formulario деле  окончательным. Muchas Gracias POR SU Участие.  </txt_label></row>
+<row><id_name type="varchar" >_BORRAR</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Удалить</txt_label></row>
+<row><id_name type="varchar" >_BUGGET</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Bugget &quot;._CURRENCY.&quot;</txt_label></row>
+<row><id_name type="varchar" >_BUSY</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Занятый</txt_label></row>
+<row><id_name type="varchar" >_BUSYBOOKING</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Недвижимость резервируется для выбранных дат  </txt_label></row>
+<row><id_name type="varchar" >_BUYERS_ACCOUNTS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Поиск покупателей</txt_label></row>
+<row><id_name type="varchar" >_BUY_GUIDE</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Покупка руководства</txt_label></row>
+<row><id_name type="varchar" >_CALC</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Рассчитать</txt_label></row>
+<row><id_name type="varchar" >_CALC_INM</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Ипотечный расчет</txt_label></row>
+<row><id_name type="varchar" >_CALC_LOAN_PAYMENTS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Ипотечный Расчет платежей  </txt_label></row>
+<row><id_name type="varchar" >_CALENDAR</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Повестка дня</txt_label></row>
+<row><id_name type="varchar" >_CAPTCHA</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Проверка слова</txt_label></row>
+<row><id_name type="varchar" >_CATALOG</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Рубрики</txt_label></row>
+<row><id_name type="varchar" >_CHANGE_PASS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Сменить пароль</txt_label></row>
+<row><id_name type="varchar" >_CHARSET</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >UTF-8</txt_label></row>
+<row><id_name type="varchar" >_CMT_CSSFILE</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Cascading Style Sheets</txt_label></row>
+<row><id_name type="varchar" >_CMT_IMAG</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Фото И флэш менеджер файлов  </txt_label></row>
+<row><id_name type="varchar" >_CMT_XMLNAV</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  XML файл, который определяет формат каждой странице.  </txt_label></row>
+<row><id_name type="varchar" >_CMT_XMLOUTPUT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Файл порожденных применением в качестве вклада  Transfromation XSL файлов  </txt_label></row>
+<row><id_name type="varchar" >_CMT_XMLPRT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  XML файл, который определяет формат печати каждой  страницы.  </txt_label></row>
+<row><id_name type="varchar" >_CMT_XSLFILE</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  XSL преобразование файлов - Материалы применение XML  выходного файла.  </txt_label></row>
+<row><id_name type="varchar" >_CMT_XSLPRT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  XSL преобразование файлов. Принимает в качестве вклада в  XML Применение выходного файла.  </txt_label></row>
+<row><id_name type="varchar" >_COD</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Id</txt_label></row>
+<row><id_name type="varchar" >_COD_CATEGORY</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Категория кодекс</txt_label></row>
+<row><id_name type="varchar" >_COD_LANG</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Язык</txt_label></row>
+<row><id_name type="varchar" >_COD_PRODUCT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Код продукта</txt_label></row>
+<row><id_name type="varchar" >_COMDAD_NAME</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_COMO</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Нос conociste POR ...</txt_label></row>
+<row><id_name type="varchar" >_COM_APER</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Настройка комиссии</txt_label></row>
+<row><id_name type="varchar" >_CONFIRM</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Подтверждение регистрации  </txt_label></row>
+<row><id_name type="varchar" >_CONNECTED_AS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Зарегистрированный в качестве  </txt_label></row>
+<row><id_name type="varchar" >_CONTACTAR</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Контактная информация</txt_label></row>
+<row><id_name type="varchar" >_CONTACTS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Контакты</txt_label></row>
+<row><id_name type="varchar" >_CONTENTS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Содержание</txt_label></row>
+<row><id_name type="varchar" >_CPASS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Пароль</txt_label></row>
+<row><id_name type="varchar" >_CSSCONFIG</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >CSS файлов</txt_label></row>
+<row><id_name type="varchar" >_CSSFILE</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >CSS файлов</txt_label></row>
+<row><id_name type="varchar" >_CSS_DELETED</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >CSS файл удален</txt_label></row>
+<row><id_name type="varchar" >_CTG</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Категория</txt_label></row>
+<row><id_name type="varchar" >_CTGS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Семья</txt_label></row>
+<row><id_name type="varchar" >_CTG_BELONGS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Семья, которая принадлежит  </txt_label></row>
+<row><id_name type="varchar" >_CTG_HAS_PROD</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Категории продуктов, удаление продуктов до  </txt_label></row>
+<row><id_name type="varchar" >_CTG_NO_EXIST</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Семья не существует</txt_label></row>
+<row><id_name type="varchar" >_CTG_NO_NAME</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Категория название является обязательным  </txt_label></row>
+<row><id_name type="varchar" >_CURRENT_PASS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Текущий пароль</txt_label></row>
+<row><id_name type="varchar" >_CUSTOMER</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Учетная запись</txt_label></row>
+<row><id_name type="varchar" >_CUSTZONE</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Клиенты область</txt_label></row>
+<row><id_name type="varchar" >_DATE</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Свидание</txt_label></row>
+<row><id_name type="varchar" >_DATEMP</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Организация данных</txt_label></row>
+<row><id_name type="varchar" >_DATETIME_SQL</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >'%m/%d/%Y - %H:%i'</txt_label></row>
+<row><id_name type="varchar" >_DATE_FORMAT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >d/m/Y</txt_label></row>
+<row><id_name type="varchar" >_DATE_FT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Свидание</txt_label></row>
+<row><id_name type="varchar" >_DATE_SQL</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >'%d/%m/%Y'</txt_label></row>
+<row><id_name type="varchar" >_DATOS_PERS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Личные данные</txt_label></row>
+<row><id_name type="varchar" >_DATPERS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Личные данные</txt_label></row>
+<row><id_name type="varchar" >_DAY</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >День</txt_label></row>
+<row><id_name type="varchar" >_DEACTIVE_ALL</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Все Deactive</txt_label></row>
+<row><id_name type="varchar" >_DECEMBER</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Декабрь</txt_label></row>
+<row><id_name type="varchar" >_DEC_POINT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >,</txt_label></row>
+<row><id_name type="varchar" >_DELETE</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Удалить</txt_label></row>
+<row><id_name type="varchar" >_DELETED</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Удалено успешно</txt_label></row>
+<row><id_name type="varchar" >_DEPT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Департамент</txt_label></row>
+<row><id_name type="varchar" >_DEPTS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Департамент</txt_label></row>
+<row><id_name type="varchar" >_DESC_CATEGORY</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Описание</txt_label></row>
+<row><id_name type="varchar" >_DESC_PROD</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Описание</txt_label></row>
+<row><id_name type="varchar" >_DO_CALC</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Расчет Mortatge</txt_label></row>
+<row><id_name type="varchar" >_DTL</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Подробнее</txt_label></row>
+<row><id_name type="varchar" >_DTL_ACCOUNT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Информация об учетной записи  </txt_label></row>
+<row><id_name type="varchar" >_DTL_ACCPERFIL</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Покупатель информационного профиля  </txt_label></row>
+<row><id_name type="varchar" >_DTL_PROP</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Недвижимость данных</txt_label></row>
+<row><id_name type="varchar" >_DT_CREATE</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Создано Дата</txt_label></row>
+<row><id_name type="varchar" >_DT_END</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Дата окончания</txt_label></row>
+<row><id_name type="varchar" >_DT_SENT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Отправлено Дата</txt_label></row>
+<row><id_name type="varchar" >_DT_START</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Дата начала</txt_label></row>
+<row><id_name type="varchar" >_DT_VAL</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Срок действия</txt_label></row>
+<row><id_name type="varchar" >_DT_VALID</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Действителен до</txt_label></row>
+<row><id_name type="varchar" >_EDIT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Изменить</txt_label></row>
+<row><id_name type="varchar" >_EDTACC</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Учетная запись</txt_label></row>
+<row><id_name type="varchar" >_EDTCOMDAD</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Изменить государство</txt_label></row>
+<row><id_name type="varchar" >_EDTCONTACT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Контактная информация</txt_label></row>
+<row><id_name type="varchar" >_EDTCOUNTRY</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Страна</txt_label></row>
+<row><id_name type="varchar" >_EDTCTG</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Категория продуктов</txt_label></row>
+<row><id_name type="varchar" >_EDTGAL</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Галерея</txt_label></row>
+<row><id_name type="varchar" >_EDTHIMMO</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Праздничная азмещение Свойства  </txt_label></row>
+<row><id_name type="varchar" >_EDTHTML</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Редактировать страницу</txt_label></row>
+<row><id_name type="varchar" >_EDTIMMO</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Недвижимость</txt_label></row>
+<row><id_name type="varchar" >_EDTIMMOGAL</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Недвижимость изображений  </txt_label></row>
+<row><id_name type="varchar" >_EDTLABEL</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Редактировать метки</txt_label></row>
+<row><id_name type="varchar" >_EDTLST</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Значение</txt_label></row>
+<row><id_name type="varchar" >_EDTMAILING</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Почтовый Подробности</txt_label></row>
+<row><id_name type="varchar" >_EDTMSG</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Изменить сообщение</txt_label></row>
+<row><id_name type="varchar" >_EDTORG</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Департамент</txt_label></row>
+<row><id_name type="varchar" >_EDTPERFIL</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Покупатель профиль</txt_label></row>
+<row><id_name type="varchar" >_EDTPERM</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Анкета</txt_label></row>
+<row><id_name type="varchar" >_EDTPOB</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Изменить город</txt_label></row>
+<row><id_name type="varchar" >_EDTPOSITION</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Сотрудник Подробности</txt_label></row>
+<row><id_name type="varchar" >_EDTPRD</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Продукт</txt_label></row>
+<row><id_name type="varchar" >_EDTPRDGAL</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Изображения продуктов</txt_label></row>
+<row><id_name type="varchar" >_EDTPREF</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Изменить</txt_label></row>
+<row><id_name type="varchar" >_EDTPRICELST</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Редактировать прайс-лист  </txt_label></row>
+<row><id_name type="varchar" >_EDTPRICEPRD</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Изменение цен</txt_label></row>
+<row><id_name type="varchar" >_EDTPROV</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Изменить Уезд</txt_label></row>
+<row><id_name type="varchar" >_EDTSCR</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Экран</txt_label></row>
+<row><id_name type="varchar" >_EDTSDAY</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Дни И цены</txt_label></row>
+<row><id_name type="varchar" >_EDTSEASON</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Сезон Подробности</txt_label></row>
+<row><id_name type="varchar" >_EDTTICKET</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Редактировать билетов</txt_label></row>
+<row><id_name type="varchar" >_EDTTKCTG</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Редактирование Категория  </txt_label></row>
+<row><id_name type="varchar" >_EDTTKEMAIL</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Шаблон электронного сообщения  </txt_label></row>
+<row><id_name type="varchar" >_EDTUSER</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Пользователь</txt_label></row>
+<row><id_name type="varchar" >_EDTVIEW</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Vista</txt_label></row>
+<row><id_name type="varchar" >_EDT_ACCOUNT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Изменить учетную запись  </txt_label></row>
+<row><id_name type="varchar" >_EDT_CONTACT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Изменить контакт</txt_label></row>
+<row><id_name type="varchar" >_EDT_CTG</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Edir семьи</txt_label></row>
+<row><id_name type="varchar" >_EDT_DEPT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Изменить Департамента</txt_label></row>
+<row><id_name type="varchar" >_EDT_EMPL</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Изменить работник</txt_label></row>
+<row><id_name type="varchar" >_EDT_GAL</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Изменить Галерея</txt_label></row>
+<row><id_name type="varchar" >_EDT_IMMO</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Изменить собственности</txt_label></row>
+<row><id_name type="varchar" >_EDT_MAILING</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Изменить Почтовый</txt_label></row>
+<row><id_name type="varchar" >_EDT_NEW</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Новые изменения</txt_label></row>
+<row><id_name type="varchar" >_EDT_PERM</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Редактировать роль / Анкета  </txt_label></row>
+<row><id_name type="varchar" >_EDT_PROD</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Изменить продукт</txt_label></row>
+<row><id_name type="varchar" >_EDT_SCR</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Редактировать экрана</txt_label></row>
+<row><id_name type="varchar" >_EDT_USER</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Изменить пользователя</txt_label></row>
+<row><id_name type="varchar" >_EDT_VAL</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Изменение стоимости</txt_label></row>
+<row><id_name type="varchar" >_EDT_VIEW</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Редактировать Vista</txt_label></row>
+<row><id_name type="varchar" >_EMPL</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Работник</txt_label></row>
+<row><id_name type="varchar" >_EMPLES</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Сотрудники</txt_label></row>
+<row><id_name type="varchar" >_ENVIAR</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Отправлять</txt_label></row>
+<row><id_name type="varchar" >_EQUIP_LIST</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Оборудование праздника наем Список ярлыков  </txt_label></row>
+<row><id_name type="varchar" >_ERROR_CAPTCHA</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Проверка слова проверки.  </txt_label></row>
+<row><id_name type="varchar" >_ERROR_CHECK_PSW</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Ошибка проверки пароля</txt_label></row>
+<row><id_name type="varchar" >_ERROR_CONTENT_MAILING</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Содержание является обязательным  </txt_label></row>
+<row><id_name type="varchar" >_ERROR_CURRENT_PSW</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Текущий пароль неправильный  </txt_label></row>
+<row><id_name type="varchar" >_ERROR_DATS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Ошибка accesing данных</txt_label></row>
+<row><id_name type="varchar" >_ERROR_DELETE</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Ошибка при удалении</txt_label></row>
+<row><id_name type="varchar" >_ERROR_DIR_GAL</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Ошибка при создании Galerie в папках  </txt_label></row>
+<row><id_name type="varchar" >_ERROR_EMAIL_USER</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Электронная почта является обязательным  </txt_label></row>
+<row><id_name type="varchar" >_ERROR_ES_IN</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Необходимо ввести значение Испанский  </txt_label></row>
+<row><id_name type="varchar" >_ERROR_IN</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Ошибка</txt_label></row>
+<row><id_name type="varchar" >_ERROR_INSERT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Ошибка при вставке</txt_label></row>
+<row><id_name type="varchar" >_ERROR_LAST_USER</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Вы не можете удалить последний пользователь организации  </txt_label></row>
+<row><id_name type="varchar" >_ERROR_NAME_MAILING</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Почтовый название является обязательным  </txt_label></row>
+<row><id_name type="varchar" >_ERROR_NAME_USER</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Полное наименование является обязательным  </txt_label></row>
+<row><id_name type="varchar" >_ERROR_NM</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Дебе introducir эль число  </txt_label></row>
+<row><id_name type="varchar" >_ERROR_NM_PROFILE</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Эль число Дебе TENER MÁS DE 5 carácteres  </txt_label></row>
+<row><id_name type="varchar" >_ERROR_NOPOB</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Город не найден</txt_label></row>
+<row><id_name type="varchar" >_ERROR_NUM_DOM</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Количество номеров является обязательным  </txt_label></row>
+<row><id_name type="varchar" >_ERROR_NUM_PARKING</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Введите число автостоянок  </txt_label></row>
+<row><id_name type="varchar" >_ERROR_NUM_WC</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Количество санузлов является обязательным  </txt_label></row>
+<row><id_name type="varchar" >_ERROR_OBSRV</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Дебе introducir ла Описание  </txt_label></row>
+<row><id_name type="varchar" >_ERROR_OPEN_DIR</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Папка не может быть открыта  </txt_label></row>
+<row><id_name type="varchar" >_ERROR_OPEN_FILE</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Ошибка при открытии файла  </txt_label></row>
+<row><id_name type="varchar" >_ERROR_PASSUSR_NULL</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Имя пользователя и пароль может быть пустым или иметь  значение  </txt_label></row>
+<row><id_name type="varchar" >_ERROR_PROCESS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Процесс вызвал ошибки</txt_label></row>
+<row><id_name type="varchar" >_ERROR_PSW_ERROR</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Неправильный пароль! Введите пароль в оба поля  </txt_label></row>
+<row><id_name type="varchar" >_ERROR_PSW_NOSTR</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Пароль может содержать только Альфа Персонажи  </txt_label></row>
+<row><id_name type="varchar" >_ERROR_PSW_SHORT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Пароль должен быть более 5 символов длиной  </txt_label></row>
+<row><id_name type="varchar" >_ERROR_PSW_USERNAME</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Пароль не может быть iqual по имени пользователя  </txt_label></row>
+<row><id_name type="varchar" >_ERROR_SUBJ_MAILING</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Тема является обязательным  </txt_label></row>
+<row><id_name type="varchar" >_ERROR_SUPERF</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Площадь участка в М2 или нулевым  </txt_label></row>
+<row><id_name type="varchar" >_ERROR_SUPERF_CONST</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Площадь в М2 или нулевым  </txt_label></row>
+<row><id_name type="varchar" >_ERROR_SUPERT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Введите терраса площади или 0, если не существует  </txt_label></row>
+<row><id_name type="varchar" >_ERROR_TELF1_USER</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Телефон обязателен</txt_label></row>
+<row><id_name type="varchar" >_ERROR_TXT_CONTENT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Дебе introducir El Mensaje.  </txt_label></row>
+<row><id_name type="varchar" >_ERROR_UPDATE</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Ошибка при обновлении</txt_label></row>
+<row><id_name type="varchar" >_ERROR_USNAME_EXIST</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Имя пользователя уже существует! Выбрать другого.  </txt_label></row>
+<row><id_name type="varchar" >_ERROR_USRNAME_EXISTS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Пользователь уже существует!  </txt_label></row>
+<row><id_name type="varchar" >_ERROR_USRNAME_NOSTR</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Имя пользователя может содержать только Альфа Персонажи  </txt_label></row>
+<row><id_name type="varchar" >_ERROR_USRNAME_SHORT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Имя пользователя должно быть более 5 символов длиной  </txt_label></row>
+<row><id_name type="varchar" >_ER_SELET_TBL</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Ошибка в таблице SELECT  </txt_label></row>
+<row><id_name type="varchar" >_FDAY</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >F</txt_label></row>
+<row><id_name type="varchar" >_FEBRUARY</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Февраль</txt_label></row>
+<row><id_name type="varchar" >_FECHA_FT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Свидание</txt_label></row>
+<row><id_name type="varchar" >_FG_HIDDEN</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Скрыт</txt_label></row>
+<row><id_name type="varchar" >_FG_PRIVATE</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Личное сообщение</txt_label></row>
+<row><id_name type="varchar" >_FIND</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Поиск</txt_label></row>
+<row><id_name type="varchar" >_FIND_BY_CITIES</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Поиск по городу</txt_label></row>
+<row><id_name type="varchar" >_FIND_BY_CRITERIA</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Поиск по критериям</txt_label></row>
+<row><id_name type="varchar" >_FIND_BY_TPPROP</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Поиск недвижимости Тип</txt_label></row>
+<row><id_name type="varchar" >_FINPAGINA</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" ></txt_label></row>
+<row><id_name type="varchar" >_FOLDER</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Папка</txt_label></row>
+<row><id_name type="varchar" >_FOUND</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Всего найдено</txt_label></row>
+<row><id_name type="varchar" >_FRIDAY</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Пятница</txt_label></row>
+<row><id_name type="varchar" >_FRONT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Главная</txt_label></row>
+<row><id_name type="varchar" >_FULL_NAME</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Фамилия, имя, отчество</txt_label></row>
+<row><id_name type="varchar" >_GALLERIES</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Фото галереи</txt_label></row>
+<row><id_name type="varchar" >_GALLERY</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Галерея</txt_label></row>
+<row><id_name type="varchar" >_GALS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Фотогалереи</txt_label></row>
+<row><id_name type="varchar" >_GAL_LST</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Список галерей</txt_label></row>
+<row><id_name type="varchar" >_GAST_GEST</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Расходы Агентства, нотариата, регистрации. &lt;br/&gt;  (Это зависит от менеджера) Минимум:  </txt_label></row>
+<row><id_name type="varchar" >_GENERAL_LAYOUT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >ГЛАВНАЯ ФОРМА СТРАНИЦЫ</txt_label></row>
+<row><id_name type="varchar" >_GEN_LANG</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Установка языка изменения  </txt_label></row>
+<row><id_name type="varchar" >_GESTLANGS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Языки Инструменты</txt_label></row>
+<row><id_name type="varchar" >_GST_COMPRA</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Недвижимость покупка расходы  </txt_label></row>
+<row><id_name type="varchar" >_GST_HIPOT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Ипотечный расходы</txt_label></row>
+<row><id_name type="varchar" >_GUIA</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Руководство</txt_label></row>
+<row><id_name type="varchar" >_HELP</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Помощь</txt_label></row>
+<row><id_name type="varchar" >_HOME</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Дом</txt_label></row>
+<row><id_name type="varchar" >_HOMEPG</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Дом</txt_label></row>
+<row><id_name type="varchar" >_HOUR</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Время</txt_label></row>
+<row><id_name type="varchar" >_IDIOMA</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >ru</txt_label></row>
+<row><id_name type="varchar" >_ID_CATEGORY</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Идентификатор категории  </txt_label></row>
+<row><id_name type="varchar" >_ID_POSITION</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Присвоить</txt_label></row>
+<row><id_name type="varchar" >_ID_TICKET</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Номер билета</txt_label></row>
+<row><id_name type="varchar" >_IMAG</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Фото И Flash файлов</txt_label></row>
+<row><id_name type="varchar" >_IMG</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Image</txt_label></row>
+<row><id_name type="varchar" >_IMGCONFIG</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Шаблон фото</txt_label></row>
+<row><id_name type="varchar" >_IMGHOME</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >head.jpg</txt_label></row>
+<row><id_name type="varchar" >_IMGS_NOT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Новые изображения</txt_label></row>
+<row><id_name type="varchar" >_IMG_FILE_ERROR</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Имеет неправильный формат (Акценты, пробелов и т.д. ..)  или больше  </txt_label></row>
+<row><id_name type="varchar" >_IMG_FRONT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Главная Фото</txt_label></row>
+<row><id_name type="varchar" >_IMG_INT_1</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Внутри Image 1</txt_label></row>
+<row><id_name type="varchar" >_IMG_INT_2</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Внутри Image 2</txt_label></row>
+<row><id_name type="varchar" >_IMG_INT_3</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Внутри Image 3</txt_label></row>
+<row><id_name type="varchar" >_IMG_PORT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Главная Фото</txt_label></row>
+<row><id_name type="varchar" >_IMMO</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Недвижимость данных</txt_label></row>
+<row><id_name type="varchar" >_IMMOS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Свойства</txt_label></row>
+<row><id_name type="varchar" >_IMP_ACTOS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Налоговые зарегистрированных юридических сделок:  </txt_label></row>
+<row><id_name type="varchar" >_IMP_COMPRA</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Налоговые трансмишнз родовой или НДС  </txt_label></row>
+<row><id_name type="varchar" >_IMP_ENTR</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Учитывая размер</txt_label></row>
+<row><id_name type="varchar" >_IMP_SOL</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Ипотечный Сумма</txt_label></row>
+<row><id_name type="varchar" >_IND_ACTIVE</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Активная</txt_label></row>
+<row><id_name type="varchar" >_IND_MAILING</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Почтовый</txt_label></row>
+<row><id_name type="varchar" >_IND_OFERTA</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Предложение</txt_label></row>
+<row><id_name type="varchar" >_IND_PISCINA</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Плавательный бассейн</txt_label></row>
+<row><id_name type="varchar" >_INFOLEGAL</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Правовая информация</txt_label></row>
+<row><id_name type="varchar" >_INSERTED</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Включить успешно</txt_label></row>
+<row><id_name type="varchar" >_INSIDE</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Внутри</txt_label></row>
+<row><id_name type="varchar" >_INTROS_LIST</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Список Введение этикеток  </txt_label></row>
+<row><id_name type="varchar" >_INT_BANC</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Банковские проценты</txt_label></row>
+<row><id_name type="varchar" >_INT_CAPACITY</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Вместимость чел</txt_label></row>
+<row><id_name type="varchar" >_INT_PERS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Количество человек</txt_label></row>
+<row><id_name type="varchar" >_INT_SUPERFICIE</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Сюжет M2</txt_label></row>
+<row><id_name type="varchar" >_INT_SUPERFICIE_CONST</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Площадь M2</txt_label></row>
+<row><id_name type="varchar" >_INT_TERRACE</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Терраса M2</txt_label></row>
+<row><id_name type="varchar" >_IN_NAME_ACCOUNT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Название счета является обязательным  </txt_label></row>
+<row><id_name type="varchar" >_IN_NAME_GAL</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Галерея имя является обязательным  </txt_label></row>
+<row><id_name type="varchar" >_IN_NAME_IMMO</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Справка является обязательным  </txt_label></row>
+<row><id_name type="varchar" >_IN_NAME_ORG</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Организация / Департамент название является обязательным  </txt_label></row>
+<row><id_name type="varchar" >_IN_NOT_RESUM</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Резюме обязательно</txt_label></row>
+<row><id_name type="varchar" >_IN_NOT_TITLE</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Название является обязательным  </txt_label></row>
+<row><id_name type="varchar" >_IN_POB_IMMO</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Вы должны выбрать один город. Если нет в списке контакт  администратора  </txt_label></row>
+<row><id_name type="varchar" >_IN_POB_ORG</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Вы должны выбрать город  </txt_label></row>
+<row><id_name type="varchar" >_IN_SUBJECT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Введите тему</txt_label></row>
+<row><id_name type="varchar" >_JANUARY</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Январь</txt_label></row>
+<row><id_name type="varchar" >_JULY</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Июль</txt_label></row>
+<row><id_name type="varchar" >_JUNE</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Июнь</txt_label></row>
+<row><id_name type="varchar" >_KEYWORDS_ADM</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_LABELS_LIST</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Программа Этикетки Список  </txt_label></row>
+<row><id_name type="varchar" >_LANGS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Языки</txt_label></row>
+<row><id_name type="varchar" >_LANGUAGE</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Язык</txt_label></row>
+<row><id_name type="varchar" >_LATTITUD</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Lattitude</txt_label></row>
+<row><id_name type="varchar" >_LBL_SEASONS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Сезон</txt_label></row>
+<row><id_name type="varchar" >_LOGIN_FAILED</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Неправильное имя пользователя или пароль  </txt_label></row>
+<row><id_name type="varchar" >_LOGIN_NOW</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Войти</txt_label></row>
+<row><id_name type="varchar" >_LOGOUT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Выход</txt_label></row>
+<row><id_name type="varchar" >_LONGITUD</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Долгота</txt_label></row>
+<row><id_name type="varchar" >_LOVS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Список значений</txt_label></row>
+<row><id_name type="varchar" >_LSTMAILING</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Списки</txt_label></row>
+<row><id_name type="varchar" >_LSTUSER</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Пользователь список</txt_label></row>
+<row><id_name type="varchar" >_M2</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >M2</txt_label></row>
+<row><id_name type="varchar" >_M2_TERRACE</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >М2 терраса</txt_label></row>
+<row><id_name type="varchar" >_M2_TERRENO</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Участок M2</txt_label></row>
+<row><id_name type="varchar" >_MAILING</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Почтовый кампании</txt_label></row>
+<row><id_name type="varchar" >_MAIL_BKVALID</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Проверка бронирования</txt_label></row>
+<row><id_name type="varchar" >_MAIL_BKVALID_TXT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Здравствуйте, Проверить ваш заказ по следующему адресу:  </txt_label></row>
+<row><id_name type="varchar" >_MAIL_CONFIRM</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Для подтверждения Вашей регистрации вы получите по  электронной почте.  </txt_label></row>
+<row><id_name type="varchar" >_MAIL_FORMAT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Письмо в неверном формате;  </txt_label></row>
+<row><id_name type="varchar" >_MAIL_HRECEV</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Мы получили ваш запрос</txt_label></row>
+<row><id_name type="varchar" >_MAIL_NMSG</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Мы обработаем ваш запрос как можно скорее  </txt_label></row>
+<row><id_name type="varchar" >_MAIL_NOTI</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Уведомления</txt_label></row>
+<row><id_name type="varchar" >_MAIL_REM</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Логин информации</txt_label></row>
+<row><id_name type="varchar" >_MAIL_REM_TXT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Здравствуйте, Ваш логин информации являются:  Подтверждение регистрации Здравствуйте,  </txt_label></row>
+<row><id_name type="varchar" >_MAIL_SUBS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Registration confirmation  </txt_label></row>
+<row><id_name type="varchar" >_MAIL_SUBS_TXT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Проверить вашу регистрацию по адресу: &quot;  </txt_label></row>
+<row><id_name type="varchar" >_MAIN_IMG</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Главная Фото</txt_label></row>
+<row><id_name type="varchar" >_MANDATORY</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Есть несколько обязательных полей  </txt_label></row>
+<row><id_name type="varchar" >_MAPINIT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Первый Google Map Посмотреть  </txt_label></row>
+<row><id_name type="varchar" >_MARCH</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Март</txt_label></row>
+<row><id_name type="varchar" >_MAY</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Мочь</txt_label></row>
+<row><id_name type="varchar" >_MDAY</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >М</txt_label></row>
+<row><id_name type="varchar" >_MKT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Рассылки</txt_label></row>
+<row><id_name type="varchar" >_MNU_ADM</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Меню</txt_label></row>
+<row><id_name type="varchar" >_MONDAY</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Понедельник</txt_label></row>
+<row><id_name type="varchar" >_MONTH</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Месяц</txt_label></row>
+<row><id_name type="varchar" >_MSG</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Сообщение</txt_label></row>
+<row><id_name type="varchar" >_MY_ACCOUNTS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Мои счета</txt_label></row>
+<row><id_name type="varchar" >_MY_IMMOS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Моя Свойства</txt_label></row>
+<row><id_name type="varchar" >_MY_NEWS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Мои новости</txt_label></row>
+<row><id_name type="varchar" >_MY_PROFILE</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Мой профиль</txt_label></row>
+<row><id_name type="varchar" >_MY_TICKETS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Мой билет</txt_label></row>
+<row><id_name type="varchar" >_MY_TK_STATS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Моя статистика</txt_label></row>
+<row><id_name type="varchar" >_NAME</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Имя</txt_label></row>
+<row><id_name type="varchar" >_NAME_ACCOUNT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Имя учетной записи</txt_label></row>
+<row><id_name type="varchar" >_NAME_CATEGORY</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Категория</txt_label></row>
+<row><id_name type="varchar" >_NAME_GAL</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Название галереи</txt_label></row>
+<row><id_name type="varchar" >_NAME_MAILING</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Почтовый Имя</txt_label></row>
+<row><id_name type="varchar" >_NAME_ORG</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Управление</txt_label></row>
+<row><id_name type="varchar" >_NAME_POB</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Город</txt_label></row>
+<row><id_name type="varchar" >_NAME_POSITION</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Должность</txt_label></row>
+<row><id_name type="varchar" >_NAME_PRICE_LST</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Название списка</txt_label></row>
+<row><id_name type="varchar" >_NAME_PRODUCT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Название продукта</txt_label></row>
+<row><id_name type="varchar" >_NAME_SEASONS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Сезон Имя</txt_label></row>
+<row><id_name type="varchar" >_NAME_USER</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Работник / Имя пользователя  </txt_label></row>
+<row><id_name type="varchar" >_NESPECIAL</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Наше специальное предложение  </txt_label></row>
+<row><id_name type="varchar" >_NEW</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Новый</txt_label></row>
+<row><id_name type="varchar" >_NEWS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Новости</txt_label></row>
+<row><id_name type="varchar" >_NEWSLST</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Лента новостей</txt_label></row>
+<row><id_name type="varchar" >_NEWS_EVENTS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Новости И События</txt_label></row>
+<row><id_name type="varchar" >_NEWUSER</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Новый пользователь</txt_label></row>
+<row><id_name type="varchar" >_NEW_PASSWORD</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Новый пароль</txt_label></row>
+<row><id_name type="varchar" >_NEW_POS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Должность</txt_label></row>
+<row><id_name type="varchar" >_NEW_PROP</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Brand New собственности  </txt_label></row>
+<row><id_name type="varchar" >_NEW_RESUM</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Brieffing</txt_label></row>
+<row><id_name type="varchar" >_NEW_TITLE</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Название</txt_label></row>
+<row><id_name type="varchar" >_NEW_TXT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Текст</txt_label></row>
+<row><id_name type="varchar" >_NEXT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Следующий</txt_label></row>
+<row><id_name type="varchar" >_NM_CONTACT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Контактное лицо</txt_label></row>
+<row><id_name type="varchar" >_NM_PROFILE</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Имя</txt_label></row>
+<row><id_name type="varchar" >_NM_SCREEN</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Экрана</txt_label></row>
+<row><id_name type="varchar" >_NM_TK_CTG</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Категория</txt_label></row>
+<row><id_name type="varchar" >_NM_VIEW</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Vista</txt_label></row>
+<row><id_name type="varchar" >_NOREGUSERS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Там нет счетов, зарегистрированных на рассылку  </txt_label></row>
+<row><id_name type="varchar" >_NOSELECTED</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Невыбранные</txt_label></row>
+<row><id_name type="varchar" >_NOTFOUND</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Не найдено</txt_label></row>
+<row><id_name type="varchar" >_NOTI</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Новый</txt_label></row>
+<row><id_name type="varchar" >_NOTICIA</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Посмотреть новые</txt_label></row>
+<row><id_name type="varchar" >_NOVED</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Новые свойства</txt_label></row>
+<row><id_name type="varchar" >_NOVED_TXT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Последний ....</txt_label></row>
+<row><id_name type="varchar" >_NOVEMBER</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Ноябрь</txt_label></row>
+<row><id_name type="varchar" >_NO_ACCOUNT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Учетные записи не найдено  </txt_label></row>
+<row><id_name type="varchar" >_NO_AV_LG</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Это содержание не avalaible в текущем языке  </txt_label></row>
+<row><id_name type="varchar" >_NO_COD</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Кодекс является обязательным  </txt_label></row>
+<row><id_name type="varchar" >_NO_CONTACT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Контакты не найдены</txt_label></row>
+<row><id_name type="varchar" >_NO_CTG</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Категории не найдены</txt_label></row>
+<row><id_name type="varchar" >_NO_EMPL</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Сотрудников не найдено</txt_label></row>
+<row><id_name type="varchar" >_NO_GALS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Галереи не найдены</txt_label></row>
+<row><id_name type="varchar" >_NO_IMG_FRONT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Галерея не в основное изображение. Чтобы опубликовать  предлагает Вам нужно выбрать основное изображение.  </txt_label></row>
+<row><id_name type="varchar" >_NO_IMG_INT_1</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Там нет Внутри Image 1</txt_label></row>
+<row><id_name type="varchar" >_NO_IMG_INT_2</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Там нет Image Внутри 2</txt_label></row>
+<row><id_name type="varchar" >_NO_IMG_INT_3</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Там нет Внутри Image 3</txt_label></row>
+<row><id_name type="varchar" >_NO_IMG_PORT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Там нет изображений Главная  </txt_label></row>
+<row><id_name type="varchar" >_NO_IMMO</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Свойства не найден</txt_label></row>
+<row><id_name type="varchar" >_NO_MAILING</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Отправка не найден</txt_label></row>
+<row><id_name type="varchar" >_NO_MEMBERS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Вы не имеете членов вашей команды  </txt_label></row>
+<row><id_name type="varchar" >_NO_NOTS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Новости не найдены</txt_label></row>
+<row><id_name type="varchar" >_NO_ORGS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Организаций не найдено</txt_label></row>
+<row><id_name type="varchar" >_NO_PRICE_LST</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Там нет прайс-листы</txt_label></row>
+<row><id_name type="varchar" >_NO_PROD</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Продукция не найдена</txt_label></row>
+<row><id_name type="varchar" >_NO_PSTS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Нет позиции</txt_label></row>
+<row><id_name type="varchar" >_NO_SEASONS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Нет сезонов</txt_label></row>
+<row><id_name type="varchar" >_NO_TICKET</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  NO SE хан encontrado билеты пункт ла выбор  </txt_label></row>
+<row><id_name type="varchar" >_NUMORDER</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Ордена</txt_label></row>
+<row><id_name type="varchar" >_NUM_DORMITORIO</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Спальня</txt_label></row>
+<row><id_name type="varchar" >_NUM_DORMITORIOS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >спальни</txt_label></row>
+<row><id_name type="varchar" >_NUM_HITS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Просмотры страниц</txt_label></row>
+<row><id_name type="varchar" >_NUM_ORDER</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Показать заказ</txt_label></row>
+<row><id_name type="varchar" >_NUM_PARKING</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Автомобильный парк</txt_label></row>
+<row><id_name type="varchar" >_NUM_PARKINGS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Автомобильный парк</txt_label></row>
+<row><id_name type="varchar" >_NUM_ROBOTS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Поисковики</txt_label></row>
+<row><id_name type="varchar" >_NUM_SENT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Число родов</txt_label></row>
+<row><id_name type="varchar" >_NUM_VISITS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Посещений</txt_label></row>
+<row><id_name type="varchar" >_NUM_WC</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >ванная комната</txt_label></row>
+<row><id_name type="varchar" >_NUM_WCS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Ванные</txt_label></row>
+<row><id_name type="varchar" >_OBSERV_LIST</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Этикетки Список замечаний в отпуск на аренду  </txt_label></row>
+<row><id_name type="varchar" >_OCTOBER</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Октябрь</txt_label></row>
+<row><id_name type="varchar" >_OF</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >из</txt_label></row>
+<row><id_name type="varchar" >_OFICINAS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Офисы</txt_label></row>
+<row><id_name type="varchar" >_ONLOAD</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Загрузить</txt_label></row>
+<row><id_name type="varchar" >_OPINION</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Опиньон интернет  </txt_label></row>
+<row><id_name type="varchar" >_OPTIONAL</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >(Необязательно)</txt_label></row>
+<row><id_name type="varchar" >_ORDER</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Заказ</txt_label></row>
+<row><id_name type="varchar" >_ORDERBY</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Сортировать по</txt_label></row>
+<row><id_name type="varchar" >_ORG</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Организация</txt_label></row>
+<row><id_name type="varchar" >_ORG_HAS_SUBORG</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Департамент суб-департаментов, исключить подпункт  департаментов до  </txt_label></row>
+<row><id_name type="varchar" >_ORG_LST</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Структура организации</txt_label></row>
+<row><id_name type="varchar" >_OUTAPP</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >ПРИМЕНЕНИЕ OUTPUT</txt_label></row>
+<row><id_name type="varchar" >_PAGE</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Страница</txt_label></row>
+<row><id_name type="varchar" >_PAGO_MEN</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Ежемесячный ипотечный платеж  </txt_label></row>
+<row><id_name type="varchar" >_PAGS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Страницы</txt_label></row>
+<row><id_name type="varchar" >_PARAMS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Parámetros</txt_label></row>
+<row><id_name type="varchar" >_PARENTCTG_DCHILDREN</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Категория имеет подкатегории исключить подкатегории до  </txt_label></row>
+<row><id_name type="varchar" >_PASSWORD</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Пароль</txt_label></row>
+<row><id_name type="varchar" >_PATH_IMAGE</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Image</txt_label></row>
+<row><id_name type="varchar" >_PERMS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Роль</txt_label></row>
+<row><id_name type="varchar" >_PERMS_HAS_SCR</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Эль Perfil TIENE pantallas asignadas.  </txt_label></row>
+<row><id_name type="varchar" >_PICTURES</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Фото</txt_label></row>
+<row><id_name type="varchar" >_PIEPAGINA</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Powered by &lt;a href=&quot;http://reos.elazos.com&quot;&gt;ReOS &quot;._VERSION.&quot;&lt;/a&gt; and released under the &lt;a href=&quot;http://www.fsf.org/licensing/licenses/agpl-3.0.html&quot;&gt;GNU/AGPLv3 License.&lt;/a&gt;</txt_label></row>
+<row><id_name type="varchar" >_PLEASE_LOGIN</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Введите имя пользователя и пароль  </txt_label></row>
+<row><id_name type="varchar" >_POBLACIONES</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Активный Города</txt_label></row>
+<row><id_name type="varchar" >_POBS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Поиск по городу</txt_label></row>
+<row><id_name type="varchar" >_POPHOST</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Почта пребывания</txt_label></row>
+<row><id_name type="varchar" >_POPPASS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Pop3 Пароль</txt_label></row>
+<row><id_name type="varchar" >_POPUSER</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Pop3 пользователя</txt_label></row>
+<row><id_name type="varchar" >_POSITION</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Должность</txt_label></row>
+<row><id_name type="varchar" >_POS_IMG_PORT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Первая позиция</txt_label></row>
+<row><id_name type="varchar" >_PRECIO</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Цена</txt_label></row>
+<row><id_name type="varchar" >_PRECIO_ALQUILER</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Аренда Цена &quot;._CURRENCY.&quot;</txt_label></row>
+<row><id_name type="varchar" >_PRECIO_COMPRA</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Продажа Цена &quot;._CURRENCY.&quot;</txt_label></row>
+<row><id_name type="varchar" >_PREFERE</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Предпочтения</txt_label></row>
+<row><id_name type="varchar" >_PREF_POBS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Preffered Города</txt_label></row>
+<row><id_name type="varchar" >_PREVIOUS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Предыдущая</txt_label></row>
+<row><id_name type="varchar" >_PRE_VIVIE</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Цена недвижимости</txt_label></row>
+<row><id_name type="varchar" >_PRICE_FROM</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Цена от</txt_label></row>
+<row><id_name type="varchar" >_PRICE_MAX</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Макс. Цена &quot;._CURRENCY.&quot;</txt_label></row>
+<row><id_name type="varchar" >_PRICE_MIN</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Мин. Цена &quot;._CURRENCY.&quot;</txt_label></row>
+<row><id_name type="varchar" >_PRIORITY</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Очередность</txt_label></row>
+<row><id_name type="varchar" >_PROCESS_OK</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Процесс выполняется успешно  </txt_label></row>
+<row><id_name type="varchar" >_PRODS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Продукция</txt_label></row>
+<row><id_name type="varchar" >_PROFS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Роли / Perfiles</txt_label></row>
+<row><id_name type="varchar" >_PROP_ACCOUNT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Счета Свойства</txt_label></row>
+<row><id_name type="varchar" >_PROV_NAME</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Провинция</txt_label></row>
+<row><id_name type="varchar" >_PRT_LAYOUT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  ПЕЧАТАНИЕ СХЕМА СТРАНИЦЫ  </txt_label></row>
+<row><id_name type="varchar" >_PST_ELEMTS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Должность выделил элементы. Пожалуйста, прежде чем  удалить элементы  </txt_label></row>
+<row><id_name type="varchar" >_PUBLI_YOUR</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Опубликуйте вашу собственность  </txt_label></row>
+<row><id_name type="varchar" >_READMORE</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Читать дальше ...</txt_label></row>
+<row><id_name type="varchar" >_RECOM</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Рекомендованная</txt_label></row>
+<row><id_name type="varchar" >_REFERERS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Реферрала</txt_label></row>
+<row><id_name type="varchar" >_REF_IMMO</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Справка</txt_label></row>
+<row><id_name type="varchar" >_REF_TICKET</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Справка</txt_label></row>
+<row><id_name type="varchar" >_REGS_TXT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Чтобы избежать другие пользователи могут  зарегистрироваться, Вы будете получать по электронной  почте, чтобы подтвердить регистрацию. Через эту форму вы  регистрируетесь для клиента области. Ваше сообщение  будет вам имя пользователя.  </txt_label></row>
+<row><id_name type="varchar" >_REGUSERS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Зарегистрирован счетов на рассылку  </txt_label></row>
+<row><id_name type="varchar" >_REM_CONFIRM</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Проверить электронную почту.  </txt_label></row>
+<row><id_name type="varchar" >_REM_TXT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Мы вышлем вам регистрационную информацию на свой  электронный адрес.  </txt_label></row>
+<row><id_name type="varchar" >_REM_USR</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Забыли пароль?</txt_label></row>
+<row><id_name type="varchar" >_RESERVATION</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Бронирование</txt_label></row>
+<row><id_name type="varchar" >_RESERV_CONFIRM</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Ваш заказ был подтвержден.  </txt_label></row>
+<row><id_name type="varchar" >_RESTORE</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Восстановить Backup</txt_label></row>
+<row><id_name type="varchar" >_RESULTS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Результаты поиска</txt_label></row>
+<row><id_name type="varchar" >_RE_NEW_PASS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Введите новый пароль</txt_label></row>
+<row><id_name type="varchar" >_RE_PASSWORD</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Введите пароль</txt_label></row>
+<row><id_name type="varchar" >_ROOT_DEPT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Первоначальный Департамента  </txt_label></row>
+<row><id_name type="varchar" >_ROWS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >пунктов</txt_label></row>
+<row><id_name type="varchar" >_SADAY</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >S</txt_label></row>
+<row><id_name type="varchar" >_SATURDAY</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Суббота</txt_label></row>
+<row><id_name type="varchar" >_SAT_DEPT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Обслуживание клиентов</txt_label></row>
+<row><id_name type="varchar" >_SAVE</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Сохранить</txt_label></row>
+<row><id_name type="varchar" >_SCREEN</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Экрана</txt_label></row>
+<row><id_name type="varchar" >_SCREENS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Pantallas</txt_label></row>
+<row><id_name type="varchar" >_SCREEN_HAS_VIEW</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  La экрана TIENE перспективы asignadas.  </txt_label></row>
+<row><id_name type="varchar" >_SDAY</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >S</txt_label></row>
+<row><id_name type="varchar" >_SEARCH_TITLE</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Поиск</txt_label></row>
+<row><id_name type="varchar" >_SEASONS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Сезон для отдыха аренда  </txt_label></row>
+<row><id_name type="varchar" >_SEE2PRINT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Версия для печати</txt_label></row>
+<row><id_name type="varchar" >_SEE_CYRILIC</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Показать Cyrilic Языки</txt_label></row>
+<row><id_name type="varchar" >_SEE_LATIN1</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Показать Оксидентал Языки  </txt_label></row>
+<row><id_name type="varchar" >_SEGUROS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Страхование</txt_label></row>
+<row><id_name type="varchar" >_SELECT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Выберите</txt_label></row>
+<row><id_name type="varchar" >_SELECTED</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >выбранные</txt_label></row>
+<row><id_name type="varchar" >_SELECTLANGUAGE</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Изменить язык!</txt_label></row>
+<row><id_name type="varchar" >_SEND_OUTLOOK</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Отправить Outlook</txt_label></row>
+<row><id_name type="varchar" >_SEPTEMBER</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Сентябрь</txt_label></row>
+<row><id_name type="varchar" >_SERVICES_LIST</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Услуги Этикетки Список</txt_label></row>
+<row><id_name type="varchar" >_SET_ACTIVITIES</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Мероприятия</txt_label></row>
+<row><id_name type="varchar" >_SET_EQUIP</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Оборудование</txt_label></row>
+<row><id_name type="varchar" >_SET_IMG_FRONT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Выберите основной</txt_label></row>
+<row><id_name type="varchar" >_SET_INTRO</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Введение</txt_label></row>
+<row><id_name type="varchar" >_SET_OBSERV</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Примечания</txt_label></row>
+<row><id_name type="varchar" >_SET_PROPERTIES</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Свойства</txt_label></row>
+<row><id_name type="varchar" >_SET_SERVICES</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Услуги</txt_label></row>
+<row><id_name type="varchar" >_SHOW_GAL</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Галерея</txt_label></row>
+<row><id_name type="varchar" >_SINFO</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Запрос информации</txt_label></row>
+<row><id_name type="varchar" >_SINFO_ADVERT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  В общем, любой информации, которую Вы предоставляете,  будет использоваться только внутри этого участка. Он  никогда не будет поставляться никому за пределами этого  сайта без предварительного получения согласия  пользователя.  </txt_label></row>
+<row><id_name type="varchar" >_SINFO_CONFIRM</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Контактная форма отправлено успешно.  </txt_label></row>
+<row><id_name type="varchar" >_SINFO_TXT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Просьба предоставить свои личные данные для связи с вами  как можно скорее.  </txt_label></row>
+<row><id_name type="varchar" >_SLOGAN</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >государственного управления  </txt_label></row>
+<row><id_name type="varchar" >_START</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Дом</txt_label></row>
+<row><id_name type="varchar" >_STATE</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Статус</txt_label></row>
+<row><id_name type="varchar" >_STATISTICS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Доступ к статистике</txt_label></row>
+<row><id_name type="varchar" >_SUBJECT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Asunto</txt_label></row>
+<row><id_name type="varchar" >_SUBS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Регистрация</txt_label></row>
+<row><id_name type="varchar" >_SUBS_PHRASE</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Получать наши новости</txt_label></row>
+<row><id_name type="varchar" >_SUBS_TXT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Чтобы избежать другие пользователи могут  зарегистрироваться, Вы будете получать по электронной  почте, чтобы подтвердить регистрацию. Через эту форму вы  регистрируетесь на информационный бюллетень.  </txt_label></row>
+<row><id_name type="varchar" >_SUNDAY</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Воскресенье</txt_label></row>
+<row><id_name type="varchar" >_SUPPORT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Поддержка</txt_label></row>
+<row><id_name type="varchar" >_TDAY</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Т</txt_label></row>
+<row><id_name type="varchar" >_TEAM_ACCOUNTS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Наша команда счетам</txt_label></row>
+<row><id_name type="varchar" >_TEAM_IMMOS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Наша команда Свойства</txt_label></row>
+<row><id_name type="varchar" >_TEAM_TICKETS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Билеты DE MI оборудование  </txt_label></row>
+<row><id_name type="varchar" >_THDAY</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >TH</txt_label></row>
+<row><id_name type="varchar" >_THEMES</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Темы</txt_label></row>
+<row><id_name type="varchar" >_THOUSANDS_SEP</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >.</txt_label></row>
+<row><id_name type="varchar" >_THUMB</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Картинки</txt_label></row>
+<row><id_name type="varchar" >_THURSDAY</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Четверг</txt_label></row>
+<row><id_name type="varchar" >_TICKETS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Билеты</txt_label></row>
+<row><id_name type="varchar" >_TITLE_LOGIN</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Администрация Района</txt_label></row>
+<row><id_name type="varchar" >_TK_CTG_LST</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Категория Список</txt_label></row>
+<row><id_name type="varchar" >_TOCLOSE</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Закрыть</txt_label></row>
+<row><id_name type="varchar" >_TODO</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Действий</txt_label></row>
+<row><id_name type="varchar" >_TOEND</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Готово</txt_label></row>
+<row><id_name type="varchar" >_TOTAL</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Всего</txt_label></row>
+<row><id_name type="varchar" >_TOT_GST</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Итого расходы:</txt_label></row>
+<row><id_name type="varchar" >_TOY_INTERES</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Связаться с этим имуществом  </txt_label></row>
+<row><id_name type="varchar" >_TP_PRICE</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Цена Тип</txt_label></row>
+<row><id_name type="varchar" >_TP_PROPIEDAD</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Тип недвижимости</txt_label></row>
+<row><id_name type="varchar" >_TP_SDAYS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Печатать</txt_label></row>
+<row><id_name type="varchar" >_TP_SEND</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Отправка Тип</txt_label></row>
+<row><id_name type="varchar" >_TP_SEND_TO</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Отправить</txt_label></row>
+<row><id_name type="varchar" >_TP_SERVICIO</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Транзакция</txt_label></row>
+<row><id_name type="varchar" >_TP_STATE</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Статус</txt_label></row>
+<row><id_name type="varchar" >_TP_VAT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >НДС%</txt_label></row>
+<row><id_name type="varchar" >_TUESDAY</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Вторник</txt_label></row>
+<row><id_name type="varchar" >_TXT_ADDRESS1</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Адрес</txt_label></row>
+<row><id_name type="varchar" >_TXT_AGE</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Возраст</txt_label></row>
+<row><id_name type="varchar" >_TXT_ASUNT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Тема</txt_label></row>
+<row><id_name type="varchar" >_TXT_COMMENT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Комментарии</txt_label></row>
+<row><id_name type="varchar" >_TXT_COMO</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Как н.у.к. conociste?</txt_label></row>
+<row><id_name type="varchar" >_TXT_CONTENT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Содержание</txt_label></row>
+<row><id_name type="varchar" >_TXT_COUNTRY</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Страна</txt_label></row>
+<row><id_name type="varchar" >_TXT_CP</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Почтовый индекс</txt_label></row>
+<row><id_name type="varchar" >_TXT_DESC</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Описание</txt_label></row>
+<row><id_name type="varchar" >_TXT_EMAIL</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Электронная почта</txt_label></row>
+<row><id_name type="varchar" >_TXT_EMAIL1</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Электронная почта</txt_label></row>
+<row><id_name type="varchar" >_TXT_ES</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Значения</txt_label></row>
+<row><id_name type="varchar" >_TXT_FAX</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Факс</txt_label></row>
+<row><id_name type="varchar" >_TXT_MAILING</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Отправка всей кампании вы можете отправлять массовые  рассылки своим клиентам  </txt_label></row>
+<row><id_name type="varchar" >_TXT_OBSRV</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Описание</txt_label></row>
+<row><id_name type="varchar" >_TXT_POBLACION</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Город</txt_label></row>
+<row><id_name type="varchar" >_TXT_SEARCH</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Поиск Струны</txt_label></row>
+<row><id_name type="varchar" >_TXT_SIGN</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Подпись</txt_label></row>
+<row><id_name type="varchar" >_TXT_SUBJECT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Тема</txt_label></row>
+<row><id_name type="varchar" >_TXT_TELF1</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Номер телефона</txt_label></row>
+<row><id_name type="varchar" >_TXT_TELF2</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Телефон # 2</txt_label></row>
+<row><id_name type="varchar" >_TXT_TITLE</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Название</txt_label></row>
+<row><id_name type="varchar" >_TXT_UNREG</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Вы получаете это сообщение, потому что вы добровольно  подписались на наши новости. Если вы не хотите получать  больше писем:  </txt_label></row>
+<row><id_name type="varchar" >_TXT_URL</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Url</txt_label></row>
+<row><id_name type="varchar" >_TXT_WEB</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Веб</txt_label></row>
+<row><id_name type="varchar" >_TXT_ZONA</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Зона</txt_label></row>
+<row><id_name type="varchar" >_UMONTH</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Месяц</txt_label></row>
+<row><id_name type="varchar" >_UNREG</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Отписаться</txt_label></row>
+<row><id_name type="varchar" >_UNTITLED</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Untitled</txt_label></row>
+<row><id_name type="varchar" >_UPDATE</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Обновление</txt_label></row>
+<row><id_name type="varchar" >_UPDATED</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Обновлено успешно</txt_label></row>
+<row><id_name type="varchar" >_USED_PROP</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Б собственности</txt_label></row>
+<row><id_name type="varchar" >_USER</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Пользователь</txt_label></row>
+<row><id_name type="varchar" >_USERNAME</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Пользователь</txt_label></row>
+<row><id_name type="varchar" >_USER_DELETED</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Пользователь успешно удален  </txt_label></row>
+<row><id_name type="varchar" >_USER_HAS_PST</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Пользователь может назначить. Исключить позиции до  </txt_label></row>
+<row><id_name type="varchar" >_USER_INSERTED</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Пользователь успешно добавлен  </txt_label></row>
+<row><id_name type="varchar" >_USER_TYPE</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Печатать</txt_label></row>
+<row><id_name type="varchar" >_USR_BOOK_NOVALID</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Мы не можем подтвердить ваш заказ.  </txt_label></row>
+<row><id_name type="varchar" >_USR_CONFIRM</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Ваша регистрация действительна.  </txt_label></row>
+<row><id_name type="varchar" >_USR_NOCONFIRM</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Ошибки, найденные при регистрации.  </txt_label></row>
+<row><id_name type="varchar" >_USR_NOUNREG</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Ваш отмену подписки не была подтверждена. Обратная связь  с клиентами, если вы получите больше писем.  </txt_label></row>
+<row><id_name type="varchar" >_USR_UNREG</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Ваш отмену подписки были обработаны.  </txt_label></row>
+<row><id_name type="varchar" >_VALUE</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Значение</txt_label></row>
+<row><id_name type="varchar" >_VERACCS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Счета Поиск</txt_label></row>
+<row><id_name type="varchar" >_VERBOOKINGS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Наличие Поиск</txt_label></row>
+<row><id_name type="varchar" >_VERCONFIG</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Шаблон Конфигурация</txt_label></row>
+<row><id_name type="varchar" >_VERCOUNTRIES</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Страна / Город Список</txt_label></row>
+<row><id_name type="varchar" >_VERGAL</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Фотогалерея</txt_label></row>
+<row><id_name type="varchar" >_VERHTML</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Содержание</txt_label></row>
+<row><id_name type="varchar" >_VERIMMO</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Поиск недвижимости</txt_label></row>
+<row><id_name type="varchar" >_VERINTROS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Этикетка предложения Введение  </txt_label></row>
+<row><id_name type="varchar" >_VERLABELS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Применение Этикетки</txt_label></row>
+<row><id_name type="varchar" >_VERMAILINGS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Почтовый кампании</txt_label></row>
+<row><id_name type="varchar" >_VERNOT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Новости И События</txt_label></row>
+<row><id_name type="varchar" >_VERORGS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Организация</txt_label></row>
+<row><id_name type="varchar" >_VERPERMS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Список Роли / Perfiles</txt_label></row>
+<row><id_name type="varchar" >_VERPOBS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Активный Города</txt_label></row>
+<row><id_name type="varchar" >_VERPRD</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Продукция</txt_label></row>
+<row><id_name type="varchar" >_VERPREFS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Загруз. Переменные</txt_label></row>
+<row><id_name type="varchar" >_VERPRICELST</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Прайс-листы</txt_label></row>
+<row><id_name type="varchar" >_VERPRICEPRD</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Продукция И Цены</txt_label></row>
+<row><id_name type="varchar" >_VERPROPER</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Этикетки предложения свойства  </txt_label></row>
+<row><id_name type="varchar" >_VERSCR</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Список Pantallas</txt_label></row>
+<row><id_name type="varchar" >_VERSEASONS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Сезон Список</txt_label></row>
+<row><id_name type="varchar" >_VERTICKETS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Билеты</txt_label></row>
+<row><id_name type="varchar" >_VERTKCTGS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Поддержка Категории</txt_label></row>
+<row><id_name type="varchar" >_VERTKEMAILS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Email Шаблоны</txt_label></row>
+<row><id_name type="varchar" >_VERUSERS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Список пользователей</txt_label></row>
+<row><id_name type="varchar" >_VERVIEWS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Просмотров Список</txt_label></row>
+<row><id_name type="varchar" >_VER_PERFIL</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Покупатель профиль</txt_label></row>
+<row><id_name type="varchar" >_VIEW</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >View</txt_label></row>
+<row><id_name type="varchar" >_VIEWED</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Просмотры</txt_label></row>
+<row><id_name type="varchar" >_VIEWS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Vistas</txt_label></row>
+<row><id_name type="varchar" >_VIEWS_LST</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Список Vistas</txt_label></row>
+<row><id_name type="varchar" >_VIEW_FRONT_IN</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Новый</txt_label></row>
+<row><id_name type="varchar" >_WANT_SELL</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Я хочу продать</txt_label></row>
+<row><id_name type="varchar" >_WANT_SELL_TXT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Получите для вашего дома, какие затраты действительно  </txt_label></row>
+<row><id_name type="varchar" >_WDAY</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >W</txt_label></row>
+<row><id_name type="varchar" >_WEDNESDAY</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Среда</txt_label></row>
+<row><id_name type="varchar" >_WORDS_TO_FIND</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Поиск слов</txt_label></row>
+<row><id_name type="varchar" >_XMLNAV</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Макет XML файлов</txt_label></row>
+<row><id_name type="varchar" >_XMLOUTPUT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Выходной файл XML</txt_label></row>
+<row><id_name type="varchar" >_XMLPRT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  Печать макета XML файлов  </txt_label></row>
+<row><id_name type="varchar" >_XSLFILE</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  XSL преобразование файлов  </txt_label></row>
+<row><id_name type="varchar" >_XSLPRT</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >  XSL преобразование Печать файлов  </txt_label></row>
+<row><id_name type="varchar" >_YEAR</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Год</txt_label></row>
+<row><id_name type="varchar" >_YEARS</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Годы</txt_label></row>
+<row><id_name type="varchar" >_YOUR_LOAN</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >Ваш кредит</txt_label></row>
+<row><id_name type="varchar" >_ZIP_FILE</id_name><cod_lang type="char"  label="Language">ru</cod_lang><txt_label type="varchar" >ZIP Файл</txt_label></row>
+</labels>
+<lists>
+<row><id_name type="varchar" >_LST_ACTIVITIES</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Походы</txt_value></row>
+<row><id_name type="varchar" >_LST_ACTIVITIES</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Off Road</txt_value></row>
+<row><id_name type="varchar" >_LST_ACTIVITIES</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >Mountain Bike</txt_value></row>
+<row><id_name type="varchar" >_LST_ACTIVITIES</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >Парасейлинг</txt_value></row>
+<row><id_name type="varchar" >_LST_ACTIVITIES</id_name><txt_code type="varchar" >5</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">5</num_order><txt_value type="varchar" >Пляж</txt_value></row>
+<row><id_name type="varchar" >_LST_ACTIVITIES</id_name><txt_code type="varchar" >6</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">6</num_order><txt_value type="varchar" >  Аренда парусных и моторных лодок  </txt_value></row>
+<row><id_name type="varchar" >_LST_ACTIVITIES</id_name><txt_code type="varchar" >7</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">7</num_order><txt_value type="varchar" >Рыбалка</txt_value></row>
+<row><id_name type="varchar" >_LST_ACTIVITIES</id_name><txt_code type="varchar" >8</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">8</num_order><txt_value type="varchar" >Ночная жизнь</txt_value></row>
+<row><id_name type="varchar" >_LST_ACTIVITIES</id_name><txt_code type="varchar" >9</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">9</num_order><txt_value type="varchar" >Казино</txt_value></row>
+<row><id_name type="varchar" >_LST_DT_VAL</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Действительный</txt_value></row>
+<row><id_name type="varchar" >_LST_DT_VAL</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Истек</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >TV</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >10</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">10</num_order><txt_value type="varchar" >Канал плюс</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >11</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">11</num_order><txt_value type="varchar" >Сухая</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >12</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">12</num_order><txt_value type="varchar" >УФ-солярий</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >13</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">13</num_order><txt_value type="varchar" >Глубокая frier</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >14</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">14</num_order><txt_value type="varchar" >Духовка</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >15</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">15</num_order><txt_value type="varchar" >Микроволновые</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >16</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">16</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >DVD</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >  Широкополосный Интернет  </txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >Стиральные машины</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >5</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">5</num_order><txt_value type="varchar" >Посудомоечная машина</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >6</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">6</num_order><txt_value type="varchar" >Все столовые приборы</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >7</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">7</num_order><txt_value type="varchar" >Описания и одеяла</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >8</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">8</num_order><txt_value type="varchar" >Телефоны</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >9</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">9</num_order><txt_value type="varchar" >Спутниковое ТВ</txt_value></row>
+<row><id_name type="varchar" >_LST_IND_ACTIVE</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Да</txt_value></row>
+<row><id_name type="varchar" >_LST_IND_ACTIVE</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Нет</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Amazing Лофт</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >10</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">10</num_order><txt_value type="varchar" >Дуплекс квартира</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >11</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">11</num_order><txt_value type="varchar" >Первый этаж</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >12</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">12</num_order><txt_value type="varchar" >  Квартира рядом с верхнего этажа  </txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >13</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">13</num_order><txt_value type="varchar" >  Средиземноморский камень Masia  </txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >14</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">14</num_order><txt_value type="varchar" >Деревенский дом</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >15</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">15</num_order><txt_value type="varchar" >Почти новую квартиру</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >16</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">16</num_order><txt_value type="varchar" >Почти новый дом</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >17</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">17</num_order><txt_value type="varchar" >Masia восстановить</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >18</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">18</num_order><txt_value type="varchar" >  Практически новый топ-этаже квартира  </txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >19</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">19</num_order><txt_value type="varchar" >Rebuilded квартира</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Террасных дом</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >20</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">20</num_order><txt_value type="varchar" >  Коммерческая недвижимость  </txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >21</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">21</num_order><txt_value type="varchar" >Ресторан</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >22</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">22</num_order><txt_value type="varchar" >Паб</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >23</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">23</num_order><txt_value type="varchar" >Склад</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >24</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">24</num_order><txt_value type="varchar" >Плоский</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >25</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">25</num_order><txt_value type="varchar" >Топ-этаж Дуплекс</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >26</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">26</num_order><txt_value type="varchar" >Студия</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >27</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">27</num_order><txt_value type="varchar" >Квартира</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >28</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">28</num_order><txt_value type="varchar" >Дом</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >29</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">29</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >Статный квартира</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >30</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">30</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >Древние дома</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >5</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">5</num_order><txt_value type="varchar" >Частный дом</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >6</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">6</num_order><txt_value type="varchar" >Дом</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >7</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">7</num_order><txt_value type="varchar" >Загородный дом</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >8</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">8</num_order><txt_value type="varchar" >Прекрасная квартира</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >9</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">9</num_order><txt_value type="varchar" >Топ-этаж квартиры</txt_value></row>
+<row><id_name type="varchar" >_LST_NEWS_POS</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Блок</txt_value></row>
+<row><id_name type="varchar" >_LST_NEWS_POS</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Нет</txt_value></row>
+<row><id_name type="varchar" >_LST_NEWS_POS</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >Главный</txt_value></row>
+<row><id_name type="varchar" >_LST_NUMBERS_OP</id_name><txt_code type="varchar" ></txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Любой</txt_value></row>
+<row><id_name type="varchar" >_LST_NUMBERS_OP</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >1</txt_value></row>
+<row><id_name type="varchar" >_LST_NUMBERS_OP</id_name><txt_code type="varchar" >10</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">11</num_order><txt_value type="varchar" >10</txt_value></row>
+<row><id_name type="varchar" >_LST_NUMBERS_OP</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >2</txt_value></row>
+<row><id_name type="varchar" >_LST_NUMBERS_OP</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >3</txt_value></row>
+<row><id_name type="varchar" >_LST_NUMBERS_OP</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">5</num_order><txt_value type="varchar" >4</txt_value></row>
+<row><id_name type="varchar" >_LST_NUMBERS_OP</id_name><txt_code type="varchar" >5</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">6</num_order><txt_value type="varchar" >5</txt_value></row>
+<row><id_name type="varchar" >_LST_NUMBERS_OP</id_name><txt_code type="varchar" >6</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">7</num_order><txt_value type="varchar" >6</txt_value></row>
+<row><id_name type="varchar" >_LST_NUMBERS_OP</id_name><txt_code type="varchar" >7</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">8</num_order><txt_value type="varchar" >7</txt_value></row>
+<row><id_name type="varchar" >_LST_NUMBERS_OP</id_name><txt_code type="varchar" >8</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">9</num_order><txt_value type="varchar" >8</txt_value></row>
+<row><id_name type="varchar" >_LST_NUMBERS_OP</id_name><txt_code type="varchar" >9</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">10</num_order><txt_value type="varchar" >9</txt_value></row>
+<row><id_name type="varchar" >_LST_OBSERV</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >  Домашние животные не допускаются  </txt_value></row>
+<row><id_name type="varchar" >_LST_ORDER</id_name><txt_code type="varchar" >ASC</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Восхождение</txt_value></row>
+<row><id_name type="varchar" >_LST_ORDER</id_name><txt_code type="varchar" >DESC</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >По убыванию</txt_value></row>
+<row><id_name type="varchar" >_LST_PISCINA</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Нет</txt_value></row>
+<row><id_name type="varchar" >_LST_PISCINA</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Частный бассейн</txt_value></row>
+<row><id_name type="varchar" >_LST_PISCINA</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >  Общественный плавательный бассейн  </txt_value></row>
+<row><id_name type="varchar" >_LST_POSIMG</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Правый</txt_value></row>
+<row><id_name type="varchar" >_LST_POSIMG</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Левый</txt_value></row>
+<row><id_name type="varchar" >_LST_POSIMG</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >Верх</txt_value></row>
+<row><id_name type="varchar" >_LST_POSIMG</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >Дно</txt_value></row>
+<row><id_name type="varchar" >_LST_POSITIONS</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Агент по продажам</txt_value></row>
+<row><id_name type="varchar" >_LST_POSITIONS</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Менеджер группы</txt_value></row>
+<row><id_name type="varchar" >_LST_POSITIONS</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >Директор</txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" ></txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" ></txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >10000</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >10,000</txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >100000</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">8</num_order><txt_value type="varchar" >100,000</txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >1000000</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">23</num_order><txt_value type="varchar" >1.000.000</txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >1200000</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">24</num_order><txt_value type="varchar" >1.200.000</txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >130000</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">9</num_order><txt_value type="varchar" >130,000</txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >1400000</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">25</num_order><txt_value type="varchar" >1.400.000</txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >160000</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">10</num_order><txt_value type="varchar" >160,000</txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >1600000</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">26</num_order><txt_value type="varchar" >1.600.000</txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >1800000</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">27</num_order><txt_value type="varchar" >1.800.000</txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >20000</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >20,000</txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >200000</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">11</num_order><txt_value type="varchar" >200,000</txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >2000000</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">28</num_order><txt_value type="varchar" >2.000.000</txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >230000</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">12</num_order><txt_value type="varchar" >230,000</txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >260000</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">13</num_order><txt_value type="varchar" >260,000</txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >30000</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >30,000</txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >300000</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">14</num_order><txt_value type="varchar" >300,000</txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >330000</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">15</num_order><txt_value type="varchar" >330,000</txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >360000</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">16</num_order><txt_value type="varchar" >360,000</txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >40000</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">5</num_order><txt_value type="varchar" >40,000</txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >400000</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">17</num_order><txt_value type="varchar" >400,000</txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >500000</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">18</num_order><txt_value type="varchar" >500,000</txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >60000</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">6</num_order><txt_value type="varchar" >60,000</txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >600000</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">19</num_order><txt_value type="varchar" >600,000</txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >700000</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">20</num_order><txt_value type="varchar" >700,000</txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >80000</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">7</num_order><txt_value type="varchar" >80,000</txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >800000</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">21</num_order><txt_value type="varchar" >800,000</txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >900000</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">22</num_order><txt_value type="varchar" >900,000</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >10</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">10</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >11</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">11</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >12</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">12</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >13</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">13</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >14</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">14</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >15</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">15</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >16</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">16</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >17</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">17</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >18</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">18</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >19</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">19</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >20</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">20</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >21</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">21</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >22</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">22</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >23</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">23</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >24</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">24</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >25</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">25</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >26</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">26</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >27</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">27</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >28</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">28</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >29</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">29</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >30</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">30</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >31</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">31</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >32</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">32</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >33</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">33</num_order><txt_value type="varchar" >40</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >34</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">34</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >35</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">35</num_order><txt_value type="varchar" >8</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >36</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">36</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >37</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">37</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >38</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">38</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >39</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">39</num_order><txt_value type="varchar" >40</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >40</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">40</num_order><txt_value type="varchar" >40</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >41</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">41</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >42</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">42</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >43</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">43</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >44</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">44</num_order><txt_value type="varchar" >40</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >5</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">5</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >6</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">6</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >7</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">7</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >8</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">8</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >9</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">9</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >полностью восстановить</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >10</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">10</num_order><txt_value type="varchar" >труба</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >11</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">11</num_order><txt_value type="varchar" >открытая кухня</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >12</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">12</num_order><txt_value type="varchar" >природный газ</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >13</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">13</num_order><txt_value type="varchar" >vitroceramic</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >14</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">14</num_order><txt_value type="varchar" >большой столовой</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >15</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">15</num_order><txt_value type="varchar" >цокольный</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >16</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">16</num_order><txt_value type="varchar" >прачечная</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >17</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">17</num_order><txt_value type="varchar" >шкафы</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >18</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">18</num_order><txt_value type="varchar" >Утилита номер</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >19</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">19</num_order><txt_value type="varchar" >коммунальной площади</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >близко к центру города</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >20</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">20</num_order><txt_value type="varchar" >паркет</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >21</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">21</num_order><txt_value type="varchar" >мебель</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >22</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">22</num_order><txt_value type="varchar" >рядом с пляжем</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >23</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">23</num_order><txt_value type="varchar" >лифт</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >24</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">24</num_order><txt_value type="varchar" >балкон</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >25</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">25</num_order><txt_value type="varchar" >джакузи</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >26</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">26</num_order><txt_value type="varchar" >  факультативном автостоянки  </txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >27</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">27</num_order><txt_value type="varchar" >территории зоны</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >28</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">28</num_order><txt_value type="varchar" >солярий</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >29</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">29</num_order><txt_value type="varchar" >детская площадка</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >Собственный сад</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >30</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">30</num_order><txt_value type="varchar" >плоский участок</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >31</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">31</num_order><txt_value type="varchar" >хорошее расположение</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >32</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">32</num_order><txt_value type="varchar" >Вид на море</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >33</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">33</num_order><txt_value type="varchar" >хорошо закончил</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >34</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">34</num_order><txt_value type="varchar" >смотритель</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >35</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">35</num_order><txt_value type="varchar" >яркий</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >36</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">36</num_order><txt_value type="varchar" >двор</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >37</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">37</num_order><txt_value type="varchar" >Suite</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >38</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">38</num_order><txt_value type="varchar" >чердак комната</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >39</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">39</num_order><txt_value type="varchar" >готов войти в</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >плоская крыша</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >40</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">40</num_order><txt_value type="varchar" >уникальный</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >41</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">41</num_order><txt_value type="varchar" >Студия</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >42</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">42</num_order><txt_value type="varchar" >тихие окрестности</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >43</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">43</num_order><txt_value type="varchar" >многие балконы</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >44</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">44</num_order><txt_value type="varchar" >в отличном состоянии</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >5</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">5</num_order><txt_value type="varchar" >солнечно</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >6</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">6</num_order><txt_value type="varchar" >внешние устройства</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >7</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">7</num_order><txt_value type="varchar" >Просмотров</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >8</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">8</num_order><txt_value type="varchar" >отопление</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >9</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">9</num_order><txt_value type="varchar" >кондиционер</txt_value></row>
+<row><id_name type="varchar" >_LST_ROLES</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Пользователь</txt_value></row>
+<row><id_name type="varchar" >_LST_ROLES</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Контролер</txt_value></row>
+<row><id_name type="varchar" >_LST_ROLES</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >Администратор</txt_value></row>
+<row><id_name type="varchar" >_LST_SERVICES</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Прачечная</txt_value></row>
+<row><id_name type="varchar" >_LST_SERVICES</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Creche</txt_value></row>
+<row><id_name type="varchar" >_LST_SERVICES</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >Обслуживание номеров</txt_value></row>
+<row><id_name type="varchar" >_LST_SERVICES</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >Бар</txt_value></row>
+<row><id_name type="varchar" >_LST_SERVICES</id_name><txt_code type="varchar" >5</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">5</num_order><txt_value type="varchar" >Ресторан</txt_value></row>
+<row><id_name type="varchar" >_LST_TK_PRIORITY</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TK_PRIORITY</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TK_PRIORITY</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TK_PRIORITY</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TK_STATE</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TK_STATE</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TK_STATE</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TK_STATE</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TK_STATE</id_name><txt_code type="varchar" >5</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">5</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TK_STATE</id_name><txt_code type="varchar" >6</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">6</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_ACCSTATE</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Активная</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_ACCSTATE</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Не активен</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_ACCSTATE</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >Чтобы проверить</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_GALLERY</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Пользователь</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_GALLERY</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Inmueble</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_OFERTA</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Нет</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_OFERTA</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Рекомендованная</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_OFERTA</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >Специальные</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_PRICE</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" ></txt_value></row>
+<row><id_name type="varchar" >_LST_TP_PRICE</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >За день</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_PRICE</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >За месяц</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_PRICE</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >За неделю</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_PRICE</id_name><txt_code type="varchar" >5</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">5</num_order><txt_value type="varchar" >Уик-энд</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_PROPIEDAD</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Плоский</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_PROPIEDAD</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >Коммерческая недвижимость  </txt_value></row>
+<row><id_name type="varchar" >_LST_TP_PROPIEDAD</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Дом</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_PROPIEDAD</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >Квартира</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_PROPIEDAD</id_name><txt_code type="varchar" >5</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">5</num_order><txt_value type="varchar" >Участок</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_PROPIEDAD</id_name><txt_code type="varchar" >6</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">6</num_order><txt_value type="varchar" >Другое</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_RESERVSTATE</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Чтобы проверить</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_RESERVSTATE</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Активная</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_RESERVSTATE</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >Официально</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_RESERVSTATE</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >Отменено</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_RESERVSTATE</id_name><txt_code type="varchar" >5</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">5</num_order><txt_value type="varchar" >Отбрасываются</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_SDAYS</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Закрытые</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_SDAYS</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Низкий сезон</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_SDAYS</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >Средний сезон</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_SDAYS</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >Высокий сезон</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_SEND</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Текст</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_SEND</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >HTML</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_SEND_TO</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >  Для зарегистрированных рассылку  </txt_value></row>
+<row><id_name type="varchar" >_LST_TP_SEND_TO</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Для всех</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_SERVICIO</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Для продажи</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_SERVICIO</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Сдать</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_SERVICIO</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >Праздничная азмещение</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_SERVICIO</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >Новое здание</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_STATE</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Активная</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_STATE</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Не активен</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_STATE</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >Продавец</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_STATE</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >Прокат</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_STATE</id_name><txt_code type="varchar" >5</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">5</num_order><txt_value type="varchar" >Рассматриваемый</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_STE_MAIL</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Рассматриваемый</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_STE_MAIL</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Отправленный</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_STE_MAIL</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >Ожидание</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_STE_MAIL</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >Ошибка</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_STE_PRC</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Активная</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_STE_PRC</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Не активен</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_STE_PRC</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >Чтобы проверить</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_VAT</id_name><txt_code type="varchar" >0</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >бесплатно</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_VAT</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_VAT</id_name><txt_code type="varchar" >16</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >16%</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_VAT</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >4%</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_VAT</id_name><txt_code type="varchar" >7</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >7%</txt_value></row>
+<row><id_name type="varchar" >_LST_USER_TYPES</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Работник</txt_value></row>
+<row><id_name type="varchar" >_LST_USER_TYPES</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">ru</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >Клиент</txt_value></row>
+</lists>
+</root>

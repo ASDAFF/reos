@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<poblacion>
+<row><id_poblacion type="int" >5219</id_poblacion><id_prov type="smallint" >664</id_prov><name_pob type="varchar"  label="City">Putnam, Wil</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >5220</id_poblacion><id_prov type="smallint" >664</id_prov><name_pob type="varchar"  label="City">Newfane</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >5221</id_poblacion><id_prov type="smallint" >665</id_prov><name_pob type="varchar"  label="City">Bridgeport</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >5222</id_poblacion><id_prov type="smallint" >665</id_prov><name_pob type="varchar"  label="City">Lancaster</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >5223</id_poblacion><id_prov type="smallint" >665</id_prov><name_pob type="varchar"  label="City">Winnsboro</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >5224</id_poblacion><id_prov type="smallint" >666</id_prov><name_pob type="varchar"  label="City">Hartford</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >5225</id_poblacion><id_prov type="smallint" >667</id_prov><name_pob type="varchar"  label="City">New London,</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >5226</id_poblacion><id_prov type="smallint" >668</id_prov><name_pob type="varchar"  label="City">New Haven,</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >5227</id_poblacion><id_prov type="smallint" >669</id_prov><name_pob type="varchar"  label="City">Middletown</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >5228</id_poblacion><id_prov type="smallint" >669</id_prov><name_pob type="varchar"  label="City">Cambridge</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >5229</id_poblacion><id_prov type="smallint" >669</id_prov><name_pob type="varchar"  label="City">New Brunswi</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >5230</id_poblacion><id_prov type="smallint" >669</id_prov><name_pob type="varchar"  label="City">Saluda</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >5231</id_poblacion><id_prov type="smallint" >670</id_prov><name_pob type="varchar"  label="City">Litchfield</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >5232</id_poblacion><id_prov type="smallint" >671</id_prov><name_pob type="varchar"  label="City">Tolland</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+</poblacion>
+</root>

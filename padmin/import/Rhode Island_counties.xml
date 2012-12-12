@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<provincia>
+<row><id_prov type="smallint" >2666</id_prov><id_comunidad type="smallint" >311</id_comunidad><prov_name type="varchar"  label="County">Newport</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2667</id_prov><id_comunidad type="smallint" >311</id_comunidad><prov_name type="varchar"  label="County">Providence</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2668</id_prov><id_comunidad type="smallint" >311</id_comunidad><prov_name type="varchar"  label="County">Washington</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2669</id_prov><id_comunidad type="smallint" >311</id_comunidad><prov_name type="varchar"  label="County">Kent</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2670</id_prov><id_comunidad type="smallint" >311</id_comunidad><prov_name type="varchar"  label="County">Bristol</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+</provincia>
+</root>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<provincia>
+<row><id_prov type="smallint" >664</id_prov><id_comunidad type="smallint" >272</id_comunidad><prov_name type="varchar"  label="County">Windham</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >665</id_prov><id_comunidad type="smallint" >272</id_comunidad><prov_name type="varchar"  label="County">Fairfield</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >666</id_prov><id_comunidad type="smallint" >272</id_comunidad><prov_name type="varchar"  label="County">Hartford</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >667</id_prov><id_comunidad type="smallint" >272</id_comunidad><prov_name type="varchar"  label="County">New London</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >668</id_prov><id_comunidad type="smallint" >272</id_comunidad><prov_name type="varchar"  label="County">New Haven</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >669</id_prov><id_comunidad type="smallint" >272</id_comunidad><prov_name type="varchar"  label="County">Middlesex</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >670</id_prov><id_comunidad type="smallint" >272</id_comunidad><prov_name type="varchar"  label="County">Litchfield</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >671</id_prov><id_comunidad type="smallint" >272</id_comunidad><prov_name type="varchar"  label="County">Tolland</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+</provincia>
+</root>

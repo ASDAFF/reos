@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<provincia>
+<row><id_prov type="smallint" >3348</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">Tyler</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3349</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">Lincoln</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3350</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">Summers</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3351</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">Cabell</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3352</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">Harrison</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3353</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">Lewis</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3354</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">Wirt</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3355</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">Wetzel</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3356</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">Webster</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3357</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">Jefferson</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3358</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">Jackson</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3359</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">Wayne</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3360</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">Kanawha</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3361</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">Greenbrier</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3362</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">Wyoming</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3363</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">Clay</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3364</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">Hardy</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3365</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">Upshur</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3366</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">Hancock</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3367</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">Wood</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3368</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">Tucker</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3369</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">Grant</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3370</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">Calhoun</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3371</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">Taylor</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3372</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">Hampshire</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3373</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">Ritchie</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3374</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">Pocahontas</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3375</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">Gilmer</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3376</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">Mingo</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3377</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">Marion</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3378</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">Mineral</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3379</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">Brooke</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3380</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">Preston</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3381</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">Monroe</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3382</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">Roane</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3383</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">Pleasants</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3384</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">Mason</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3385</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">Mercer</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3386</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">Putnam</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3387</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">Berkeley</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3388</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">McDowell</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3389</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">Randolph</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3390</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">Raleigh</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3391</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">Marshall</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3392</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">Morgan</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3393</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">Pendleton</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3394</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">Nicholas</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3395</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">Fayette</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3396</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">Boone</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3397</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">Monongalia</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3398</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">Braxton</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3399</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">Barbour</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3400</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">Logan</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3401</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">Ohio</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >3402</id_prov><id_comunidad type="smallint" >321</id_comunidad><prov_name type="varchar"  label="County">Doddridge</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+</provincia>
+</root>

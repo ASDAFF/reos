@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<navigator>
+
+<page>
+<xslt>simpleblue</xslt>
+<headers/>
+<footers>
+<block>footer</block>
+</footers>
+</page>
+
+</navigator>

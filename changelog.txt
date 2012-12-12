@@ -1,0 +1,26 @@
+ReOS 2.0.5
+
+- No encrypted URL option
+- Added SEO urls features
+- Russian translation
+- Holiday rentals template/theme
+- Simple Templates/themes
+- Date Picker Field localized 
+- Issue 177 : Currency sign in search box
+- Fixed html email anchors of mailing (Relative to Absolute urls)
+- Increase fields lenght. Postal Code in all forms from 6 to 15 chars.
+- Dates in English format m/d/Y
+- Contact form sending email to Property Account.
+- All ereg functions replaced by preg functions.
+- username can include - char
+- Active languages set up in Administration->app.Variables->_ACTIVE_LANGS
+
+ReOS 2.0.4
+
+- Bug Fixed : Property contact form not sending emails. 
+- smtp.php optimized for mail function and smtp connection.
+
+ReOS 2.0.3
+
+ - Currency sign included as a application variable.
+ - Loan expenses calculation removed. Only monthly fee is calculated.

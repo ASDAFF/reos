@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<provincia>
+<row><id_prov type="smallint" >1572</id_prov><id_comunidad type="smallint" >290</id_comunidad><prov_name type="varchar"  label="County">Barnstable</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >1573</id_prov><id_comunidad type="smallint" >290</id_comunidad><prov_name type="varchar"  label="County">Nantucket</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >1574</id_prov><id_comunidad type="smallint" >290</id_comunidad><prov_name type="varchar"  label="County">Essex</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >1575</id_prov><id_comunidad type="smallint" >290</id_comunidad><prov_name type="varchar"  label="County">Berkshire</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >1576</id_prov><id_comunidad type="smallint" >290</id_comunidad><prov_name type="varchar"  label="County">Plymouth</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >1577</id_prov><id_comunidad type="smallint" >290</id_comunidad><prov_name type="varchar"  label="County">Middlesex</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >1578</id_prov><id_comunidad type="smallint" >290</id_comunidad><prov_name type="varchar"  label="County">Worcester</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >1579</id_prov><id_comunidad type="smallint" >290</id_comunidad><prov_name type="varchar"  label="County">Bristol</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >1580</id_prov><id_comunidad type="smallint" >290</id_comunidad><prov_name type="varchar"  label="County">Hampshire</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >1581</id_prov><id_comunidad type="smallint" >290</id_comunidad><prov_name type="varchar"  label="County">Dukes</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >1582</id_prov><id_comunidad type="smallint" >290</id_comunidad><prov_name type="varchar"  label="County">Franklin</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >1583</id_prov><id_comunidad type="smallint" >290</id_comunidad><prov_name type="varchar"  label="County">Hampden</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >1584</id_prov><id_comunidad type="smallint" >290</id_comunidad><prov_name type="varchar"  label="County">Norfolk</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >1585</id_prov><id_comunidad type="smallint" >290</id_comunidad><prov_name type="varchar"  label="County">Suffolk</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+</provincia>
+</root>

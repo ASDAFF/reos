@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<poblacion>
+<row><id_poblacion type="int" >18834</id_poblacion><id_prov type="smallint" >3475</id_prov><name_pob type="varchar"  label="City">Thermopolis</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18835</id_poblacion><id_prov type="smallint" >3476</id_prov><name_pob type="varchar"  label="City">Pinedale</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18836</id_poblacion><id_prov type="smallint" >3477</id_prov><name_pob type="varchar"  label="City">McClusky</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18837</id_poblacion><id_prov type="smallint" >3477</id_prov><name_pob type="varchar"  label="City">Rushville</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18838</id_poblacion><id_prov type="smallint" >3477</id_prov><name_pob type="varchar"  label="City">Hoxie</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18839</id_poblacion><id_prov type="smallint" >3477</id_prov><name_pob type="varchar"  label="City">Sheridan</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18840</id_poblacion><id_prov type="smallint" >3477</id_prov><name_pob type="varchar"  label="City">Plentywood</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18841</id_poblacion><id_prov type="smallint" >3478</id_prov><name_pob type="varchar"  label="City">Fairplay</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18842</id_poblacion><id_prov type="smallint" >3478</id_prov><name_pob type="varchar"  label="City">Livingston</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18843</id_poblacion><id_prov type="smallint" >3478</id_prov><name_pob type="varchar"  label="City">Cody</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18844</id_poblacion><id_prov type="smallint" >3479</id_prov><name_pob type="varchar"  label="City">Lusk</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18845</id_poblacion><id_prov type="smallint" >3480</id_prov><name_pob type="varchar"  label="City">Casper</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18846</id_poblacion><id_prov type="smallint" >3481</id_prov><name_pob type="varchar"  label="City">Newcastle</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18847</id_poblacion><id_prov type="smallint" >3482</id_prov><name_pob type="varchar"  label="City">North Platt</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18848</id_poblacion><id_prov type="smallint" >3482</id_prov><name_pob type="varchar"  label="City">Kemmerer</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18849</id_poblacion><id_prov type="smallint" >3482</id_prov><name_pob type="varchar"  label="City">Hamlin</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18850</id_poblacion><id_prov type="smallint" >3482</id_prov><name_pob type="varchar"  label="City">Merrill</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18851</id_poblacion><id_prov type="smallint" >3482</id_prov><name_pob type="varchar"  label="City">Davenport</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18852</id_poblacion><id_prov type="smallint" >3482</id_prov><name_pob type="varchar"  label="City">Fayettevill</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18853</id_poblacion><id_prov type="smallint" >3482</id_prov><name_pob type="varchar"  label="City">Canton</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18854</id_poblacion><id_prov type="smallint" >3482</id_prov><name_pob type="varchar"  label="City">Newport</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18855</id_poblacion><id_prov type="smallint" >3482</id_prov><name_pob type="varchar"  label="City">Chandler</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18856</id_poblacion><id_prov type="smallint" >3482</id_prov><name_pob type="varchar"  label="City">Pioche</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18857</id_poblacion><id_prov type="smallint" >3482</id_prov><name_pob type="varchar"  label="City">Carrizozo</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18858</id_poblacion><id_prov type="smallint" >3482</id_prov><name_pob type="varchar"  label="City">Wiscasset</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18861</id_poblacion><id_prov type="smallint" >3482</id_prov><name_pob type="varchar"  label="City">Hugo</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18862</id_poblacion><id_prov type="smallint" >3482</id_prov><name_pob type="varchar"  label="City">Shoshone</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18863</id_poblacion><id_prov type="smallint" >3482</id_prov><name_pob type="varchar"  label="City">Lincoln</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18864</id_poblacion><id_prov type="smallint" >3482</id_prov><name_pob type="varchar"  label="City">Stanford</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18865</id_poblacion><id_prov type="smallint" >3482</id_prov><name_pob type="varchar"  label="City">Troy</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18866</id_poblacion><id_prov type="smallint" >3482</id_prov><name_pob type="varchar"  label="City">Ivanhoe</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18867</id_poblacion><id_prov type="smallint" >3482</id_prov><name_pob type="varchar"  label="City">Star City</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18868</id_poblacion><id_prov type="smallint" >3482</id_prov><name_pob type="varchar"  label="City">Brookhaven</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18869</id_poblacion><id_prov type="smallint" >3482</id_prov><name_pob type="varchar"  label="City">Libby</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18870</id_poblacion><id_prov type="smallint" >3482</id_prov><name_pob type="varchar"  label="City">Ruston</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18871</id_poblacion><id_prov type="smallint" >3483</id_prov><name_pob type="varchar"  label="City">Jacksboro</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18872</id_poblacion><id_prov type="smallint" >3483</id_prov><name_pob type="varchar"  label="City">Rustburg</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18873</id_poblacion><id_prov type="smallint" >3483</id_prov><name_pob type="varchar"  label="City">Alexandria,</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18874</id_poblacion><id_prov type="smallint" >3483</id_prov><name_pob type="varchar"  label="City">Gillette</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18875</id_poblacion><id_prov type="smallint" >3483</id_prov><name_pob type="varchar"  label="City">Mound City</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18876</id_poblacion><id_prov type="smallint" >3484</id_prov><name_pob type="varchar"  label="City">Worland</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18877</id_poblacion><id_prov type="smallint" >3485</id_prov><name_pob type="varchar"  label="City">Prineville</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18878</id_poblacion><id_prov type="smallint" >3485</id_prov><name_pob type="varchar"  label="City">Sundance</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18879</id_poblacion><id_prov type="smallint" >3486</id_prov><name_pob type="varchar"  label="City">Paintsville</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18880</id_poblacion><id_prov type="smallint" >3486</id_prov><name_pob type="varchar"  label="City">Buffalo</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18881</id_poblacion><id_prov type="smallint" >3486</id_prov><name_pob type="varchar"  label="City">Cleburne</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18882</id_poblacion><id_prov type="smallint" >3486</id_prov><name_pob type="varchar"  label="City">Mountain Ci</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18883</id_poblacion><id_prov type="smallint" >3486</id_prov><name_pob type="varchar"  label="City">Tecumseh</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18884</id_poblacion><id_prov type="smallint" >3486</id_prov><name_pob type="varchar"  label="City">Warrensburg</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18885</id_poblacion><id_prov type="smallint" >3486</id_prov><name_pob type="varchar"  label="City">Olathe</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18886</id_poblacion><id_prov type="smallint" >3486</id_prov><name_pob type="varchar"  label="City">Franklin</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18887</id_poblacion><id_prov type="smallint" >3486</id_prov><name_pob type="varchar"  label="City">Vienna</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18888</id_poblacion><id_prov type="smallint" >3486</id_prov><name_pob type="varchar"  label="City">Iowa City</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18889</id_poblacion><id_prov type="smallint" >3486</id_prov><name_pob type="varchar"  label="City">Clarksville</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18890</id_poblacion><id_prov type="smallint" >3486</id_prov><name_pob type="varchar"  label="City">Wrightsvill</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18891</id_poblacion><id_prov type="smallint" >3487</id_prov><name_pob type="varchar"  label="City">Canon City</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18892</id_poblacion><id_prov type="smallint" >3487</id_prov><name_pob type="varchar"  label="City">Sidney</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18893</id_poblacion><id_prov type="smallint" >3487</id_prov><name_pob type="varchar"  label="City">Saint Antho</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18894</id_poblacion><id_prov type="smallint" >3487</id_prov><name_pob type="varchar"  label="City">Lander</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18895</id_poblacion><id_prov type="smallint" >3488</id_prov><name_pob type="varchar"  label="City">Douglas</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18896</id_poblacion><id_prov type="smallint" >3489</id_prov><name_pob type="varchar"  label="City">Price</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18897</id_poblacion><id_prov type="smallint" >3489</id_prov><name_pob type="varchar"  label="City">Rawlins</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18898</id_poblacion><id_prov type="smallint" >3489</id_prov><name_pob type="varchar"  label="City">Jim Thorpe</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18899</id_poblacion><id_prov type="smallint" >3489</id_prov><name_pob type="varchar"  label="City">Red Lodge</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18900</id_poblacion><id_prov type="smallint" >3490</id_prov><name_pob type="varchar"  label="City">Cheyenne</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18901</id_poblacion><id_prov type="smallint" >3491</id_prov><name_pob type="varchar"  label="City">Hardin</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18902</id_poblacion><id_prov type="smallint" >3491</id_prov><name_pob type="varchar"  label="City">Basin</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18903</id_poblacion><id_prov type="smallint" >3492</id_prov><name_pob type="varchar"  label="City">Driggs</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18904</id_poblacion><id_prov type="smallint" >3492</id_prov><name_pob type="varchar"  label="City">Choteau</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18905</id_poblacion><id_prov type="smallint" >3492</id_prov><name_pob type="varchar"  label="City">Jackson</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18906</id_poblacion><id_prov type="smallint" >3493</id_prov><name_pob type="varchar"  label="City">Platte City</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18907</id_poblacion><id_prov type="smallint" >3493</id_prov><name_pob type="varchar"  label="City">Columbus</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18908</id_poblacion><id_prov type="smallint" >3493</id_prov><name_pob type="varchar"  label="City">Wheatland</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18909</id_poblacion><id_prov type="smallint" >3494</id_prov><name_pob type="varchar"  label="City">Albany</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18910</id_poblacion><id_prov type="smallint" >3494</id_prov><name_pob type="varchar"  label="City">Laramie</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18911</id_poblacion><id_prov type="smallint" >3495</id_prov><name_pob type="varchar"  label="City">Torrington</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18912</id_poblacion><id_prov type="smallint" >3496</id_prov><name_pob type="varchar"  label="City">Green River</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_poblacion type="int" >18913</id_poblacion><id_prov type="smallint" >3497</id_prov><name_pob type="varchar"  label="City">Evanston</name_pob><ind_active type="tinyint"  label="Active">1</ind_active></row>
+</poblacion>
+</root>

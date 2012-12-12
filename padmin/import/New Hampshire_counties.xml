@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<provincia>
+<row><id_prov type="smallint" >2119</id_prov><id_comunidad type="smallint" >299</id_comunidad><prov_name type="varchar"  label="County">Carroll</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2120</id_prov><id_comunidad type="smallint" >299</id_comunidad><prov_name type="varchar"  label="County">Coos</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2121</id_prov><id_comunidad type="smallint" >299</id_comunidad><prov_name type="varchar"  label="County">Merrimack</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2122</id_prov><id_comunidad type="smallint" >299</id_comunidad><prov_name type="varchar"  label="County">Rockingham</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2123</id_prov><id_comunidad type="smallint" >299</id_comunidad><prov_name type="varchar"  label="County">Belknap</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2124</id_prov><id_comunidad type="smallint" >299</id_comunidad><prov_name type="varchar"  label="County">Sullivan</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2125</id_prov><id_comunidad type="smallint" >299</id_comunidad><prov_name type="varchar"  label="County">Strafford</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2126</id_prov><id_comunidad type="smallint" >299</id_comunidad><prov_name type="varchar"  label="County">Cheshire</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2127</id_prov><id_comunidad type="smallint" >299</id_comunidad><prov_name type="varchar"  label="County">Hillsborough</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >2128</id_prov><id_comunidad type="smallint" >299</id_comunidad><prov_name type="varchar"  label="County">Grafton</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+</provincia>
+</root>

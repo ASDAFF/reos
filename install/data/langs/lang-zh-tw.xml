@@ -1,0 +1,948 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<labels>
+<row><id_name type="varchar" >_0</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >否</txt_label></row>
+<row><id_name type="varchar" >_1</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >是</txt_label></row>
+<row><id_name type="varchar" >_ABOUTUS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >關於我們</txt_label></row>
+<row><id_name type="varchar" >_ACCOUNTS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >賬戶</txt_label></row>
+<row><id_name type="varchar" >_ACONSULTAR</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >在要求中</txt_label></row>
+<row><id_name type="varchar" >_ACTIVE</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >使用中</txt_label></row>
+<row><id_name type="varchar" >_ACTIVE_ALL</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ACTIVITIES_LIST</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >活動標籤列表</txt_label></row>
+<row><id_name type="varchar" >_ADD</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >加入</txt_label></row>
+<row><id_name type="varchar" >_ADDIMG</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >加入圖像</txt_label></row>
+<row><id_name type="varchar" >_ADDIMGNOT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >新圖像</txt_label></row>
+<row><id_name type="varchar" >_ADDPOINT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >Google Maps</txt_label></row>
+<row><id_name type="varchar" >_ADDPRICELST</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >加添價格表</txt_label></row>
+<row><id_name type="varchar" >_ADDPRICEPRD</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >加添產品和價格</txt_label></row>
+<row><id_name type="varchar" >_ADDT_FILES</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >附加檔案</txt_label></row>
+<row><id_name type="varchar" >_ADD_ACCOUNT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >加入賬戶</txt_label></row>
+<row><id_name type="varchar" >_ADD_CITY</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ADD_COMDAD</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ADD_CONTACT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ADD_COUNTRY</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ADD_CTG</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >加入目錄</txt_label></row>
+<row><id_name type="varchar" >_ADD_DEPT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >加入部門</txt_label></row>
+<row><id_name type="varchar" >_ADD_GAL</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >加入圖庫</txt_label></row>
+<row><id_name type="varchar" >_ADD_IMG_GAL</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >加入圖像到圖庫</txt_label></row>
+<row><id_name type="varchar" >_ADD_IMMO</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >加入物業</txt_label></row>
+<row><id_name type="varchar" >_ADD_MAILING</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >加上郵件</txt_label></row>
+<row><id_name type="varchar" >_ADD_NEW</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >加入新聞</txt_label></row>
+<row><id_name type="varchar" >_ADD_PERFIL</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >加入買家簡介</txt_label></row>
+<row><id_name type="varchar" >_ADD_PERM</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >加入角式 / 簡介</txt_label></row>
+<row><id_name type="varchar" >_ADD_PICTURE</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >加入圖像</txt_label></row>
+<row><id_name type="varchar" >_ADD_POSITION</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >加入雇員</txt_label></row>
+<row><id_name type="varchar" >_ADD_PROD</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >加入產品</txt_label></row>
+<row><id_name type="varchar" >_ADD_PROV</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ADD_SCR</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >加入Screen</txt_label></row>
+<row><id_name type="varchar" >_ADD_SDAY</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >加入新日期</txt_label></row>
+<row><id_name type="varchar" >_ADD_SEASON</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >加入新季節</txt_label></row>
+<row><id_name type="varchar" >_ADD_TICKET</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >加入票據</txt_label></row>
+<row><id_name type="varchar" >_ADD_TK_CTG</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ADD_USER</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >加入用戶</txt_label></row>
+<row><id_name type="varchar" >_ADD_VAL</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >加入價值</txt_label></row>
+<row><id_name type="varchar" >_ADD_VIEW</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >加入View</txt_label></row>
+<row><id_name type="varchar" >_ADD_ZONA</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >新地區</txt_label></row>
+<row><id_name type="varchar" >_ADMIN</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >管理</txt_label></row>
+<row><id_name type="varchar" >_ALL_ACCOUNTS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >全部賬戶</txt_label></row>
+<row><id_name type="varchar" >_ALL_IMMOS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >全部物業</txt_label></row>
+<row><id_name type="varchar" >_ALL_NEWS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >全部新聞</txt_label></row>
+<row><id_name type="varchar" >_ALL_TICKETS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >全部票據</txt_label></row>
+<row><id_name type="varchar" >_ANY</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >任何</txt_label></row>
+<row><id_name type="varchar" >_APP_FILE</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >應用程式檔案</txt_label></row>
+<row><id_name type="varchar" >_APRIL</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >四月</txt_label></row>
+<row><id_name type="varchar" >_ASIGN_POB</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >選擇期望的城市</txt_label></row>
+<row><id_name type="varchar" >_AUGUST</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >八月</txt_label></row>
+<row><id_name type="varchar" >_AVG_DAY_HITS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >平均每天訪問次數</txt_label></row>
+<row><id_name type="varchar" >_AVG_DAY_ROBOTS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >平均每天用搜索器次數</txt_label></row>
+<row><id_name type="varchar" >_AVG_DAY_VISITS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >平均每天訪問次數</txt_label></row>
+<row><id_name type="varchar" >_BACK</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >返回</txt_label></row>
+<row><id_name type="varchar" >_BACKUP</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >備份</txt_label></row>
+<row><id_name type="varchar" >_BOOK</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >訪問冊子</txt_label></row>
+<row><id_name type="varchar" >_BOOKINGS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_BOOKING_VALID</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_BOOKVALID</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_BOOK_ISVALID</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_BOOK_TXT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >用頁尾部足標表格分享你的意見. 多謝你的提供.</txt_label></row>
+<row><id_name type="varchar" >_BORRAR</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >刪除</txt_label></row>
+<row><id_name type="varchar" >_BUGGET</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >預算支出金額 &quot;._CURRENCY.&quot;</txt_label></row>
+<row><id_name type="varchar" >_BUSY</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >煩忙</txt_label></row>
+<row><id_name type="varchar" >_BUSYBOOKING</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_BUYERS_ACCOUNTS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >搜尋買家</txt_label></row>
+<row><id_name type="varchar" >_BUY_GUIDE</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >購物指南</txt_label></row>
+<row><id_name type="varchar" >_CALC</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >計算</txt_label></row>
+<row><id_name type="varchar" >_CALC_INM</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >按揭貸款計算</txt_label></row>
+<row><id_name type="varchar" >_CALC_LOAN_PAYMENTS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >按揭貸款付賬計算</txt_label></row>
+<row><id_name type="varchar" >_CALENDAR</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >日常事務</txt_label></row>
+<row><id_name type="varchar" >_CAPTCHA</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_CATALOG</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >目錄</txt_label></row>
+<row><id_name type="varchar" >_CHANGE_PASS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >更改密碼</txt_label></row>
+<row><id_name type="varchar" >_CHARSET</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >UTF-8</txt_label></row>
+<row><id_name type="varchar" >_CMT_CSSFILE</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >層疊樣式表</txt_label></row>
+<row><id_name type="varchar" >_CMT_IMAG</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >圖像及閃客檔案處理程式</txt_label></row>
+<row><id_name type="varchar" >_CMT_XMLNAV</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >XML 檔案用於規定各頁的佈局.</txt_label></row>
+<row><id_name type="varchar" >_CMT_XMLOUTPUT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >應用程式產生出來的檔案,用作輸入 XSL 轉變檔案</txt_label></row>
+<row><id_name type="varchar" >_CMT_XMLPRT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >XML 檔案用於規定各列印頁的佈局.</txt_label></row>
+<row><id_name type="varchar" >_CMT_XSLFILE</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >XSL 轉變檔案 - 輸入應XML用程式的輸出檔案 .</txt_label></row>
+<row><id_name type="varchar" >_CMT_XSLPRT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >XSL 轉變檔案. 用於輸入XML應用程式的輸出檔案.</txt_label></row>
+<row><id_name type="varchar" >_COD</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_COD_CATEGORY</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >目錄編碼</txt_label></row>
+<row><id_name type="varchar" >_COD_LANG</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >語文</txt_label></row>
+<row><id_name type="varchar" >_COD_PRODUCT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >產品編碼</txt_label></row>
+<row><id_name type="varchar" >_COMDAD_NAME</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_COMO</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >我會見你...</txt_label></row>
+<row><id_name type="varchar" >_COM_APER</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >設定傭金</txt_label></row>
+<row><id_name type="varchar" >_CONFIRM</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >驗證登記</txt_label></row>
+<row><id_name type="varchar" >_CONNECTED_AS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >登錄</txt_label></row>
+<row><id_name type="varchar" >_CONTACTAR</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >接洽</txt_label></row>
+<row><id_name type="varchar" >_CONTACTS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_CONTENTS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >內容</txt_label></row>
+<row><id_name type="varchar" >_CPASS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >密碼</txt_label></row>
+<row><id_name type="varchar" >_CSSCONFIG</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >CSS 檔案</txt_label></row>
+<row><id_name type="varchar" >_CSSFILE</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >CSS 檔案</txt_label></row>
+<row><id_name type="varchar" >_CSS_DELETED</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >已刪去CSS檔案</txt_label></row>
+<row><id_name type="varchar" >_CTG</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >目錄</txt_label></row>
+<row><id_name type="varchar" >_CTGS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >家庭</txt_label></row>
+<row><id_name type="varchar" >_CTG_BELONGS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >所屬家庭</txt_label></row>
+<row><id_name type="varchar" >_CTG_HAS_PROD</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >目錄內有產品,先刪去 產品</txt_label></row>
+<row><id_name type="varchar" >_CTG_NO_EXIST</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >不存在任何家庭</txt_label></row>
+<row><id_name type="varchar" >_CTG_NO_NAME</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >目錄是強制性必須提供的</txt_label></row>
+<row><id_name type="varchar" >_CURRENT_PASS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >目前使用的密碼</txt_label></row>
+<row><id_name type="varchar" >_CUSTOMER</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >賬戶</txt_label></row>
+<row><id_name type="varchar" >_CUSTZONE</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >客戶區</txt_label></row>
+<row><id_name type="varchar" >_DATE</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >日期</txt_label></row>
+<row><id_name type="varchar" >_DATEMP</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >機構資料</txt_label></row>
+<row><id_name type="varchar" >_DATETIME_SQL</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >'%d/%m/%Y - %H:%i'</txt_label></row>
+<row><id_name type="varchar" >_DATE_FORMAT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >d/m/Y</txt_label></row>
+<row><id_name type="varchar" >_DATE_FT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >日期</txt_label></row>
+<row><id_name type="varchar" >_DATE_SQL</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >'%d/%m/%Y'</txt_label></row>
+<row><id_name type="varchar" >_DATOS_PERS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >個人資料</txt_label></row>
+<row><id_name type="varchar" >_DATPERS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >個人資料</txt_label></row>
+<row><id_name type="varchar" >_DAY</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >日</txt_label></row>
+<row><id_name type="varchar" >_DEACTIVE_ALL</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_DECEMBER</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >十二月</txt_label></row>
+<row><id_name type="varchar" >_DEC_POINT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >.</txt_label></row>
+<row><id_name type="varchar" >_DELETE</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >刪除</txt_label></row>
+<row><id_name type="varchar" >_DELETED</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >已成功刪除</txt_label></row>
+<row><id_name type="varchar" >_DEPT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >部門</txt_label></row>
+<row><id_name type="varchar" >_DEPTS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >部門</txt_label></row>
+<row><id_name type="varchar" >_DESC_CATEGORY</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >說明</txt_label></row>
+<row><id_name type="varchar" >_DESC_PROD</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >說明</txt_label></row>
+<row><id_name type="varchar" >_DO_CALC</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >按揭貸款計算</txt_label></row>
+<row><id_name type="varchar" >_DTL</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_DTL_ACCOUNT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >賬戶資料</txt_label></row>
+<row><id_name type="varchar" >_DTL_ACCPERFIL</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >買家簡介資料</txt_label></row>
+<row><id_name type="varchar" >_DTL_PROP</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >物業資料</txt_label></row>
+<row><id_name type="varchar" >_DT_CREATE</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >創建日期</txt_label></row>
+<row><id_name type="varchar" >_DT_END</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >結束日期</txt_label></row>
+<row><id_name type="varchar" >_DT_SENT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >送出日期</txt_label></row>
+<row><id_name type="varchar" >_DT_START</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >開始日期</txt_label></row>
+<row><id_name type="varchar" >_DT_VAL</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >過期日子</txt_label></row>
+<row><id_name type="varchar" >_DT_VALID</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >有效</txt_label></row>
+<row><id_name type="varchar" >_EDIT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >編改</txt_label></row>
+<row><id_name type="varchar" >_EDTACC</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >賬戶</txt_label></row>
+<row><id_name type="varchar" >_EDTCOMDAD</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDTCONTACT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDTCOUNTRY</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDTCTG</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >產品目錄</txt_label></row>
+<row><id_name type="varchar" >_EDTGAL</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >畫廊</txt_label></row>
+<row><id_name type="varchar" >_EDTHIMMO</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >假日寓所物業</txt_label></row>
+<row><id_name type="varchar" >_EDTHTML</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >編改頁</txt_label></row>
+<row><id_name type="varchar" >_EDTIMMO</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >物業</txt_label></row>
+<row><id_name type="varchar" >_EDTIMMOGAL</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >物業圖像</txt_label></row>
+<row><id_name type="varchar" >_EDTLABEL</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDTLST</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >價值</txt_label></row>
+<row><id_name type="varchar" >_EDTMAILING</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >郵件詳述</txt_label></row>
+<row><id_name type="varchar" >_EDTMSG</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDTORG</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >部門</txt_label></row>
+<row><id_name type="varchar" >_EDTPERFIL</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >買家簡介</txt_label></row>
+<row><id_name type="varchar" >_EDTPERM</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >簡介</txt_label></row>
+<row><id_name type="varchar" >_EDTPOB</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDTPOSITION</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >雇員詳細資料</txt_label></row>
+<row><id_name type="varchar" >_EDTPRD</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >產品</txt_label></row>
+<row><id_name type="varchar" >_EDTPRDGAL</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >物業圖像</txt_label></row>
+<row><id_name type="varchar" >_EDTPREF</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDTPRICELST</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >編改價格表</txt_label></row>
+<row><id_name type="varchar" >_EDTPRICEPRD</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >編改價格</txt_label></row>
+<row><id_name type="varchar" >_EDTPROV</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDTSCR</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >Screen</txt_label></row>
+<row><id_name type="varchar" >_EDTSDAY</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >日子及價格</txt_label></row>
+<row><id_name type="varchar" >_EDTSEASON</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >季節詳情</txt_label></row>
+<row><id_name type="varchar" >_EDTTICKET</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >編改票據</txt_label></row>
+<row><id_name type="varchar" >_EDTTKCTG</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDTTKEMAIL</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDTUSER</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >用戶</txt_label></row>
+<row><id_name type="varchar" >_EDTVIEW</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >View</txt_label></row>
+<row><id_name type="varchar" >_EDT_ACCOUNT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >編改賬戶</txt_label></row>
+<row><id_name type="varchar" >_EDT_CONTACT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_EDT_CTG</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >編改家庭</txt_label></row>
+<row><id_name type="varchar" >_EDT_DEPT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >編改部門</txt_label></row>
+<row><id_name type="varchar" >_EDT_EMPL</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >編改雇員資料</txt_label></row>
+<row><id_name type="varchar" >_EDT_GAL</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >編改圖庫</txt_label></row>
+<row><id_name type="varchar" >_EDT_IMMO</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >編改物業</txt_label></row>
+<row><id_name type="varchar" >_EDT_MAILING</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >編改郵件</txt_label></row>
+<row><id_name type="varchar" >_EDT_NEW</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >編改新聞</txt_label></row>
+<row><id_name type="varchar" >_EDT_PERM</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >編改角式 / 簡介</txt_label></row>
+<row><id_name type="varchar" >_EDT_PROD</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >編改產品</txt_label></row>
+<row><id_name type="varchar" >_EDT_SCR</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >編改Screen</txt_label></row>
+<row><id_name type="varchar" >_EDT_USER</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >編改用戶</txt_label></row>
+<row><id_name type="varchar" >_EDT_VAL</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >編改價值</txt_label></row>
+<row><id_name type="varchar" >_EDT_VIEW</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >編改View</txt_label></row>
+<row><id_name type="varchar" >_EMPL</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >雇員</txt_label></row>
+<row><id_name type="varchar" >_EMPLES</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_ENVIAR</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >發送</txt_label></row>
+<row><id_name type="varchar" >_EQUIP_LIST</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >假日租賃器材用品標籤列表</txt_label></row>
+<row><id_name type="varchar" >_ERROR_CAPTCHA</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >檢查字詞驗證</txt_label></row>
+<row><id_name type="varchar" >_ERROR_CHECK_PSW</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >密碼錯誤</txt_label></row>
+<row><id_name type="varchar" >_ERROR_CONTENT_MAILING</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >內容是強制性必須提供的</txt_label></row>
+<row><id_name type="varchar" >_ERROR_CURRENT_PSW</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >目前密碼是錯誤的</txt_label></row>
+<row><id_name type="varchar" >_ERROR_DATS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >取存資料錯誤</txt_label></row>
+<row><id_name type="varchar" >_ERROR_DELETE</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >刪除過程中出錯</txt_label></row>
+<row><id_name type="varchar" >_ERROR_DIR_GAL</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >創建圖庫目錄過程中出錯</txt_label></row>
+<row><id_name type="varchar" >_ERROR_EMAIL_USER</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >郵電是強制性必須提供的</txt_label></row>
+<row><id_name type="varchar" >_ERROR_ES_IN</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >你必須輸入西班牙的值</txt_label></row>
+<row><id_name type="varchar" >_ERROR_IN</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >錯誤了</txt_label></row>
+<row><id_name type="varchar" >_ERROR_INSERT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >加插資料過程中出錯</txt_label></row>
+<row><id_name type="varchar" >_ERROR_LAST_USER</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >你是不容許刪除組織內最後一位用戶的</txt_label></row>
+<row><id_name type="varchar" >_ERROR_NAME_MAILING</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >郵件名稱是強制性必須提供的</txt_label></row>
+<row><id_name type="varchar" >_ERROR_NAME_USER</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >完整名稱是強制性必須提供的</txt_label></row>
+<row><id_name type="varchar" >_ERROR_NM</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >你必須輸入名稱</txt_label></row>
+<row><id_name type="varchar" >_ERROR_NM_PROFILE</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >名稱必須最少是六個字</txt_label></row>
+<row><id_name type="varchar" >_ERROR_NOPOB</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >找不到任何城市</txt_label></row>
+<row><id_name type="varchar" >_ERROR_NUM_DOM</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >房間數目是強制性必須提供的</txt_label></row>
+<row><id_name type="varchar" >_ERROR_NUM_PARKING</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >輸入停車位數量</txt_label></row>
+<row><id_name type="varchar" >_ERROR_NUM_WC</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >沐浴室數目是強制性必須提供的</txt_label></row>
+<row><id_name type="varchar" >_ERROR_OBSRV</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >你必須輸入說明</txt_label></row>
+<row><id_name type="varchar" >_ERROR_OPEN_DIR</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >打不開目錄夾,</txt_label></row>
+<row><id_name type="varchar" >_ERROR_OPEN_FILE</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >開啟檔案有錯誤</txt_label></row>
+<row><id_name type="varchar" >_ERROR_PASSUSR_NULL</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >用戶名稱和密碼可以是空白的或兩者皆有值</txt_label></row>
+<row><id_name type="varchar" >_ERROR_PROCESS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >處理出現錯誤</txt_label></row>
+<row><id_name type="varchar" >_ERROR_PSW_ERROR</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >密碼錯誤 ! 在兩空白欄位內重新輸入密碼</txt_label></row>
+<row><id_name type="varchar" >_ERROR_PSW_NOSTR</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >密碼只可用英文字母</txt_label></row>
+<row><id_name type="varchar" >_ERROR_PSW_SHORT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >密碼長度最少要六個字</txt_label></row>
+<row><id_name type="varchar" >_ERROR_PSW_USERNAME</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >密碼和用戶名稱不可以一致</txt_label></row>
+<row><id_name type="varchar" >_ERROR_SUBJ_MAILING</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >主題是強制性必須提供的</txt_label></row>
+<row><id_name type="varchar" >_ERROR_SUPERF</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >土地面績 平米 或 零</txt_label></row>
+<row><id_name type="varchar" >_ERROR_SUPERF_CONST</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >面績 平米 或 零</txt_label></row>
+<row><id_name type="varchar" >_ERROR_SUPERT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >輸入陽臺面績或 '0' ,如果沒有陽臺</txt_label></row>
+<row><id_name type="varchar" >_ERROR_TELF1_USER</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >電話號碼是強制性必須提供的</txt_label></row>
+<row><id_name type="varchar" >_ERROR_TXT_CONTENT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >你必須輸入訊息.</txt_label></row>
+<row><id_name type="varchar" >_ERROR_UPDATE</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >更新過程中出錯</txt_label></row>
+<row><id_name type="varchar" >_ERROR_USNAME_EXIST</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >用戶名稱己存在 ! 請另外再選其它用戶名稱.</txt_label></row>
+<row><id_name type="varchar" >_ERROR_USRNAME_EXISTS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >用戶名稱已存在 !</txt_label></row>
+<row><id_name type="varchar" >_ERROR_USRNAME_NOSTR</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >用戶名稱只可用英文字母</txt_label></row>
+<row><id_name type="varchar" >_ERROR_USRNAME_SHORT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >使用者戶名稱長度最少要六個字</txt_label></row>
+<row><id_name type="varchar" >_ER_SELET_TBL</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >選擇資料表有錯誤</txt_label></row>
+<row><id_name type="varchar" >_FDAY</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >F</txt_label></row>
+<row><id_name type="varchar" >_FEBRUARY</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >二月</txt_label></row>
+<row><id_name type="varchar" >_FECHA_FT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >日期</txt_label></row>
+<row><id_name type="varchar" >_FG_HIDDEN</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_FG_PRIVATE</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_FIND</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >搜尋</txt_label></row>
+<row><id_name type="varchar" >_FIND_BY_CITIES</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >用城市名稱搜索</txt_label></row>
+<row><id_name type="varchar" >_FIND_BY_CRITERIA</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >標準搜索</txt_label></row>
+<row><id_name type="varchar" >_FIND_BY_TPPROP</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >用物業類型搜索</txt_label></row>
+<row><id_name type="varchar" >_FINPAGINA</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" ></txt_label></row>
+<row><id_name type="varchar" >_FOLDER</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >文件夾</txt_label></row>
+<row><id_name type="varchar" >_FOUND</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >找尋到</txt_label></row>
+<row><id_name type="varchar" >_FRIDAY</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >星期五</txt_label></row>
+<row><id_name type="varchar" >_FRONT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >首頁</txt_label></row>
+<row><id_name type="varchar" >_FULL_NAME</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >完整名稱</txt_label></row>
+<row><id_name type="varchar" >_GALLERIES</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >圖像圖庫</txt_label></row>
+<row><id_name type="varchar" >_GALLERY</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >圖庫</txt_label></row>
+<row><id_name type="varchar" >_GALS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >圖庫</txt_label></row>
+<row><id_name type="varchar" >_GAL_LST</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >圖庫清單</txt_label></row>
+<row><id_name type="varchar" >_GAST_GEST</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >代理支出, 公證行費用, 登記費用.&lt;br/&gt;(由經理人而定) 最低:</txt_label></row>
+<row><id_name type="varchar" >_GENERAL_LAYOUT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >主佈局頁</txt_label></row>
+<row><id_name type="varchar" >_GEN_LANG</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >安裝的語文已經改變</txt_label></row>
+<row><id_name type="varchar" >_GESTLANGS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >語文工具</txt_label></row>
+<row><id_name type="varchar" >_GST_COMPRA</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >購買物業開支</txt_label></row>
+<row><id_name type="varchar" >_GST_HIPOT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >按揭貸款開支</txt_label></row>
+<row><id_name type="varchar" >_GUIA</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >指南</txt_label></row>
+<row><id_name type="varchar" >_HELP</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >說明</txt_label></row>
+<row><id_name type="varchar" >_HOME</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >首頁</txt_label></row>
+<row><id_name type="varchar" >_HOMEPG</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >主頁</txt_label></row>
+<row><id_name type="varchar" >_HOUR</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >時間</txt_label></row>
+<row><id_name type="varchar" >_IDIOMA</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >zh-tw</txt_label></row>
+<row><id_name type="varchar" >_ID_CATEGORY</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >目錄標記</txt_label></row>
+<row><id_name type="varchar" >_ID_POSITION</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >指派給</txt_label></row>
+<row><id_name type="varchar" >_ID_TICKET</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >票據標籤</txt_label></row>
+<row><id_name type="varchar" >_IMAG</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >圖像及閃支客檔案</txt_label></row>
+<row><id_name type="varchar" >_IMG</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >圖像</txt_label></row>
+<row><id_name type="varchar" >_IMGCONFIG</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >標籤圖像</txt_label></row>
+<row><id_name type="varchar" >_IMGHOME</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >head.jpg</txt_label></row>
+<row><id_name type="varchar" >_IMGS_NOT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >新的圖像</txt_label></row>
+<row><id_name type="varchar" >_IMG_FILE_ERROR</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >錯誤的格式 (重音符號, 空白, 等等...)  或大於</txt_label></row>
+<row><id_name type="varchar" >_IMG_FRONT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >首頁圖像</txt_label></row>
+<row><id_name type="varchar" >_IMG_INT_1</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >內含圖像 1</txt_label></row>
+<row><id_name type="varchar" >_IMG_INT_2</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >內含圖像 2</txt_label></row>
+<row><id_name type="varchar" >_IMG_INT_3</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >內含圖像 3</txt_label></row>
+<row><id_name type="varchar" >_IMG_PORT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >主題圖像</txt_label></row>
+<row><id_name type="varchar" >_IMMO</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >物業資料</txt_label></row>
+<row><id_name type="varchar" >_IMMOS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >物業</txt_label></row>
+<row><id_name type="varchar" >_IMP_ACTOS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >稅務交易法定文件:</txt_label></row>
+<row><id_name type="varchar" >_IMP_COMPRA</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >Tax Patrimonial Transmissions 或 加值稅</txt_label></row>
+<row><id_name type="varchar" >_IMP_ENTR</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >給出總額</txt_label></row>
+<row><id_name type="varchar" >_IMP_SOL</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >按揭貸款賬戶</txt_label></row>
+<row><id_name type="varchar" >_IND_ACTIVE</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >活躍</txt_label></row>
+<row><id_name type="varchar" >_IND_MAILING</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >郵件</txt_label></row>
+<row><id_name type="varchar" >_IND_OFERTA</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >提供</txt_label></row>
+<row><id_name type="varchar" >_IND_PISCINA</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >泳池</txt_label></row>
+<row><id_name type="varchar" >_INFOLEGAL</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >法律資料</txt_label></row>
+<row><id_name type="varchar" >_INSERTED</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >加插資料成功</txt_label></row>
+<row><id_name type="varchar" >_INSIDE</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >內含</txt_label></row>
+<row><id_name type="varchar" >_INTROS_LIST</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >介紹標籤列表</txt_label></row>
+<row><id_name type="varchar" >_INT_BANC</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >銀行利率</txt_label></row>
+<row><id_name type="varchar" >_INT_CAPACITY</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >Capacity Pers</txt_label></row>
+<row><id_name type="varchar" >_INT_PERS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_INT_SUPERFICIE</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >平米土地 </txt_label></row>
+<row><id_name type="varchar" >_INT_SUPERFICIE_CONST</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >面績 平米</txt_label></row>
+<row><id_name type="varchar" >_INT_TERRACE</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >平米陽臺</txt_label></row>
+<row><id_name type="varchar" >_IN_NAME_ACCOUNT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >賬戶名稱是強制性必須提供的</txt_label></row>
+<row><id_name type="varchar" >_IN_NAME_GAL</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >圖庫名稱是強制性必須提供的</txt_label></row>
+<row><id_name type="varchar" >_IN_NAME_IMMO</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >參考是強制性必須提供的</txt_label></row>
+<row><id_name type="varchar" >_IN_NAME_ORG</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_IN_NOT_RESUM</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >摘要是強制性必須提供的</txt_label></row>
+<row><id_name type="varchar" >_IN_NOT_TITLE</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >標題是強制性必須提供的</txt_label></row>
+<row><id_name type="varchar" >_IN_POB_IMMO</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >你必須選擇一城市. 如沒有列出,請接洽管理員</txt_label></row>
+<row><id_name type="varchar" >_IN_POB_ORG</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >你必須選擇一城市</txt_label></row>
+<row><id_name type="varchar" >_IN_SUBJECT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >輸入主題</txt_label></row>
+<row><id_name type="varchar" >_JANUARY</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >一月</txt_label></row>
+<row><id_name type="varchar" >_JULY</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >July</txt_label></row>
+<row><id_name type="varchar" >_JUNE</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >六月</txt_label></row>
+<row><id_name type="varchar" >_KEYWORDS_ADM</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_LABELS_LIST</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >節目標籤列表</txt_label></row>
+<row><id_name type="varchar" >_LANGS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >語文</txt_label></row>
+<row><id_name type="varchar" >_LANGUAGE</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >語文</txt_label></row>
+<row><id_name type="varchar" >_LATTITUD</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_LBL_SEASONS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >季節</txt_label></row>
+<row><id_name type="varchar" >_LOGIN_FAILED</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >無效的使用者名稱或密碼</txt_label></row>
+<row><id_name type="varchar" >_LOGIN_NOW</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >進入</txt_label></row>
+<row><id_name type="varchar" >_LOGOUT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >登出</txt_label></row>
+<row><id_name type="varchar" >_LONGITUD</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_LOVS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_LSTMAILING</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >收郵件客戶列表</txt_label></row>
+<row><id_name type="varchar" >_LSTUSER</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >用戶清單</txt_label></row>
+<row><id_name type="varchar" >_M2</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >M2</txt_label></row>
+<row><id_name type="varchar" >_M2_TERRACE</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >平米陽臺</txt_label></row>
+<row><id_name type="varchar" >_M2_TERRENO</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >平米土地</txt_label></row>
+<row><id_name type="varchar" >_MAILING</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >郵件活動</txt_label></row>
+<row><id_name type="varchar" >_MAIL_BKVALID</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_MAIL_BKVALID_TXT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_MAIL_CONFIRM</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >你會收到我們發出的郵電用於驗證你的登記.</txt_label></row>
+<row><id_name type="varchar" >_MAIL_FORMAT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >郵電檔案格式有錯誤</txt_label></row>
+<row><id_name type="varchar" >_MAIL_HRECEV</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >我們己收到你的要求</txt_label></row>
+<row><id_name type="varchar" >_MAIL_NMSG</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >我們會很快處理你的要求</txt_label></row>
+<row><id_name type="varchar" >_MAIL_NOTI</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >收到確認通知</txt_label></row>
+<row><id_name type="varchar" >_MAIL_REM</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >登入資料</txt_label></row>
+<row><id_name type="varchar" >_MAIL_REM_TXT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >你好, 
+
+你登錄的資料是 :</txt_label></row>
+<row><id_name type="varchar" >_MAIL_SUBS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >登記資料</txt_label></row>
+<row><id_name type="varchar" >_MAIL_SUBS_TXT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >你好, 
+
+用給出的網址驗證你的登記  :
+
+</txt_label></row>
+<row><id_name type="varchar" >_MAIN_IMG</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >主題圖像</txt_label></row>
+<row><id_name type="varchar" >_MANDATORY</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_MAPINIT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_MARCH</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >三月</txt_label></row>
+<row><id_name type="varchar" >_MAY</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >五月</txt_label></row>
+<row><id_name type="varchar" >_MDAY</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >M</txt_label></row>
+<row><id_name type="varchar" >_MKT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >郵件</txt_label></row>
+<row><id_name type="varchar" >_MNU_ADM</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >選單</txt_label></row>
+<row><id_name type="varchar" >_MONDAY</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >星期一</txt_label></row>
+<row><id_name type="varchar" >_MONTH</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >月</txt_label></row>
+<row><id_name type="varchar" >_MSG</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >訊息</txt_label></row>
+<row><id_name type="varchar" >_MY_ACCOUNTS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >我的賬戶</txt_label></row>
+<row><id_name type="varchar" >_MY_IMMOS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >我的物業</txt_label></row>
+<row><id_name type="varchar" >_MY_NEWS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >我的新聞</txt_label></row>
+<row><id_name type="varchar" >_MY_PROFILE</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >我的概況</txt_label></row>
+<row><id_name type="varchar" >_MY_TICKETS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >我的票據</txt_label></row>
+<row><id_name type="varchar" >_MY_TK_STATS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_NAME</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_NAME_ACCOUNT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >賬戶名稱</txt_label></row>
+<row><id_name type="varchar" >_NAME_CATEGORY</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >目錄</txt_label></row>
+<row><id_name type="varchar" >_NAME_GAL</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >圖庫名稱</txt_label></row>
+<row><id_name type="varchar" >_NAME_MAILING</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >郵件名稱</txt_label></row>
+<row><id_name type="varchar" >_NAME_ORG</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >辦公室</txt_label></row>
+<row><id_name type="varchar" >_NAME_POB</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >城市</txt_label></row>
+<row><id_name type="varchar" >_NAME_POSITION</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >職位</txt_label></row>
+<row><id_name type="varchar" >_NAME_PRICE_LST</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >列表名稱</txt_label></row>
+<row><id_name type="varchar" >_NAME_PRODUCT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >產品名稱</txt_label></row>
+<row><id_name type="varchar" >_NAME_SEASONS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >季節名稱</txt_label></row>
+<row><id_name type="varchar" >_NAME_USER</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >雇員  / 用戶名稱</txt_label></row>
+<row><id_name type="varchar" >_NESPECIAL</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >我們特別推荐</txt_label></row>
+<row><id_name type="varchar" >_NEW</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >新</txt_label></row>
+<row><id_name type="varchar" >_NEWS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >新聞</txt_label></row>
+<row><id_name type="varchar" >_NEWSLST</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >新聞列表</txt_label></row>
+<row><id_name type="varchar" >_NEWS_EVENTS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >新聞和活動</txt_label></row>
+<row><id_name type="varchar" >_NEWUSER</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >新用戶</txt_label></row>
+<row><id_name type="varchar" >_NEW_PASSWORD</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >新密碼</txt_label></row>
+<row><id_name type="varchar" >_NEW_POS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >在首頁</txt_label></row>
+<row><id_name type="varchar" >_NEW_PROP</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >全新物業</txt_label></row>
+<row><id_name type="varchar" >_NEW_RESUM</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >簡報</txt_label></row>
+<row><id_name type="varchar" >_NEW_TITLE</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >標題</txt_label></row>
+<row><id_name type="varchar" >_NEW_TXT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >文字</txt_label></row>
+<row><id_name type="varchar" >_NEXT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >下一筆</txt_label></row>
+<row><id_name type="varchar" >_NM_CONTACT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_NM_PROFILE</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >名稱</txt_label></row>
+<row><id_name type="varchar" >_NM_SCREEN</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >Screen</txt_label></row>
+<row><id_name type="varchar" >_NM_TK_CTG</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_NM_VIEW</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >View</txt_label></row>
+<row><id_name type="varchar" >_NOREGUSERS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >收郵件者清單中沒有登記賬戶</txt_label></row>
+<row><id_name type="varchar" >_NOSELECTED</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >未選中</txt_label></row>
+<row><id_name type="varchar" >_NOTFOUND</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_NOTI</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >新聞</txt_label></row>
+<row><id_name type="varchar" >_NOTICIA</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >看新聞</txt_label></row>
+<row><id_name type="varchar" >_NOVED</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >最新物業</txt_label></row>
+<row><id_name type="varchar" >_NOVED_TXT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >最新物業 ....</txt_label></row>
+<row><id_name type="varchar" >_NOVEMBER</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >十一月</txt_label></row>
+<row><id_name type="varchar" >_NO_ACCOUNT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >找不到賬戶</txt_label></row>
+<row><id_name type="varchar" >_NO_AV_LG</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >目前的語文不包含這頁內容 </txt_label></row>
+<row><id_name type="varchar" >_NO_COD</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >編碼是強制性必須提供的</txt_label></row>
+<row><id_name type="varchar" >_NO_CONTACT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_NO_CTG</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >找不到任何目錄</txt_label></row>
+<row><id_name type="varchar" >_NO_EMPL</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >找不到任何雇員</txt_label></row>
+<row><id_name type="varchar" >_NO_GALS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >找不到任何圖庫</txt_label></row>
+<row><id_name type="varchar" >_NO_IMG_FRONT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >圖庫沒有主題圖像.你必須選擇一主題圖像,才可發行你的提供內容.</txt_label></row>
+<row><id_name type="varchar" >_NO_IMG_INT_1</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >沒有內含圖像 1</txt_label></row>
+<row><id_name type="varchar" >_NO_IMG_INT_2</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >沒有內含圖像 2</txt_label></row>
+<row><id_name type="varchar" >_NO_IMG_INT_3</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >沒有內含圖像 3</txt_label></row>
+<row><id_name type="varchar" >_NO_IMG_PORT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >沒有主題圖像</txt_label></row>
+<row><id_name type="varchar" >_NO_IMMO</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >找不到物業</txt_label></row>
+<row><id_name type="varchar" >_NO_MAILING</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >找不到郵件</txt_label></row>
+<row><id_name type="varchar" >_NO_MEMBERS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >你的群組沒有任何成員</txt_label></row>
+<row><id_name type="varchar" >_NO_NOTS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >沒有新聞</txt_label></row>
+<row><id_name type="varchar" >_NO_ORGS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >找不到任何群組</txt_label></row>
+<row><id_name type="varchar" >_NO_PRICE_LST</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >沒有價格表</txt_label></row>
+<row><id_name type="varchar" >_NO_PROD</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >找不到任何產品</txt_label></row>
+<row><id_name type="varchar" >_NO_PSTS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >沒有職位</txt_label></row>
+<row><id_name type="varchar" >_NO_SEASONS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >無季節性</txt_label></row>
+<row><id_name type="varchar" >_NO_TICKET</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >找不到票據</txt_label></row>
+<row><id_name type="varchar" >_NUMORDER</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >順序</txt_label></row>
+<row><id_name type="varchar" >_NUM_DORMITORIO</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >睡房</txt_label></row>
+<row><id_name type="varchar" >_NUM_DORMITORIOS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >睡房</txt_label></row>
+<row><id_name type="varchar" >_NUM_HITS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >己閱讀頁數</txt_label></row>
+<row><id_name type="varchar" >_NUM_ORDER</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >顯示定單</txt_label></row>
+<row><id_name type="varchar" >_NUM_PARKING</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >停車間</txt_label></row>
+<row><id_name type="varchar" >_NUM_PARKINGS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >停車位</txt_label></row>
+<row><id_name type="varchar" >_NUM_ROBOTS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >搜索器</txt_label></row>
+<row><id_name type="varchar" >_NUM_SENT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >送出次數</txt_label></row>
+<row><id_name type="varchar" >_NUM_VISITS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >訪問</txt_label></row>
+<row><id_name type="varchar" >_NUM_WC</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >沐浴室</txt_label></row>
+<row><id_name type="varchar" >_NUM_WCS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >沐浴室</txt_label></row>
+<row><id_name type="varchar" >_OBSERV_LIST</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >假日租賃備忘標籤列表</txt_label></row>
+<row><id_name type="varchar" >_OCTOBER</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >十月</txt_label></row>
+<row><id_name type="varchar" >_OF</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >於</txt_label></row>
+<row><id_name type="varchar" >_OFICINAS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >辦公室</txt_label></row>
+<row><id_name type="varchar" >_ONLOAD</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_OPINION</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >分享你的意見</txt_label></row>
+<row><id_name type="varchar" >_OPTIONAL</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >(備用)</txt_label></row>
+<row><id_name type="varchar" >_ORDER</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >順序</txt_label></row>
+<row><id_name type="varchar" >_ORDERBY</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >順序</txt_label></row>
+<row><id_name type="varchar" >_ORG</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >組織</txt_label></row>
+<row><id_name type="varchar" >_ORG_HAS_SUBORG</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >部門中擁有次部門, 請先刪去次部門</txt_label></row>
+<row><id_name type="varchar" >_ORG_LST</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >組織架構</txt_label></row>
+<row><id_name type="varchar" >_OUTAPP</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >應用程式輸出</txt_label></row>
+<row><id_name type="varchar" >_PAGE</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >頁</txt_label></row>
+<row><id_name type="varchar" >_PAGO_MEN</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >每月還款</txt_label></row>
+<row><id_name type="varchar" >_PAGS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >頁</txt_label></row>
+<row><id_name type="varchar" >_PARAMS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >參數</txt_label></row>
+<row><id_name type="varchar" >_PARENTCTG_DCHILDREN</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >目錄擁有次目錄, 請先刪去次目錄</txt_label></row>
+<row><id_name type="varchar" >_PASSWORD</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >密碼</txt_label></row>
+<row><id_name type="varchar" >_PATH_IMAGE</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >圖像</txt_label></row>
+<row><id_name type="varchar" >_PERMS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >角式</txt_label></row>
+<row><id_name type="varchar" >_PERMS_HAS_SCR</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >Profile has screens assigned.</txt_label></row>
+<row><id_name type="varchar" >_PICTURES</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >圖像</txt_label></row>
+<row><id_name type="varchar" >_PIEPAGINA</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >Powered by &lt;a href=&quot;http://reos.elazos.com&quot;&gt;ReOS &quot;._VERSION.&quot;&lt;/a&gt; and released under the &lt;a href=&quot;http://www.fsf.org/licensing/licenses/agpl-3.0.html&quot;&gt;GNU/AGPLv3 License.&lt;/a&gt;</txt_label></row>
+<row><id_name type="varchar" >_PLEASE_LOGIN</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >輸入你的使用者名稱和密碼</txt_label></row>
+<row><id_name type="varchar" >_POBLACIONES</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >使用中的城市</txt_label></row>
+<row><id_name type="varchar" >_POBS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >用城市名搜索</txt_label></row>
+<row><id_name type="varchar" >_POPHOST</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_POPPASS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_POPUSER</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_POSITION</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >職位</txt_label></row>
+<row><id_name type="varchar" >_POS_IMG_PORT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >首頁位置</txt_label></row>
+<row><id_name type="varchar" >_PRECIO</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >價格</txt_label></row>
+<row><id_name type="varchar" >_PRECIO_ALQUILER</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >出租價格 &quot;._CURRENCY.&quot;</txt_label></row>
+<row><id_name type="varchar" >_PRECIO_COMPRA</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >出售價格 &quot;._CURRENCY.&quot;</txt_label></row>
+<row><id_name type="varchar" >_PREFERE</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >喜好</txt_label></row>
+<row><id_name type="varchar" >_PREF_POBS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >喜好的城市</txt_label></row>
+<row><id_name type="varchar" >_PREVIOUS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >前一筆</txt_label></row>
+<row><id_name type="varchar" >_PRE_VIVIE</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >物業價格</txt_label></row>
+<row><id_name type="varchar" >_PRICE_FROM</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >起始價格</txt_label></row>
+<row><id_name type="varchar" >_PRICE_MAX</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >最高價格 &quot;._CURRENCY.&quot;</txt_label></row>
+<row><id_name type="varchar" >_PRICE_MIN</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >最低價格 &quot;._CURRENCY.&quot;</txt_label></row>
+<row><id_name type="varchar" >_PRIORITY</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_PROCESS_OK</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >成功處理</txt_label></row>
+<row><id_name type="varchar" >_PRODS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >產品</txt_label></row>
+<row><id_name type="varchar" >_PROFS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >角式 / 簡介</txt_label></row>
+<row><id_name type="varchar" >_PROP_ACCOUNT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >賬戶的物業</txt_label></row>
+<row><id_name type="varchar" >_PROV_NAME</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >省份</txt_label></row>
+<row><id_name type="varchar" >_PRT_LAYOUT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >列印佈局頁</txt_label></row>
+<row><id_name type="varchar" >_PST_ELEMTS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >職位欄已有了內容. 請先刪去內容</txt_label></row>
+<row><id_name type="varchar" >_PUBLI_YOUR</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >發佈你的物業</txt_label></row>
+<row><id_name type="varchar" >_READMORE</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >閱讀更多 ...</txt_label></row>
+<row><id_name type="varchar" >_RECOM</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >推荐</txt_label></row>
+<row><id_name type="varchar" >_REFERERS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >推薦人</txt_label></row>
+<row><id_name type="varchar" >_REF_IMMO</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >參考</txt_label></row>
+<row><id_name type="varchar" >_REF_TICKET</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_REGS_TXT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >為了避免他用許戶以你的名義登記,你將會收到我們發出的郵電用作確認登記.儘管你在客戶區登記填表程交. 你的郵電將成為你的用戶名稱.</txt_label></row>
+<row><id_name type="varchar" >_REGUSERS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >把登記賬戶加入收郵件者清單</txt_label></row>
+<row><id_name type="varchar" >_REM_CONFIRM</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >查看你的郵電.</txt_label></row>
+<row><id_name type="varchar" >_REM_TXT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >我們將會寄出你登錄資料到你的郵電.</txt_label></row>
+<row><id_name type="varchar" >_REM_USR</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >遺失了密碼嗎?</txt_label></row>
+<row><id_name type="varchar" >_RESERVATION</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_RESERV_CONFIRM</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_RESTORE</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >還原備份</txt_label></row>
+<row><id_name type="varchar" >_RESULTS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >搜索結果</txt_label></row>
+<row><id_name type="varchar" >_RE_NEW_PASS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >從新輸入新密碼</txt_label></row>
+<row><id_name type="varchar" >_RE_PASSWORD</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >從新輸入密碼</txt_label></row>
+<row><id_name type="varchar" >_ROOT_DEPT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >初設部門</txt_label></row>
+<row><id_name type="varchar" >_ROWS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >項目</txt_label></row>
+<row><id_name type="varchar" >_SADAY</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >S</txt_label></row>
+<row><id_name type="varchar" >_SATURDAY</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >星期六</txt_label></row>
+<row><id_name type="varchar" >_SAT_DEPT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >客戶服務</txt_label></row>
+<row><id_name type="varchar" >_SAVE</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >存檔</txt_label></row>
+<row><id_name type="varchar" >_SCREEN</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >Screen</txt_label></row>
+<row><id_name type="varchar" >_SCREENS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >Screens</txt_label></row>
+<row><id_name type="varchar" >_SCREEN_HAS_VIEW</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >Screen has views assigned.</txt_label></row>
+<row><id_name type="varchar" >_SDAY</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >S</txt_label></row>
+<row><id_name type="varchar" >_SEARCH_TITLE</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >搜尋</txt_label></row>
+<row><id_name type="varchar" >_SEASONS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >假日租賃的季節</txt_label></row>
+<row><id_name type="varchar" >_SEE2PRINT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >列印</txt_label></row>
+<row><id_name type="varchar" >_SEE_CYRILIC</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >顕示古代斯拉夫語字母</txt_label></row>
+<row><id_name type="varchar" >_SEE_LATIN1</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >顕示歐美字母</txt_label></row>
+<row><id_name type="varchar" >_SEGUROS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >保險</txt_label></row>
+<row><id_name type="varchar" >_SELECT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >選擇</txt_label></row>
+<row><id_name type="varchar" >_SELECTED</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >選擇</txt_label></row>
+<row><id_name type="varchar" >_SELECTLANGUAGE</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >選擇語文!</txt_label></row>
+<row><id_name type="varchar" >_SEND_OUTLOOK</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >發送到Outlook</txt_label></row>
+<row><id_name type="varchar" >_SEPTEMBER</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >九月</txt_label></row>
+<row><id_name type="varchar" >_SERVICES_LIST</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >服務標籤列表</txt_label></row>
+<row><id_name type="varchar" >_SET_ACTIVITIES</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >活動</txt_label></row>
+<row><id_name type="varchar" >_SET_EQUIP</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >器材</txt_label></row>
+<row><id_name type="varchar" >_SET_IMG_FRONT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >選擇主題圖像</txt_label></row>
+<row><id_name type="varchar" >_SET_INTRO</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >引入介紹</txt_label></row>
+<row><id_name type="varchar" >_SET_OBSERV</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >備忘錄</txt_label></row>
+<row><id_name type="varchar" >_SET_PROPERTIES</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >物業</txt_label></row>
+<row><id_name type="varchar" >_SET_SERVICES</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >服務</txt_label></row>
+<row><id_name type="varchar" >_SHOW_GAL</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >顯示圖庫</txt_label></row>
+<row><id_name type="varchar" >_SINFO</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >要求訊息</txt_label></row>
+<row><id_name type="varchar" >_SINFO_ADVERT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >一般常規, 任何你所提供的資訊, 只用於此網站. 除非先得到你的同意,資料絕不會供給第三方作其他用途.</txt_label></row>
+<row><id_name type="varchar" >_SINFO_CONFIRM</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >成功送出接洽表單.</txt_label></row>
+<row><id_name type="varchar" >_SINFO_TXT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >請提供你個人的資料,我們將盡快和你聯絡.</txt_label></row>
+<row><id_name type="varchar" >_SLOGAN</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >地產管理</txt_label></row>
+<row><id_name type="varchar" >_START</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >主頁</txt_label></row>
+<row><id_name type="varchar" >_STATE</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >洲</txt_label></row>
+<row><id_name type="varchar" >_STATISTICS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >存取統計</txt_label></row>
+<row><id_name type="varchar" >_SUBJECT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >主旨</txt_label></row>
+<row><id_name type="varchar" >_SUBS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >登記</txt_label></row>
+<row><id_name type="varchar" >_SUBS_PHRASE</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >訂閱我們的新聞怏報</txt_label></row>
+<row><id_name type="varchar" >_SUBS_TXT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >為了避免其他用戶以你的名義登記,你將會收到我們發出的郵電用作確認登記. 你憑藉此登記表格訂閱新聞快報.</txt_label></row>
+<row><id_name type="varchar" >_SUNDAY</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >星期日</txt_label></row>
+<row><id_name type="varchar" >_SUPPORT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >支援</txt_label></row>
+<row><id_name type="varchar" >_TDAY</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >T</txt_label></row>
+<row><id_name type="varchar" >_TEAM_ACCOUNTS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >我群組的賬戶</txt_label></row>
+<row><id_name type="varchar" >_TEAM_IMMOS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >我群組的物業</txt_label></row>
+<row><id_name type="varchar" >_TEAM_TICKETS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >我群組的票據</txt_label></row>
+<row><id_name type="varchar" >_THDAY</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TH</txt_label></row>
+<row><id_name type="varchar" >_THEMES</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_THOUSANDS_SEP</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >,</txt_label></row>
+<row><id_name type="varchar" >_THUMB</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >照片</txt_label></row>
+<row><id_name type="varchar" >_THURSDAY</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >星期四</txt_label></row>
+<row><id_name type="varchar" >_TICKETS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >票據</txt_label></row>
+<row><id_name type="varchar" >_TITLE_LOGIN</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >管理員區</txt_label></row>
+<row><id_name type="varchar" >_TK_CTG_LST</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_TOCLOSE</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_TODO</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >動作</txt_label></row>
+<row><id_name type="varchar" >_TOEND</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >完結</txt_label></row>
+<row><id_name type="varchar" >_TOTAL</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >總額</txt_label></row>
+<row><id_name type="varchar" >_TOT_GST</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >開支總額 :</txt_label></row>
+<row><id_name type="varchar" >_TOY_INTERES</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >接洽這物業的業主</txt_label></row>
+<row><id_name type="varchar" >_TP_PRICE</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >價格種類</txt_label></row>
+<row><id_name type="varchar" >_TP_PROPIEDAD</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >物業類型</txt_label></row>
+<row><id_name type="varchar" >_TP_SDAYS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >類型</txt_label></row>
+<row><id_name type="varchar" >_TP_SEND</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >送出類型</txt_label></row>
+<row><id_name type="varchar" >_TP_SEND_TO</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >送到</txt_label></row>
+<row><id_name type="varchar" >_TP_SERVICIO</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >交易</txt_label></row>
+<row><id_name type="varchar" >_TP_STATE</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >州</txt_label></row>
+<row><id_name type="varchar" >_TP_VAT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >加值稅 %</txt_label></row>
+<row><id_name type="varchar" >_TUESDAY</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >星期二</txt_label></row>
+<row><id_name type="varchar" >_TXT_ADDRESS1</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >地址</txt_label></row>
+<row><id_name type="varchar" >_TXT_AGE</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >年齡</txt_label></row>
+<row><id_name type="varchar" >_TXT_ASUNT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >主題</txt_label></row>
+<row><id_name type="varchar" >_TXT_COMMENT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >評語</txt_label></row>
+<row><id_name type="varchar" >_TXT_COMO</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >你如何找到我們呢 ?</txt_label></row>
+<row><id_name type="varchar" >_TXT_CONTENT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >內容</txt_label></row>
+<row><id_name type="varchar" >_TXT_COUNTRY</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >國家</txt_label></row>
+<row><id_name type="varchar" >_TXT_CP</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >郵政區號</txt_label></row>
+<row><id_name type="varchar" >_TXT_DESC</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >說明</txt_label></row>
+<row><id_name type="varchar" >_TXT_EMAIL</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >郵電</txt_label></row>
+<row><id_name type="varchar" >_TXT_EMAIL1</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >郵電</txt_label></row>
+<row><id_name type="varchar" >_TXT_ES</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >價值</txt_label></row>
+<row><id_name type="varchar" >_TXT_FAX</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >傳真號碼</txt_label></row>
+<row><id_name type="varchar" >_TXT_MAILING</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >用郵件活動你可以向你的客戶們發出大量的郵電</txt_label></row>
+<row><id_name type="varchar" >_TXT_OBSRV</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >說明</txt_label></row>
+<row><id_name type="varchar" >_TXT_POBLACION</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >城市</txt_label></row>
+<row><id_name type="varchar" >_TXT_SEARCH</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >搜索字句</txt_label></row>
+<row><id_name type="varchar" >_TXT_SIGN</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_TXT_SUBJECT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >主題</txt_label></row>
+<row><id_name type="varchar" >_TXT_TELF1</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >電話號碼</txt_label></row>
+<row><id_name type="varchar" >_TXT_TELF2</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >電話號碼 #2</txt_label></row>
+<row><id_name type="varchar" >_TXT_TITLE</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" > 標題</txt_label></row>
+<row><id_name type="varchar" >_TXT_UNREG</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >你收到此訊息因為你有意訂閱我們的新聞郵件. 假如你不想再收到更多的郵電 :</txt_label></row>
+<row><id_name type="varchar" >_TXT_URL</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >網址</txt_label></row>
+<row><id_name type="varchar" >_TXT_WEB</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >網頁</txt_label></row>
+<row><id_name type="varchar" >_TXT_ZONA</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >地區</txt_label></row>
+<row><id_name type="varchar" >_UMONTH</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >月</txt_label></row>
+<row><id_name type="varchar" >_UNREG</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >終止訂閱</txt_label></row>
+<row><id_name type="varchar" >_UNTITLED</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >沒有標題</txt_label></row>
+<row><id_name type="varchar" >_UPDATE</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >更新</txt_label></row>
+<row><id_name type="varchar" >_UPDATED</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >已成功更新</txt_label></row>
+<row><id_name type="varchar" >_USED_PROP</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >二手物業</txt_label></row>
+<row><id_name type="varchar" >_USER</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >用戶</txt_label></row>
+<row><id_name type="varchar" >_USERNAME</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >用戶</txt_label></row>
+<row><id_name type="varchar" >_USER_DELETED</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >已成功刪去用戶</txt_label></row>
+<row><id_name type="varchar" >_USER_HAS_PST</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >用戶已有了職位內容. 請先刪去職位</txt_label></row>
+<row><id_name type="varchar" >_USER_INSERTED</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >已成功加入用戶</txt_label></row>
+<row><id_name type="varchar" >_USER_TYPE</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >類型</txt_label></row>
+<row><id_name type="varchar" >_USR_BOOK_NOVALID</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_USR_CONFIRM</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >你的登記有效.</txt_label></row>
+<row><id_name type="varchar" >_USR_NOCONFIRM</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >登記過程出錯了.</txt_label></row>
+<row><id_name type="varchar" >_USR_NOUNREG</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >你終止訂閱的指示還沒有經過驗證. 如果你收到更多郵電,請跟客務部接洽.</txt_label></row>
+<row><id_name type="varchar" >_USR_UNREG</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >你終止訂閱的指示在處理中.</txt_label></row>
+<row><id_name type="varchar" >_VALUE</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_VERACCS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >賬戶搜索</txt_label></row>
+<row><id_name type="varchar" >_VERBOOKINGS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_VERCONFIG</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >標籤配置</txt_label></row>
+<row><id_name type="varchar" >_VERCOUNTRIES</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_VERGAL</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >畫廊</txt_label></row>
+<row><id_name type="varchar" >_VERHTML</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >內容</txt_label></row>
+<row><id_name type="varchar" >_VERIMMO</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >搜索物業</txt_label></row>
+<row><id_name type="varchar" >_VERINTROS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >推介標籤</txt_label></row>
+<row><id_name type="varchar" >_VERLABELS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_VERMAILINGS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >郵件活動</txt_label></row>
+<row><id_name type="varchar" >_VERNOT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >新聞及活動</txt_label></row>
+<row><id_name type="varchar" >_VERORGS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >組織</txt_label></row>
+<row><id_name type="varchar" >_VERPERMS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >角式列表 / 簡介</txt_label></row>
+<row><id_name type="varchar" >_VERPOBS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >使用中的城市</txt_label></row>
+<row><id_name type="varchar" >_VERPRD</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >產品</txt_label></row>
+<row><id_name type="varchar" >_VERPREFS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_VERPRICELST</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >價格表</txt_label></row>
+<row><id_name type="varchar" >_VERPRICEPRD</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >產品和價格</txt_label></row>
+<row><id_name type="varchar" >_VERPROPER</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >推介物業標籤</txt_label></row>
+<row><id_name type="varchar" >_VERSCR</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >Screen清單t</txt_label></row>
+<row><id_name type="varchar" >_VERSEASONS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >季節列表</txt_label></row>
+<row><id_name type="varchar" >_VERTICKETS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_VERTKCTGS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_VERTKEMAILS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_VERUSERS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >用戶名單</txt_label></row>
+<row><id_name type="varchar" >_VERVIEWS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >Views清單</txt_label></row>
+<row><id_name type="varchar" >_VER_PERFIL</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >賬戶</txt_label></row>
+<row><id_name type="varchar" >_VIEW</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >View</txt_label></row>
+<row><id_name type="varchar" >_VIEWED</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >觀看過</txt_label></row>
+<row><id_name type="varchar" >_VIEWS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >Views</txt_label></row>
+<row><id_name type="varchar" >_VIEWS_LST</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >TO_TRANSLATE</txt_label></row>
+<row><id_name type="varchar" >_VIEW_FRONT_IN</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >新</txt_label></row>
+<row><id_name type="varchar" >_WANT_SELL</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >我想出售</txt_label></row>
+<row><id_name type="varchar" >_WANT_SELL_TXT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >獲取你物業的真正市值</txt_label></row>
+<row><id_name type="varchar" >_WDAY</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >W</txt_label></row>
+<row><id_name type="varchar" >_WEDNESDAY</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >星期三</txt_label></row>
+<row><id_name type="varchar" >_WORDS_TO_FIND</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >搜尋字句</txt_label></row>
+<row><id_name type="varchar" >_XMLNAV</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >XML 佈局檔案</txt_label></row>
+<row><id_name type="varchar" >_XMLOUTPUT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >XML 輸出檔案</txt_label></row>
+<row><id_name type="varchar" >_XMLPRT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >XML 列印佈局檔案</txt_label></row>
+<row><id_name type="varchar" >_XSLFILE</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >XSL 轉變檔案</txt_label></row>
+<row><id_name type="varchar" >_XSLPRT</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >XSL 列印佈局檔案</txt_label></row>
+<row><id_name type="varchar" >_YEAR</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >年</txt_label></row>
+<row><id_name type="varchar" >_YEARS</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >年數</txt_label></row>
+<row><id_name type="varchar" >_YOUR_LOAN</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >你的借貸</txt_label></row>
+<row><id_name type="varchar" >_ZIP_FILE</id_name><cod_lang type="char"  label="Language">zh-tw</cod_lang><txt_label type="varchar" >ZIP壓縮檔案</txt_label></row>
+</labels>
+<lists>
+<row><id_name type="varchar" >_LST_ACTIVITIES</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >遠足</txt_value></row>
+<row><id_name type="varchar" >_LST_ACTIVITIES</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >遠離道路</txt_value></row>
+<row><id_name type="varchar" >_LST_ACTIVITIES</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >過山腳踏車</txt_value></row>
+<row><id_name type="varchar" >_LST_ACTIVITIES</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >帆傘運動</txt_value></row>
+<row><id_name type="varchar" >_LST_ACTIVITIES</id_name><txt_code type="varchar" >5</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">5</num_order><txt_value type="varchar" >沙灘</txt_value></row>
+<row><id_name type="varchar" >_LST_ACTIVITIES</id_name><txt_code type="varchar" >6</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">6</num_order><txt_value type="varchar" >出租艇和機動船</txt_value></row>
+<row><id_name type="varchar" >_LST_ACTIVITIES</id_name><txt_code type="varchar" >7</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">7</num_order><txt_value type="varchar" >釣魚</txt_value></row>
+<row><id_name type="varchar" >_LST_ACTIVITIES</id_name><txt_code type="varchar" >8</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">8</num_order><txt_value type="varchar" >夜生活</txt_value></row>
+<row><id_name type="varchar" >_LST_ACTIVITIES</id_name><txt_code type="varchar" >9</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">9</num_order><txt_value type="varchar" >賭場</txt_value></row>
+<row><id_name type="varchar" >_LST_DT_VAL</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >有效期</txt_value></row>
+<row><id_name type="varchar" >_LST_DT_VAL</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >過期</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >電視</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >10</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">10</num_order><txt_value type="varchar" >Canal Plus</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >11</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">11</num_order><txt_value type="varchar" >吹風機</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >12</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">12</num_order><txt_value type="varchar" >日光浴室</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >13</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">13</num_order><txt_value type="varchar" >油炸煎鍋</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >14</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">14</num_order><txt_value type="varchar" >爐</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >15</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">15</num_order><txt_value type="varchar" >灶</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >16</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">16</num_order><txt_value type="varchar" >微波爐</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >光盤播放器</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >寬頻上網</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >洗衣機</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >5</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">5</num_order><txt_value type="varchar" >洗碗礫機</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >6</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">6</num_order><txt_value type="varchar" >全套餐具</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >7</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">7</num_order><txt_value type="varchar" >床單毛毯</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >8</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">8</num_order><txt_value type="varchar" >電話</txt_value></row>
+<row><id_name type="varchar" >_LST_EQUIP</id_name><txt_code type="varchar" >9</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">9</num_order><txt_value type="varchar" >衛星電視</txt_value></row>
+<row><id_name type="varchar" >_LST_IND_ACTIVE</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >是</txt_value></row>
+<row><id_name type="varchar" >_LST_IND_ACTIVE</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >否</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" > 動人的樓層</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >10</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">10</num_order><txt_value type="varchar" >雙層樓房</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >11</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">11</num_order><txt_value type="varchar" >地層</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >12</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">12</num_order><txt_value type="varchar" >近頂樓樓層</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >13</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">13</num_order><txt_value type="varchar" >地中海石masia</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >14</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">14</num_order><txt_value type="varchar" >村屋</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >15</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">15</num_order><txt_value type="varchar" >接近全新樓層</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >16</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">16</num_order><txt_value type="varchar" >接近全新房屋</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >17</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">17</num_order><txt_value type="varchar" >重建Masia</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >18</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">18</num_order><txt_value type="varchar" >接近全新頂層房間</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >19</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">19</num_order><txt_value type="varchar" >重建樓房</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >平臺房屋</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >20</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">20</num_order><txt_value type="varchar" >商務房屋</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >21</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">21</num_order><txt_value type="varchar" >餐廳</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >22</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">22</num_order><txt_value type="varchar" >酒吧</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >23</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">23</num_order><txt_value type="varchar" >倉庫</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >24</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">24</num_order><txt_value type="varchar" >室</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >25</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">25</num_order><txt_value type="varchar" >頂層雙層樓公寓</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >26</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">26</num_order><txt_value type="varchar" >工作室</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >27</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">27</num_order><txt_value type="varchar" >房間</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >28</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">28</num_order><txt_value type="varchar" >房屋</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >29</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">29</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >高貴的樓層</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >30</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">30</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >古代房屋</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >5</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">5</num_order><txt_value type="varchar" >拆卸房屋</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >6</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">6</num_order><txt_value type="varchar" >房屋</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >7</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">7</num_order><txt_value type="varchar" >交野房屋</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >8</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">8</num_order><txt_value type="varchar" >非凡樓層</txt_value></row>
+<row><id_name type="varchar" >_LST_INTRO</id_name><txt_code type="varchar" >9</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">9</num_order><txt_value type="varchar" >頂樓公寓</txt_value></row>
+<row><id_name type="varchar" >_LST_NEWS_POS</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >凍結</txt_value></row>
+<row><id_name type="varchar" >_LST_NEWS_POS</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >否</txt_value></row>
+<row><id_name type="varchar" >_LST_NEWS_POS</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >主要</txt_value></row>
+<row><id_name type="varchar" >_LST_NUMBERS_OP</id_name><txt_code type="varchar" ></txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >任何</txt_value></row>
+<row><id_name type="varchar" >_LST_NUMBERS_OP</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >1</txt_value></row>
+<row><id_name type="varchar" >_LST_NUMBERS_OP</id_name><txt_code type="varchar" >10</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">11</num_order><txt_value type="varchar" >10</txt_value></row>
+<row><id_name type="varchar" >_LST_NUMBERS_OP</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >2</txt_value></row>
+<row><id_name type="varchar" >_LST_NUMBERS_OP</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >3</txt_value></row>
+<row><id_name type="varchar" >_LST_NUMBERS_OP</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">5</num_order><txt_value type="varchar" >4</txt_value></row>
+<row><id_name type="varchar" >_LST_NUMBERS_OP</id_name><txt_code type="varchar" >5</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">6</num_order><txt_value type="varchar" >5</txt_value></row>
+<row><id_name type="varchar" >_LST_NUMBERS_OP</id_name><txt_code type="varchar" >6</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">7</num_order><txt_value type="varchar" >6</txt_value></row>
+<row><id_name type="varchar" >_LST_NUMBERS_OP</id_name><txt_code type="varchar" >7</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">8</num_order><txt_value type="varchar" >7</txt_value></row>
+<row><id_name type="varchar" >_LST_NUMBERS_OP</id_name><txt_code type="varchar" >8</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">9</num_order><txt_value type="varchar" >8</txt_value></row>
+<row><id_name type="varchar" >_LST_NUMBERS_OP</id_name><txt_code type="varchar" >9</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">10</num_order><txt_value type="varchar" >9</txt_value></row>
+<row><id_name type="varchar" >_LST_OBSERV</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >不可養寵物</txt_value></row>
+<row><id_name type="varchar" >_LST_ORDER</id_name><txt_code type="varchar" >ASC</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >順序</txt_value></row>
+<row><id_name type="varchar" >_LST_ORDER</id_name><txt_code type="varchar" >DESC</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >反順序</txt_value></row>
+<row><id_name type="varchar" >_LST_PISCINA</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >否</txt_value></row>
+<row><id_name type="varchar" >_LST_PISCINA</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >私人泳池</txt_value></row>
+<row><id_name type="varchar" >_LST_PISCINA</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >公共泳池</txt_value></row>
+<row><id_name type="varchar" >_LST_POSIMG</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >右</txt_value></row>
+<row><id_name type="varchar" >_LST_POSIMG</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >左</txt_value></row>
+<row><id_name type="varchar" >_LST_POSIMG</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >頂部</txt_value></row>
+<row><id_name type="varchar" >_LST_POSIMG</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >底部</txt_value></row>
+<row><id_name type="varchar" >_LST_POSITIONS</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >銷售代理人</txt_value></row>
+<row><id_name type="varchar" >_LST_POSITIONS</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >群組經理人</txt_value></row>
+<row><id_name type="varchar" >_LST_POSITIONS</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >總裁</txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" ></txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" > </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >10000</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >10.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >100000</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">8</num_order><txt_value type="varchar" >100.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >1000000</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">23</num_order><txt_value type="varchar" >1.000.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >1200000</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">24</num_order><txt_value type="varchar" >1.200.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >130000</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">9</num_order><txt_value type="varchar" >130.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >1400000</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">25</num_order><txt_value type="varchar" >1.400.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >160000</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">10</num_order><txt_value type="varchar" >160.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >1600000</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">26</num_order><txt_value type="varchar" >1.600.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >1800000</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">27</num_order><txt_value type="varchar" >1.800.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >20000</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >20.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >200000</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">11</num_order><txt_value type="varchar" >200.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >2000000</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">28</num_order><txt_value type="varchar" >2.000.000</txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >230000</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">12</num_order><txt_value type="varchar" >230.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >260000</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">13</num_order><txt_value type="varchar" >260.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >30000</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >30.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >300000</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">14</num_order><txt_value type="varchar" >300.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >330000</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">15</num_order><txt_value type="varchar" >330.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >360000</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">16</num_order><txt_value type="varchar" >360.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >40000</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">5</num_order><txt_value type="varchar" >40.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >400000</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">17</num_order><txt_value type="varchar" >400.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >500000</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">18</num_order><txt_value type="varchar" >500.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >60000</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">6</num_order><txt_value type="varchar" >60.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >600000</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">19</num_order><txt_value type="varchar" >600.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >700000</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">20</num_order><txt_value type="varchar" >700.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >80000</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">7</num_order><txt_value type="varchar" >80.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >800000</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">21</num_order><txt_value type="varchar" >800.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PRICE</id_name><txt_code type="varchar" >900000</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">22</num_order><txt_value type="varchar" >900.000 </txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >10</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">10</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >11</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">11</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >12</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">12</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >13</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">13</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >14</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">14</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >15</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">15</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >16</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">16</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >17</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">17</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >18</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">18</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >19</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">19</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >20</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">20</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >21</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">21</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >22</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">22</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >23</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">23</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >24</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">24</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >25</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">25</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >26</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">26</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >27</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">27</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >28</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">28</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >29</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">29</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >30</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">30</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >31</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">31</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >32</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">32</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >33</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">33</num_order><txt_value type="varchar" >40</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >34</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">34</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >35</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">35</num_order><txt_value type="varchar" >8</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >36</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">36</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >37</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">37</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >38</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">38</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >39</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">39</num_order><txt_value type="varchar" >40</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >40</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">40</num_order><txt_value type="varchar" >40</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >41</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">41</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >42</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">42</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >43</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">43</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >44</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">44</num_order><txt_value type="varchar" >40</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >5</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">5</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >6</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">6</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >7</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">7</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >8</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">8</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERORD</id_name><txt_code type="varchar" >9</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">9</num_order><txt_value type="varchar" >20</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >完整重建</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >10</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">10</num_order><txt_value type="varchar" >煙通</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >11</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">11</num_order><txt_value type="varchar" >開放式廚房</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >12</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">12</num_order><txt_value type="varchar" >天然氣</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >13</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">13</num_order><txt_value type="varchar" >陶器</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >14</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">14</num_order><txt_value type="varchar" >大飯廳</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >15</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">15</num_order><txt_value type="varchar" >地下室</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >16</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">16</num_order><txt_value type="varchar" >洗衣房</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >17</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">17</num_order><txt_value type="varchar" >杯櫃</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >18</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">18</num_order><txt_value type="varchar" >多用途房間</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >19</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">19</num_order><txt_value type="varchar" >社區</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >接近市中心</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >20</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">20</num_order><txt_value type="varchar" >拼花地板</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >21</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">21</num_order><txt_value type="varchar" >裝修</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >22</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">22</num_order><txt_value type="varchar" >近海沙灘</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >23</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">23</num_order><txt_value type="varchar" >升降機</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >24</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">24</num_order><txt_value type="varchar" >陽臺</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >25</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">25</num_order><txt_value type="varchar" >噴水按摩浴缸</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >26</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">26</num_order><txt_value type="varchar" >備用停車間</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >27</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">27</num_order><txt_value type="varchar" >風景區</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >28</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">28</num_order><txt_value type="varchar" >日光浴室</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >29</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">29</num_order><txt_value type="varchar" >兒童遊樂場</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >私家花園</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >30</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">30</num_order><txt_value type="varchar" >平原土地</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >31</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">31</num_order><txt_value type="varchar" >尚好佈置</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >32</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">32</num_order><txt_value type="varchar" >海景</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >33</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">33</num_order><txt_value type="varchar" >豪華裝修</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >34</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">34</num_order><txt_value type="varchar" >物業管理</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >35</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">35</num_order><txt_value type="varchar" >光芒</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >36</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">36</num_order><txt_value type="varchar" >庭院</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >37</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">37</num_order><txt_value type="varchar" >套裝</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >38</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">38</num_order><txt_value type="varchar" >頂樓房間</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >39</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">39</num_order><txt_value type="varchar" >可即入伙</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >平頂</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >40</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">40</num_order><txt_value type="varchar" >獨特</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >41</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">41</num_order><txt_value type="varchar" >工作室</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >42</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">42</num_order><txt_value type="varchar" >優雅環境</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >43</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">43</num_order><txt_value type="varchar" >多露臺</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >44</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">44</num_order><txt_value type="varchar" >完美狀態</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >5</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">5</num_order><txt_value type="varchar" >日光充沛</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >6</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">6</num_order><txt_value type="varchar" >向外</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >7</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">7</num_order><txt_value type="varchar" >觀景</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >8</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">8</num_order><txt_value type="varchar" >暖氣設備</txt_value></row>
+<row><id_name type="varchar" >_LST_PROPERTIES</id_name><txt_code type="varchar" >9</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">9</num_order><txt_value type="varchar" >空調設備</txt_value></row>
+<row><id_name type="varchar" >_LST_PROVA</id_name><txt_code type="varchar" ></txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_PROVA</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_PROVA</id_name><txt_code type="varchar" >blank</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">6</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_PROVA</id_name><txt_code type="varchar" >cod2</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">6</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_PROVA</id_name><txt_code type="varchar" >cod4</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_PROVA</id_name><txt_code type="varchar" >eeee</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_ROLES</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >用戶</txt_value></row>
+<row><id_name type="varchar" >_LST_ROLES</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >主任</txt_value></row>
+<row><id_name type="varchar" >_LST_ROLES</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >管理員</txt_value></row>
+<row><id_name type="varchar" >_LST_SERVICES</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >洗衣房</txt_value></row>
+<row><id_name type="varchar" >_LST_SERVICES</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >托兒所</txt_value></row>
+<row><id_name type="varchar" >_LST_SERVICES</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >房間服務</txt_value></row>
+<row><id_name type="varchar" >_LST_SERVICES</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >小食店</txt_value></row>
+<row><id_name type="varchar" >_LST_SERVICES</id_name><txt_code type="varchar" >5</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">5</num_order><txt_value type="varchar" >餐廳</txt_value></row>
+<row><id_name type="varchar" >_LST_TK_PRIORITY</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TK_PRIORITY</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TK_PRIORITY</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TK_PRIORITY</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TK_STATE</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TK_STATE</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TK_STATE</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TK_STATE</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TK_STATE</id_name><txt_code type="varchar" >5</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">5</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TK_STATE</id_name><txt_code type="varchar" >6</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">6</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_ACCSTATE</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >使用中</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_ACCSTATE</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >不使用中</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_ACCSTATE</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >待驗證</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_GALLERY</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >用戶</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_GALLERY</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >旅舍</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_OFERTA</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >否</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_OFERTA</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >推荐</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_OFERTA</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >特別</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_PRICE</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" ></txt_value></row>
+<row><id_name type="varchar" >_LST_TP_PRICE</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >每天</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_PRICE</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >每月</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_PRICE</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >每星期</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_PRICE</id_name><txt_code type="varchar" >5</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">5</num_order><txt_value type="varchar" >星期尾</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_PROPIEDAD</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >樓層</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_PROPIEDAD</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >商用樓宇櫻</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_PROPIEDAD</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >屋宇</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_PROPIEDAD</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >房間</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_PROPIEDAD</id_name><txt_code type="varchar" >5</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">5</num_order><txt_value type="varchar" >土地</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_PROPIEDAD</id_name><txt_code type="varchar" >6</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">6</num_order><txt_value type="varchar" >其他</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_RESERVSTATE</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >TO TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_RESERVSTATE</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_RESERVSTATE</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_RESERVSTATE</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_RESERVSTATE</id_name><txt_code type="varchar" >5</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">5</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_SDAYS</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >關閉</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_SDAYS</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >淡季</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_SDAYS</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >平常</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_SDAYS</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >旺季</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_SEND</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >Text</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_SEND</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >html</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_SEND_TO</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >發送到已登記的收郵電者</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_SEND_TO</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >發送到全體</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_SERVICIO</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >銷售</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_SERVICIO</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >出租</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_SERVICIO</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >度假屋</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_SERVICIO</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >新建築物</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_STATE</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >使用</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_STATE</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >不使用</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_STATE</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >已售</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_STATE</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >出租</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_STATE</id_name><txt_code type="varchar" >5</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">5</num_order><txt_value type="varchar" >暫緩</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_STE_MAIL</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >暫緩</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_STE_MAIL</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >送出</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_STE_MAIL</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >待命</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_STE_MAIL</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >錯誤</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_STE_PRC</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >使用中</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_STE_PRC</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >不使用中</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_STE_PRC</id_name><txt_code type="varchar" >3</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >確認中</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_VAT</id_name><txt_code type="varchar" >0</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >免稅</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_VAT</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >TO_TRANSLATE</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_VAT</id_name><txt_code type="varchar" >16</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >16%</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_VAT</id_name><txt_code type="varchar" >4</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">4</num_order><txt_value type="varchar" >4%</txt_value></row>
+<row><id_name type="varchar" >_LST_TP_VAT</id_name><txt_code type="varchar" >7</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">3</num_order><txt_value type="varchar" >7%</txt_value></row>
+<row><id_name type="varchar" >_LST_USER_TYPES</id_name><txt_code type="varchar" >1</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">1</num_order><txt_value type="varchar" >雇員</txt_value></row>
+<row><id_name type="varchar" >_LST_USER_TYPES</id_name><txt_code type="varchar" >2</txt_code><cod_lang type="char"  label="Language">zh-tw</cod_lang><num_order type="int"  label="Show Order">2</num_order><txt_value type="varchar" >客戶</txt_value></row>
+</lists>
+</root>

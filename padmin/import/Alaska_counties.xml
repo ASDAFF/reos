@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<provincia>
+<row><id_prov type="smallint" >425</id_prov><id_comunidad type="smallint" >266</id_comunidad><prov_name type="varchar"  label="County">Prince of Wales-Outer Ketchikan</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >426</id_prov><id_comunidad type="smallint" >266</id_comunidad><prov_name type="varchar"  label="County">Sitka</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >427</id_prov><id_comunidad type="smallint" >266</id_comunidad><prov_name type="varchar"  label="County">Denali</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >428</id_prov><id_comunidad type="smallint" >266</id_comunidad><prov_name type="varchar"  label="County">Aleutians West</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >429</id_prov><id_comunidad type="smallint" >266</id_comunidad><prov_name type="varchar"  label="County">Lake and Peninsula</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >430</id_prov><id_comunidad type="smallint" >266</id_comunidad><prov_name type="varchar"  label="County">Aleutians East</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >431</id_prov><id_comunidad type="smallint" >266</id_comunidad><prov_name type="varchar"  label="County">North Slope</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >432</id_prov><id_comunidad type="smallint" >266</id_comunidad><prov_name type="varchar"  label="County">Valdez-Cordova</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >433</id_prov><id_comunidad type="smallint" >266</id_comunidad><prov_name type="varchar"  label="County">Wade Hampton</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >434</id_prov><id_comunidad type="smallint" >266</id_comunidad><prov_name type="varchar"  label="County">Skagway-Hoonah-Angoon</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >435</id_prov><id_comunidad type="smallint" >266</id_comunidad><prov_name type="varchar"  label="County">Northwest Arctic</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >436</id_prov><id_comunidad type="smallint" >266</id_comunidad><prov_name type="varchar"  label="County">Ketchikan Gateway</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >437</id_prov><id_comunidad type="smallint" >266</id_comunidad><prov_name type="varchar"  label="County">Dillingham</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >438</id_prov><id_comunidad type="smallint" >266</id_comunidad><prov_name type="varchar"  label="County">Yakutat</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >439</id_prov><id_comunidad type="smallint" >266</id_comunidad><prov_name type="varchar"  label="County">Fairbanks North Star</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >440</id_prov><id_comunidad type="smallint" >266</id_comunidad><prov_name type="varchar"  label="County">Kenai Peninsula</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >441</id_prov><id_comunidad type="smallint" >266</id_comunidad><prov_name type="varchar"  label="County">Wrangell-Petersburg</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >442</id_prov><id_comunidad type="smallint" >266</id_comunidad><prov_name type="varchar"  label="County">Bristol Bay</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >443</id_prov><id_comunidad type="smallint" >266</id_comunidad><prov_name type="varchar"  label="County">Matanuska-Susitna</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >444</id_prov><id_comunidad type="smallint" >266</id_comunidad><prov_name type="varchar"  label="County">Haines</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >445</id_prov><id_comunidad type="smallint" >266</id_comunidad><prov_name type="varchar"  label="County">Kodiak Island</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >446</id_prov><id_comunidad type="smallint" >266</id_comunidad><prov_name type="varchar"  label="County">Southeast Fairbanks</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >447</id_prov><id_comunidad type="smallint" >266</id_comunidad><prov_name type="varchar"  label="County">Nome</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >448</id_prov><id_comunidad type="smallint" >266</id_comunidad><prov_name type="varchar"  label="County">Juneau</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >449</id_prov><id_comunidad type="smallint" >266</id_comunidad><prov_name type="varchar"  label="County">Yukon-Koyukuk</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >450</id_prov><id_comunidad type="smallint" >266</id_comunidad><prov_name type="varchar"  label="County">Anchorage</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+<row><id_prov type="smallint" >451</id_prov><id_comunidad type="smallint" >266</id_comunidad><prov_name type="varchar"  label="County">Bethel</prov_name><ind_active type="tinyint"  label="Active">1</ind_active></row>
+</provincia>
+</root>

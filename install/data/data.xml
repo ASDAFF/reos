@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<org>
+<row><id_org type="int" >1</id_org><id_perm type="int" >7</id_perm><name_org type="varchar"  label="Office">Default Org. Name</name_org><txt_address1 type="varchar"  label="Address">Avda de Roma,141 1 1</txt_address1><txt_poblacion type="varchar"  label="City">Abrera</txt_poblacion><txt_zona type="varchar"  label="Zone">La Bobila</txt_zona><txt_cp type="varchar"  label="Postal Code">08011</txt_cp><txt_telf1 type="varchar"  label="Phone Number">922535688</txt_telf1><txt_fax type="varchar"  label="Fax">922535688</txt_fax><txt_email1 type="varchar"  label="eMail">info@elazos.com</txt_email1><txt_web type="varchar"  label="Web">www.elazos.com</txt_web></row>
+<row><id_org type="int" >2</id_org><parent_id_org type="int" >1</parent_id_org><id_perm type="int" >3</id_perm><root_id_org type="int" >1</root_id_org><name_org type="varchar"  label="Office">Accounting</name_org><txt_poblacion type="varchar"  label="City">New york</txt_poblacion></row>
+<row><id_org type="int" >3</id_org><parent_id_org type="int" >1</parent_id_org><id_perm type="int" >1</id_perm><root_id_org type="int" >1</root_id_org><name_org type="varchar"  label="Office">Information Technology</name_org><txt_poblacion type="varchar"  label="City">New york</txt_poblacion></row>
+<row><id_org type="int" >4</id_org><parent_id_org type="int" >1</parent_id_org><id_perm type="int" >6</id_perm><root_id_org type="int" >1</root_id_org><name_org type="varchar"  label="Office">Sales </name_org><txt_poblacion type="varchar"  label="City">New york</txt_poblacion></row>
+<row><id_org type="int" >11</id_org><parent_id_org type="int" >4</parent_id_org><id_perm type="int" >4</id_perm><root_id_org type="int" >1</root_id_org><name_org type="varchar"  label="Office">Sales Central</name_org><txt_poblacion type="varchar"  label="City">Wichita</txt_poblacion></row>
+<row><id_org type="int" >12</id_org><parent_id_org type="int" >4</parent_id_org><id_perm type="int" >4</id_perm><root_id_org type="int" >1</root_id_org><name_org type="varchar"  label="Office">North Sales </name_org><txt_poblacion type="varchar"  label="City">Boston</txt_poblacion><txt_zona type="varchar"  label="Zone">Beacon Hill</txt_zona></row>
+<row><id_org type="int" >13</id_org><parent_id_org type="int" >12</parent_id_org><id_perm type="int" >5</id_perm><root_id_org type="int" >1</root_id_org><name_org type="varchar"  label="Office">North Sales Team</name_org><txt_poblacion type="varchar"  label="City">Saint paul</txt_poblacion><txt_zona type="varchar"  label="Zone">Lowertown</txt_zona></row>
+</org>
+<auth_user>
+<row><user_id type="varchar" >00dccf7459dfcd58930f465ed1fb07ad</user_id><id_org type="int" >1</id_org><username type="varchar"  label="User">master</username><password type="varchar"  label="Password">master</password><name_user type="varchar"  label="Employee  / User Name">Master User</name_user><txt_email type="varchar"  label="eMail">emai@email.com</txt_email><user_type type="smallint"  label="Type">1</user_type><txt_telf1 type="varchar"  label="Phone Number">9999999999999</txt_telf1><txt_telf2 type="varchar"  label="Phone Number #2">9999999999999</txt_telf2></row>
+<row><user_id type="varchar" >c14cbf141ab1b7cd009356f555b607dc</user_id><id_org type="int" >1</id_org><username type="varchar"  label="User">admin</username><password type="varchar"  label="Password">admin</password><name_user type="varchar"  label="Employee  / User Name">Administrator Name User</name_user><user_type type="smallint"  label="Type">1</user_type></row>
+<row><user_id type="varchar" >c14cbf141ab1b7cd009356f555b607dd</user_id><id_org type="int" >1</id_org><username type="varchar"  label="User">manager</username><password type="varchar"  label="Password">manager</password><name_user type="varchar"  label="Employee  / User Name">Manager User</name_user><txt_email type="varchar"  label="eMail">my@email.com</txt_email><user_type type="smallint"  label="Type">1</user_type><txt_telf1 type="varchar"  label="Phone Number">999999999</txt_telf1></row>
+<row><user_id type="varchar" >c14cbf141ab1b7cd009356f555b607de</user_id><id_org type="int" >1</id_org><username type="varchar"  label="User">tmember</username><password type="varchar"  label="Password">tmember</password><name_user type="varchar"  label="Employee  / User Name">Team Member User</name_user><txt_email type="varchar"  label="eMail">my@email.com</txt_email><user_type type="smallint"  label="Type">1</user_type><txt_telf1 type="varchar"  label="Phone Number">99999999</txt_telf1></row>
+<row><user_id type="varchar" >d24241e2a4bee52cff0143526a80f17b</user_id><id_org type="int" >1</id_org><username type="varchar"  label="User">tmanager</username><password type="varchar"  label="Password">tmanager</password><name_user type="varchar"  label="Employee  / User Name">Team Manager User</name_user><txt_email type="varchar"  label="eMail">my@email.com</txt_email><user_type type="smallint"  label="Type">1</user_type><txt_telf1 type="varchar"  label="Phone Number">99999999</txt_telf1></row>
+</auth_user>
+<position>
+<row><id_position type="int"  label="Assign to">1</id_position><id_org type="int" >1</id_org><user_id type="varchar" >c14cbf141ab1b7cd009356f555b607dc</user_id><name_position type="varchar"  label="Position">2</name_position></row>
+<row><id_position type="int"  label="Assign to">2</id_position><id_org type="int" >4</id_org><user_id type="varchar" >c14cbf141ab1b7cd009356f555b607dd</user_id><name_position type="varchar"  label="Position">2</name_position></row>
+<row><id_position type="int"  label="Assign to">3</id_position><id_org type="int" >13</id_org><user_id type="varchar" >c14cbf141ab1b7cd009356f555b607de</user_id><name_position type="varchar"  label="Position">1</name_position></row>
+<row><id_position type="int"  label="Assign to">4</id_position><id_org type="int" >12</id_org><user_id type="varchar" >d24241e2a4bee52cff0143526a80f17b</user_id><name_position type="varchar"  label="Position">2</name_position></row>
+<row><id_position type="int"  label="Assign to">5</id_position><id_org type="int" >3</id_org><user_id type="varchar" >00dccf7459dfcd58930f465ed1fb07ad</user_id><name_position type="varchar"  label="Position">2</name_position></row>
+</position>
+<prefs>
+<row><id_pref type="varchar" >_ACTIVE_LANGS</id_pref><vl_pref type="varchar" >en = English, es = Spanish, fr = French, nl = Ducth, ca = Catalan, de = German, tr = Turkish, zh-tw = Chinese-tw, zh-cn = Chinese-cn,ru=Russian,en-us=English-US</vl_pref><onload type="tinyint"  label="Load">1</onload></row>
+<row><id_pref type="varchar" >_CRYPT_LINKS</id_pref><vl_pref type="varchar" >0</vl_pref><onload type="tinyint"  label="Load">1</onload></row>
+<row><id_pref type="varchar" >_CURRENCY</id_pref><vl_pref type="varchar" >US$</vl_pref><onload type="tinyint"  label="Load">1</onload></row>
+<row><id_pref type="varchar" >_DEFAULT_LANG</id_pref><vl_pref type="varchar" >en</vl_pref><onload type="tinyint"  label="Load">1</onload></row>
+<row><id_pref type="varchar" >_DirLOGS</id_pref><vl_pref type="varchar" > </vl_pref><onload type="tinyint"  label="Load">0</onload></row>
+<row><id_pref type="varchar" >_GMAP_KEY</id_pref><vl_pref type="varchar" >ABQIAAAAXqhLkdc0bUs8sBT4Gb3cYBQNAhrwv2b04l8JGpHz7Ea3766UlxQEGMQBNrRH1HISmz_l77ghgjEUUQ</vl_pref><onload type="tinyint"  label="Load">0</onload></row>
+<row><id_pref type="varchar" >_GMAP_LAT</id_pref><vl_pref type="varchar" >40.04443758460856</vl_pref><onload type="tinyint"  label="Load">0</onload></row>
+<row><id_pref type="varchar" >_GMAP_LEVEL</id_pref><vl_pref type="varchar" >3</vl_pref><onload type="tinyint"  label="Load">0</onload></row>
+<row><id_pref type="varchar" >_GMAP_LNG</id_pref><vl_pref type="varchar" >-96.50390625</vl_pref><onload type="tinyint"  label="Load">0</onload></row>
+<row><id_pref type="varchar" >_IMAGE_SIZE</id_pref><vl_pref type="varchar" >750</vl_pref><onload type="tinyint"  label="Load">0</onload></row>
+<row><id_pref type="varchar" >_IMG_NOT_FRONT</id_pref><vl_pref type="varchar" >150</vl_pref><onload type="tinyint"  label="Load">1</onload></row>
+<row><id_pref type="varchar" >_IMG_NOT_INT</id_pref><vl_pref type="varchar" >300</vl_pref><onload type="tinyint"  label="Load">1</onload></row>
+<row><id_pref type="varchar" >_KEYWORDS</id_pref><vl_pref type="varchar" >Real Estate</vl_pref><onload type="tinyint"  label="Load">1</onload></row>
+<row><id_pref type="varchar" >_LABEL_ORG</id_pref><vl_pref type="varchar" >Company Name</vl_pref><onload type="tinyint"  label="Load">1</onload></row>
+<row><id_pref type="varchar" >_MAIL_FUNCTION</id_pref><vl_pref type="varchar" >0</vl_pref><onload type="tinyint"  label="Load">1</onload></row>
+<row><id_pref type="varchar" >_MAIL_PWD</id_pref><vl_pref type="varchar" >xxxxxxx</vl_pref><onload type="tinyint"  label="Load">1</onload></row>
+<row><id_pref type="varchar" >_MAIL_USER</id_pref><vl_pref type="varchar" >xxxx@xxxxxx.com</vl_pref><onload type="tinyint"  label="Load">1</onload></row>
+<row><id_pref type="varchar" >_MAX_NEWS_BLOCK</id_pref><vl_pref type="varchar" >3</vl_pref><onload type="tinyint"  label="Load">1</onload></row>
+<row><id_pref type="varchar" >_MAX_NEWS_MAIN</id_pref><vl_pref type="varchar" >1</vl_pref><onload type="tinyint"  label="Load">1</onload></row>
+<row><id_pref type="varchar" >_NEWSLST_PAG</id_pref><vl_pref type="varchar" >50</vl_pref><onload type="tinyint"  label="Load">0</onload></row>
+<row><id_pref type="varchar" >_PERMALINKS</id_pref><vl_pref type="varchar" >0</vl_pref><onload type="tinyint"  label="Load">1</onload></row>
+<row><id_pref type="varchar" >_SAT_EMAIL</id_pref><vl_pref type="varchar" >xxxxx@xxxxx.com</vl_pref><onload type="tinyint"  label="Load">1</onload></row>
+<row><id_pref type="varchar" >_SMTP_HOST</id_pref><vl_pref type="varchar" >xxxx.xxxxx.com</vl_pref><onload type="tinyint"  label="Load">1</onload></row>
+<row><id_pref type="varchar" >_THEME_DIR</id_pref><vl_pref type="varchar" >blueline</vl_pref><onload type="tinyint"  label="Load">1</onload></row>
+<row><id_pref type="varchar" >_THUMB_SIZE</id_pref><vl_pref type="varchar" >132</vl_pref><onload type="tinyint"  label="Load">0</onload></row>
+<row><id_pref type="varchar" >_UrlSITE</id_pref><vl_pref type="varchar" >www.xxxxx.com</vl_pref><onload type="tinyint"  label="Load">1</onload></row>
+<row><id_pref type="varchar" >_VERSION</id_pref><vl_pref type="varchar" >2.0.5</vl_pref><onload type="tinyint"  label="Load">1</onload></row>
+<row><id_pref type="varchar" >_XMLOUTPUT2FILE</id_pref><vl_pref type="varchar" >0</vl_pref><onload type="tinyint"  label="Load">1</onload></row>
+</prefs>
+</root>
